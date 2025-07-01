@@ -1,0 +1,35 @@
+Monday, Sep 23, 2024 08:45 AM
+SETTINGS
+========
+genes:	 ['/mnt/projects/users/zday938/ad.files/gene_files/AD_lung_gene_list.txt']
+snps:	 None
+trait:	 None
+pmid:	 None
+grn_dir:	 /mnt/projects/tissue_maps/Lung
+gwas:	 /mnt/projects/users/zday938/ad.files/gwas_catalog_v1.0-associations_e112_r2024-08-12.tsv
+output_dir:	 /mnt/projects/users/zday938/ad.files/lung_morbid
+levels:	 4
+ppin:	 string
+string_score:	 0.9
+bootstrap:	 True
+bootstraps:	 500
+keep_bootstraps:	 False
+non_spatial:	 False
+non_spatial_dir:	 data/GTEx/
+snp_ref_dir:	 data/snps/
+gene_ref_dir:	 data/genes/
+ld:	 True
+correlation_threshold:	 0.8
+window:	 5000
+population:	 EUR
+ld_dir:	 data/ld/dbs/super_pop/
+string_version:	 ['latest']
+STRINGdb version: 12.0
+
+
+Parsing tissue gene regulatory map...
+Parsing GWAS associations...
+Preparing simulations...
+Writing output...
+Done.
+Time elapsed:  5654.16 minutes.
