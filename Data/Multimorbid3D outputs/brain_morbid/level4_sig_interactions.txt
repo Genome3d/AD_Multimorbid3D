@@ -1,0 +1,1223 @@
+snp	trait	gene	eqtl_type	chromq	posq	rsidq	chromt	post	rsidt	corr	dprime
+rs4763	White matter microstructure (axial diusivities)	EFTUD2	spatial	17	43475928	rs2028078	17	43471488	rs4763	0.984049	0.993539
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468723	rs11602632	11	10466452	rs35862435	0.985995	0.98797
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468670	rs11604780	11	10466452	rs35862435	0.981998	0.983965
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468905	rs11604833	11	10466452	rs35862435	0.985995	0.98797
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468952	rs11604838	11	10466452	rs35862435	0.985995	0.98797
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468500	rs11605232	11	10466452	rs35862435	0.980007	0.983935
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468711	rs11606703	11	10466452	rs35862435	0.985995	0.98797
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial			rs35862435			rs35862435	1.0	1.0
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10470851	rs6484290	11	10466452	rs35862435	0.983994	0.983994
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10471217	rs7112321	11	10466452	rs35862435	0.983994	0.983994
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10470439	rs7929999	11	10466452	rs35862435	0.977997	0.979956
+rs35862435	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10464658	rs9971562	11	10466452	rs35862435	0.933111	0.974978
+rs1450270	White matter microstructure (axial diusivities)	AMPD3	spatial			rs1450270			rs1450270	1.0	1.0
+rs7119498	White matter microstructure (axial diusivities)	AMPD3	spatial			rs7119498			rs7119498	1.0	1.0
+rs899010	White matter microstructure (axial diusivities)	AMPD3	spatial			rs899010			rs899010	1.0	1.0
+rs930672	White matter microstructure (axial diusivities)	AMPD3	spatial			rs930672			rs930672	1.0	1.0
+rs936513	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10478227	rs2071020	11	10481666	rs936513	0.995989	0.995989
+rs35122942	White matter microstructure (axial diusivities)	GNA13	spatial	17	62968828	rs62072157	17	62971596	rs35122942	0.976373	0.98801
+rs11668142	White matter microstructure (axial diusivities)	RPL28	spatial			rs11668142			rs11668142	1.0	1.0
+rs11668142	White matter microstructure (axial diusivities)	RPL28	spatial	19	55905236	rs12972170	19	55900416	rs11668142	1.0	1.0
+rs7944154	White matter microstructure (axial diusivities)	AMPD3	spatial			rs7944154			rs7944154	1.0	1.0
+rs10770119	White matter microstructure (axial diusivities)	AMPD3	spatial			rs10770119			rs10770119	1.0	1.0
+rs10770119	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10504639	rs10840425	11	10506254	rs10770119	0.983752	0.987758
+rs10770119	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10501303	rs4910144	11	10506254	rs10770119	0.977678	0.987672
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial			rs11042811			rs11042811	1.0	1.0
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10474009	rs11042812	11	10473888	rs11042811	0.997998	1.0
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468905	rs11604833	11	10473888	rs11042811	0.969982	0.975827
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10468952	rs11604838	11	10473888	rs11042811	0.969982	0.975827
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10478227	rs2071020	11	10473888	rs11042811	0.981978	0.987901
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10470851	rs6484290	11	10473888	rs11042811	0.972003	0.979818
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10471679	rs7111970	11	10473888	rs11042811	0.98012	0.995934
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10471217	rs7112321	11	10473888	rs11042811	0.972003	0.979818
+rs11042811	White matter microstructure (axial diusivities)	AMPD3	spatial	11	10470439	rs7929999	11	10473888	rs11042811	0.970024	0.979781
+rs12614	Chronic hepatitis B infection	EHMT2	spatial			rs12614			rs12614	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229728	rs147219155	6	31232110	rs3130542	0.980899	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230758	rs2394951	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230881	rs2394952	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233352	rs2394953	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233394	rs2394954	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233395	rs2394955	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233455	rs2394956	6	31232110	rs3130542	0.996754	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233520	rs2394957	6	31232110	rs3130542	0.990255	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230989	rs2894198	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233269	rs2894202	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233531	rs2894203	6	31232110	rs3130542	0.955613	0.980341
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231808	rs3130445	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229040	rs3130541	6	31232110	rs3130542	0.944129	0.986796
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial			rs3130542			rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232146	rs3130543	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228867	rs3132493	6	31232110	rs3130542	0.950918	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231717	rs4365966	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230650	rs4995901	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230644	rs4995902	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230604	rs4995903	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231967	rs61233306	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232342	rs66624704	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235253	rs6906908	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235609	rs6907622	6	31232110	rs3130542	0.962685	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235557	rs6907910	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235275	rs6929779	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235325	rs71541457	6	31232110	rs3130542	0.912077	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227120	rs9264322	6	31232110	rs3130542	0.984026	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227141	rs9264323	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227145	rs9264324	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227150	rs9264325	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227190	rs9264326	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227218	rs9264327	6	31232110	rs3130542	0.945152	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227249	rs9264328	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227253	rs9264329	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227262	rs9264330	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227456	rs9264333	6	31232110	rs3130542	0.94122	0.98678
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227474	rs9264334	6	31232110	rs3130542	0.974334	0.986959
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227493	rs9264335	6	31232110	rs3130542	0.94122	0.98678
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227505	rs9264337	6	31232110	rs3130542	0.94122	0.98678
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227576	rs9264338	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227587	rs9264339	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227712	rs9264341	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227736	rs9264342	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227751	rs9264343	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31227786	rs9264344	6	31232110	rs3130542	0.984026	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228039	rs9264346	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228086	rs9264351	6	31232110	rs3130542	0.980771	0.993479
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228103	rs9264352	6	31232110	rs3130542	0.980771	0.993479
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228173	rs9264353	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228184	rs9264354	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228211	rs9264356	6	31232110	rs3130542	0.95383	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228266	rs9264358	6	31232110	rs3130542	0.95383	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228326	rs9264362	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228385	rs9264364	6	31232110	rs3130542	0.980771	0.993479
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228398	rs9264365	6	31232110	rs3130542	0.980771	0.993479
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228429	rs9264367	6	31232110	rs3130542	0.950918	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228459	rs9264368	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228600	rs9264372	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228665	rs9264374	6	31232110	rs3130542	0.95383	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31228706	rs9264375	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229050	rs9264383	6	31232110	rs3130542	0.938331	0.986763
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229054	rs9264384	6	31232110	rs3130542	0.977472	0.986975
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229129	rs9264386	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229172	rs9264387	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229187	rs9264388	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229190	rs9264389	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229195	rs9264390	6	31232110	rs3130542	0.948025	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229288	rs9264395	6	31232110	rs3130542	0.944625	0.993382
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229365	rs9264397	6	31232110	rs3130542	0.945152	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229376	rs9264398	6	31232110	rs3130542	0.950918	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229412	rs9264400	6	31232110	rs3130542	0.930942	0.965563
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229443	rs9264402	6	31232110	rs3130542	0.950918	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229592	rs9264405	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229609	rs9264406	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229668	rs9264407	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229722	rs9264408	6	31232110	rs3130542	0.896182	0.896182
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229737	rs9264409	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229774	rs9264410	6	31232110	rs3130542	0.984067	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229844	rs9264411	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229920	rs9264412	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229929	rs9264413	6	31232110	rs3130542	0.944314	0.992955
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31229941	rs9264414	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230077	rs9264417	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230173	rs9264420	6	31232110	rs3130542	0.987002	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230179	rs9264421	6	31232110	rs3130542	0.952252	0.973821
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230182	rs9264422	6	31232110	rs3130542	0.949226	0.973788
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230317	rs9264425	6	31232110	rs3130542	0.968689	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230318	rs9264426	6	31232110	rs3130542	0.968689	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230355	rs9264427	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230451	rs9264428	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31230497	rs9264429	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231018	rs9264440	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231067	rs9264441	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231104	rs9264443	6	31232110	rs3130542	0.934246	0.972296
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231113	rs9264445	6	31232110	rs3130542	0.956762	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231116	rs9264446	6	31232110	rs3130542	0.987208	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231141	rs9264448	6	31232110	rs3130542	0.993558	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231198	rs9264451	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231231	rs9264452	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231233	rs9264453	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231331	rs9264454	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231381	rs9264455	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231500	rs9264458	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231533	rs9264459	6	31232110	rs3130542	0.990372	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231537	rs9264460	6	31232110	rs3130542	0.956762	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231574	rs9264462	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231590	rs9264463	6	31232110	rs3130542	0.962685	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231621	rs9264464	6	31232110	rs3130542	0.996759	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231687	rs9264466	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231971	rs9264474	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232317	rs9264481	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232411	rs9264482	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232445	rs9264483	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232562	rs9264489	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232675	rs9264492	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232696	rs9264493	6	31232110	rs3130542	0.962325	0.993431
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232702	rs9264494	6	31232110	rs3130542	0.996754	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232721	rs9264495	6	31232110	rs3130542	0.962325	0.993431
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232722	rs9264496	6	31232110	rs3130542	0.962325	0.993431
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232768	rs9264497	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232788	rs9264498	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232824	rs9264500	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232912	rs9264502	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233120	rs9264505	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233142	rs9264506	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233151	rs9264507	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233213	rs9264508	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233757	rs9264523	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233844	rs9264524	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233987	rs9264526	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31233991	rs9264527	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234057	rs9264528	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234073	rs9264529	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234238	rs9264531	6	31232110	rs3130542	0.990372	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234493	rs9264533	6	31232110	rs3130542	0.944314	0.992955
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234506	rs9264534	6	31232110	rs3130542	0.990372	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234741	rs9264547	6	31232110	rs3130542	0.990372	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234770	rs9264548	6	31232110	rs3130542	0.987208	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234773	rs9264549	6	31232110	rs3130542	0.950918	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234785	rs9264550	6	31232110	rs3130542	0.950918	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234835	rs9264552	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234850	rs9264553	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234854	rs9264554	6	31232110	rs3130542	0.996767	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234910	rs9264555	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234947	rs9264556	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234951	rs9264557	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234989	rs9264558	6	31232110	rs3130542	0.908497	0.920462
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235126	rs9264559	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235138	rs9264560	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235373	rs9264567	6	31232110	rs3130542	0.933843	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235382	rs9264568	6	31232110	rs3130542	0.906804	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235411	rs9264569	6	31232110	rs3130542	0.950918	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235420	rs9264570	6	31232110	rs3130542	0.974776	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235499	rs9264571	6	31232110	rs3130542	0.980948	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235575	rs9264575	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235707	rs9264578	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235785	rs9264581	6	31232110	rs3130542	0.965676	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31235815	rs9264582	6	31232110	rs3130542	1.0	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31234515	rs9279065	6	31232110	rs3130542	0.942297	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31231515	rs9281291	6	31232110	rs3130542	0.993558	1.0
+rs3130542	Chronic hepatitis B infection	HLA-B	spatial	6	31232336	rs9281293	6	31232110	rs3130542	1.0	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32728190	rs1023448	6	32730011	rs7453920	0.993724	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32727904	rs1023449	6	32730011	rs7453920	0.991644	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32730085	rs2051549	6	32730011	rs7453920	1.0	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32729458	rs2071551	6	32730011	rs7453920	1.0	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32725192	rs2301271	6	32730011	rs7453920	0.997901	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32729334	rs2395261	6	32730011	rs7453920	0.99161	0.995783
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32729411	rs2395263	6	32730011	rs7453920	0.995809	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32726576	rs3213483	6	32730011	rs7453920	0.920676	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32725061	rs3213484	6	32730011	rs7453920	0.993724	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32725825	rs4305772	6	32730011	rs7453920	0.995809	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32728375	rs4947346	6	32730011	rs7453920	0.989526	0.995776
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial			rs7453920			rs7453920	1.0	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32729641	rs762815	6	32730011	rs7453920	1.0	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32727324	rs7753017	6	32730011	rs7453920	0.94742	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32727679	rs7753557	6	32730011	rs7453920	0.993724	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32729820	rs7768538	6	32730011	rs7453920	1.0	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32725285	rs9276568	6	32730011	rs7453920	0.99161	0.995783
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32727208	rs9276580	6	32730011	rs7453920	0.915076	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32727266	rs9276581	6	32730011	rs7453920	0.922553	1.0
+rs7453920	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32729879	rs9276583	6	32730011	rs7453920	1.0	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31235371	rs148341035	6	31235504	rs2853953	0.983129	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31230799	rs2245822	6	31235504	rs2853953	1.0	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31234113	rs2248902	6	31235504	rs2853953	1.0	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31232450	rs2524108	6	31235504	rs2853953	0.939393	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31231783	rs2524111	6	31235504	rs2853953	1.0	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31231175	rs2524116	6	31235504	rs2853953	1.0	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31231538	rs2844625	6	31235504	rs2853953	0.994379	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial			rs2853953			rs2853953	1.0	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31234692	rs2853956	6	31235504	rs2853953	0.951185	0.988555
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31232483	rs2853960	6	31235504	rs2853953	1.0	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31231105	rs2853962	6	31235504	rs2853953	0.994379	1.0
+rs2853953	Chronic hepatitis B infection	HLA-B	spatial	6	31232577	rs9264490	6	31235504	rs2853953	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32722134	rs10807112	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32722185	rs10807113	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32720779	rs10947342	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723622	rs12200954	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32720178	rs13194943	6	32723916	rs7756516	0.996015	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32721420	rs2077046	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32720110	rs2227134	6	32723916	rs7756516	0.954255	0.975473
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32720132	rs28415071	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32724311	rs3213488	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32724257	rs3213490	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723210	rs5001627	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723195	rs5001628	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723135	rs5001629	6	32723916	rs7756516	0.998006	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723128	rs5001630	6	32723916	rs7756516	0.998006	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723108	rs5001631	6	32723916	rs7756516	0.996017	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32722948	rs5001634	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32722930	rs5001635	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32719363	rs5014419	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32719067	rs5016067	6	32723916	rs7756516	0.992051	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32724142	rs6457646	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32722830	rs6913646	6	32723916	rs7756516	0.994032	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32722531	rs6918223	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32722766	rs6934041	6	32723916	rs7756516	0.996015	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32720918	rs7450940	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32721042	rs7450989	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial			rs7756516			rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723485	rs7769959	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723517	rs7769974	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723571	rs7769979	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723340	rs7770024	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723378	rs7770045	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32721947	rs7774435	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32721960	rs7774443	6	32723916	rs7756516	1.0	1.0
+rs7756516	Chronic hepatitis B infection	HLA-DQB2	spatial	6	32723868	rs7774452	6	32723916	rs7756516	1.0	1.0
+rs7223966	Hip circumference adjusted for BMI	PSMD3	spatial	17	61892090	rs11656575	17	61893397	rs7223966	0.997475	1.0
+rs2523583	Hip circumference adjusted for BMI	HLA-B	spatial	6	31328541	rs2523578	6	31327894	rs2523583	0.99387	1.0
+rs2523583	Hip circumference adjusted for BMI	HLA-B	spatial	6	31328091	rs2523582	6	31327894	rs2523583	0.99387	1.0
+rs2523583	Hip circumference adjusted for BMI	HLA-B	spatial			rs2523583			rs2523583	1.0	1.0
+rs2523583	Hip circumference adjusted for BMI	HLA-B	spatial	6	31326174	rs2523598	6	31327894	rs2523583	0.914893	0.987336
+rs2523583	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325691	rs9266244	6	31327894	rs2523583	0.99387	1.0
+rs2523583	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325701	rs9266245	6	31327894	rs2523583	0.99387	1.0
+rs2523583	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325821	rs9266252	6	31327894	rs2523583	0.981705	0.987716
+rs56316756	Hip circumference adjusted for BMI	CTNND2	spatial	6	81818874	rs1418862	6	81815424	rs56316756	0.997607	1.0
+rs56316756	Hip circumference adjusted for BMI	CTNND2	spatial	6	81819718	rs35090735	6	81815424	rs56316756	0.983234	0.995131
+rs56316756	Hip circumference adjusted for BMI	CTNND2	spatial	6	81819932	rs6454202	6	81815424	rs56316756	0.983234	0.995131
+rs56316756	Hip circumference adjusted for BMI	CTNND2	spatial	6	81820104	rs7755071	6	81815424	rs56316756	0.983234	0.995131
+rs56316756	Hip circumference adjusted for BMI	CTNND2	spatial	6	81820357	rs7755128	6	81815424	rs56316756	0.983234	0.995131
+rs56316756	Hip circumference adjusted for BMI	CTNND2	spatial	6	81820315	rs7755129	6	81815424	rs56316756	0.983234	0.995131
+rs9277934	Hip circumference adjusted for BMI	ESR1	spatial	6	33152834	rs1799907	6	33153527	rs9277934	1.0	1.0
+rs9277934	Hip circumference adjusted for BMI	ESR1	spatial			rs9277934			rs9277934	1.0	1.0
+rs488133	Hip circumference adjusted for BMI	ESR1	spatial			rs488133			rs488133	1.0	1.0
+rs3846991	Hip circumference adjusted for BMI	GNA12	spatial			rs3846991			rs3846991	1.0	1.0
+rs798561	Hip circumference adjusted for BMI	GNA12	spatial	7	2758157	rs1184662	7	2758223	rs798561	0.98588	1.0
+rs798561	Hip circumference adjusted for BMI	GNA12	spatial			rs798561			rs798561	1.0	1.0
+rs78801084	Hip circumference adjusted for BMI	DOCK1	spatial	10	70219609	rs10823203	10	70216192	rs78801084	0.981981	1.0
+rs78801084	Hip circumference adjusted for BMI	DOCK1	spatial	10	70219731	rs10823204	10	70216192	rs78801084	0.981981	1.0
+rs78801084	Hip circumference adjusted for BMI	DOCK1	spatial	10	70220035	rs12218854	10	70216192	rs78801084	0.981981	1.0
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31236566	rs1049281	6	31240059	rs2844622	0.93605	0.94999
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31236721	rs1094	6	31240059	rs2844622	0.93605	0.94999
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31244020	rs2524074	6	31240059	rs2844622	0.942833	0.989356
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31240292	rs2524091	6	31240059	rs2844622	0.910374	0.91949
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31240215	rs2524092	6	31240059	rs2844622	0.910374	0.91949
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31240179	rs2524093	6	31240059	rs2844622	0.907965	0.914768
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31236338	rs2524097	6	31240059	rs2844622	0.905392	0.914458
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31236315	rs2524098	6	31240059	rs2844622	0.905392	0.914458
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31243978	rs2844611	6	31240059	rs2844622	0.942833	0.989356
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31243970	rs2844612	6	31240059	rs2844622	0.942833	0.989356
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial			rs2844622			rs2844622	1.0	1.0
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31240245	rs549359394	6	31240059	rs2844622	0.936269	0.954866
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31240306	rs554163072	6	31240059	rs2844622	0.907806	0.919196
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31236522	rs9264586	6	31240059	rs2844622	0.907806	0.919196
+rs2844622	Hip circumference adjusted for BMI	HLA-B	spatial	6	31236523	rs9264587	6	31240059	rs2844622	0.907806	0.919196
+rs2249741	Hip circumference adjusted for BMI	HLA-B	spatial			rs2249741			rs2249741	1.0	1.0
+rs2249741	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2249741			rs2249741	1.0	1.0
+rs2249741	A body shape index	HLA-B	spatial			rs2249741			rs2249741	1.0	1.0
+rs2249741	Waist-hip index	HLA-B	spatial			rs2249741			rs2249741	1.0	1.0
+rs9264666	Hip circumference adjusted for BMI	HLA-B	spatial	6	31240040	rs2524094	6	31239295	rs9264666	0.897446	0.948253
+rs2524079	Hip circumference adjusted for BMI	HLA-B	spatial			rs2524079			rs2524079	1.0	1.0
+rs2524079	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2524079			rs2524079	1.0	1.0
+rs2524079	A body shape index	HLA-B	spatial			rs2524079			rs2524079	1.0	1.0
+rs2524079	Waist-hip index	HLA-B	spatial			rs2524079			rs2524079	1.0	1.0
+rs9266063	Hip circumference adjusted for BMI	HLA-B	spatial			rs9266063			rs9266063	1.0	1.0
+rs9265940	Hip circumference adjusted for BMI	HLA-B	spatial	6	31315500	rs9265961	6	31315032	rs9265940	0.926402	0.983443
+rs9266216	Hip circumference adjusted for BMI	HLA-B	spatial	6	31327399	rs2523587	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325379	rs9266231	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325423	rs9266232	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31327399	rs2523587	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325379	rs9266231	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325423	rs9266232	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Waist-hip index	HLA-B	spatial	6	31327399	rs2523587	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Waist-hip index	HLA-B	spatial	6	31325379	rs9266231	6	31325089	rs9266216	0.895202	1.0
+rs9266216	Waist-hip index	HLA-B	spatial	6	31325423	rs9266232	6	31325089	rs9266216	0.895202	1.0
+rs7772614	Hip circumference adjusted for BMI	HLA-B	spatial			rs7772614			rs7772614	1.0	1.0
+rs7772614	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs7772614			rs7772614	1.0	1.0
+rs7772614	Waist-hip index	HLA-B	spatial			rs7772614			rs7772614	1.0	1.0
+rs9266271	Hip circumference adjusted for BMI	HLA-B	spatial			rs9266271			rs9266271	1.0	1.0
+rs9266271	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs9266271			rs9266271	1.0	1.0
+rs9266271	A body shape index	HLA-B	spatial			rs9266271			rs9266271	1.0	1.0
+rs9266271	Waist-hip index	HLA-B	spatial			rs9266271			rs9266271	1.0	1.0
+rs9378248	Hip circumference adjusted for BMI	HLA-B	spatial			rs9378248			rs9378248	1.0	1.0
+rs2523589	Hip circumference adjusted for BMI	HLA-B	spatial			rs2523589			rs2523589	1.0	1.0
+rs2523589	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2523589			rs2523589	1.0	1.0
+rs2523589	A body shape index	HLA-B	spatial			rs2523589			rs2523589	1.0	1.0
+rs2523589	Waist-hip index	HLA-B	spatial			rs2523589			rs2523589	1.0	1.0
+rs2523579	Hip circumference adjusted for BMI	HLA-B	spatial			rs2523579			rs2523579	1.0	1.0
+rs9264355	Hip circumference adjusted for BMI	HLA-B	spatial			rs9264355			rs9264355	1.0	1.0
+rs9264355	Hip circumference adjusted for BMI	HLA-B	spatial	6	31230041	rs9264416	6	31228185	rs9264355	0.939987	1.0
+rs9264355	Hip circumference adjusted for BMI	HLA-B	spatial	6	31230215	rs9264423	6	31228185	rs9264355	0.931259	1.0
+rs9264355	Hip circumference adjusted for BMI	HLA-B	spatial	6	31231096	rs9264442	6	31228185	rs9264355	0.931141	0.972654
+rs9264355	Hip circumference adjusted for BMI	HLA-B	spatial	6	31231441	rs9264456	6	31228185	rs9264355	0.931102	0.981478
+rs9264355	Hip circumference adjusted for BMI	HLA-B	spatial	6	31232481	rs9264486	6	31228185	rs9264355	0.939987	1.0
+rs3132497	Hip circumference adjusted for BMI	HLA-B	spatial	6	31209244	rs3095249	6	31208590	rs3132497	1.0	1.0
+rs3132497	Hip circumference adjusted for BMI	HLA-B	spatial	6	31211049	rs3130695	6	31208590	rs3132497	1.0	1.0
+rs3132497	Hip circumference adjusted for BMI	HLA-B	spatial			rs3132497			rs3132497	1.0	1.0
+rs2853951	Hip circumference adjusted for BMI	HLA-B	spatial			rs2853951			rs2853951	1.0	1.0
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial	6	31313147	rs4398728	6	31313601	rs9265906	0.955934	0.983366
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial	6	31313530	rs557037592	6	31313601	rs9265906	0.954063	0.987438
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial	6	31313424	rs76907473	6	31313601	rs9265906	0.951986	0.983289
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial	6	31313257	rs9265888	6	31313601	rs9265906	0.946363	0.991506
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial	6	31313364	rs9265896	6	31313601	rs9265906	0.932412	0.982891
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial	6	31313376	rs9265898	6	31313601	rs9265906	0.932412	0.982891
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial	6	31313390	rs9265900	6	31313601	rs9265906	0.942166	0.983092
+rs9265906	Hip circumference adjusted for BMI	HLA-B	spatial			rs9265906			rs9265906	1.0	1.0
+rs9265906	A body shape index	HLA-B	spatial	6	31313147	rs4398728	6	31313601	rs9265906	0.955934	0.983366
+rs9265906	A body shape index	HLA-B	spatial	6	31313530	rs557037592	6	31313601	rs9265906	0.954063	0.987438
+rs9265906	A body shape index	HLA-B	spatial	6	31313424	rs76907473	6	31313601	rs9265906	0.951986	0.983289
+rs9265906	A body shape index	HLA-B	spatial	6	31313257	rs9265888	6	31313601	rs9265906	0.946363	0.991506
+rs9265906	A body shape index	HLA-B	spatial	6	31313364	rs9265896	6	31313601	rs9265906	0.932412	0.982891
+rs9265906	A body shape index	HLA-B	spatial	6	31313376	rs9265898	6	31313601	rs9265906	0.932412	0.982891
+rs9265906	A body shape index	HLA-B	spatial	6	31313390	rs9265900	6	31313601	rs9265906	0.942166	0.983092
+rs9265906	A body shape index	HLA-B	spatial			rs9265906			rs9265906	1.0	1.0
+rs9266043	Hip circumference adjusted for BMI	HLA-B	spatial			rs9266043			rs9266043	1.0	1.0
+rs9266043	Hip circumference adjusted for BMI	HLA-B	spatial	6	31319175	rs9266057	6	31318629	rs9266043	0.997478	1.0
+rs9266043	Hip circumference adjusted for BMI	HLA-B	spatial	6	31319603	rs9266069	6	31318629	rs9266043	0.997493	1.0
+rs9266043	Hip circumference adjusted for BMI	HLA-B	spatial	6	31319784	rs9266076	6	31318629	rs9266043	0.995008	1.0
+rs2524076	Hip circumference adjusted for BMI	HLA-B	spatial			rs2524076			rs2524076	1.0	1.0
+rs2524076	Hip circumference adjusted for BMI	HLA-B	spatial	6	31243894	rs3094680	6	31243829	rs2524076	1.0	1.0
+rs2524076	A body shape index	HLA-B	spatial			rs2524076			rs2524076	1.0	1.0
+rs2524076	A body shape index	HLA-B	spatial	6	31243894	rs3094680	6	31243829	rs2524076	1.0	1.0
+rs2524094	Hip circumference adjusted for BMI	HLA-B	spatial			rs2524094			rs2524094	1.0	1.0
+rs4644106	Hip circumference adjusted for BMI	HLA-B	spatial			rs4644106			rs4644106	1.0	1.0
+rs4644106	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs4644106			rs4644106	1.0	1.0
+rs4644106	Waist-hip index	HLA-B	spatial			rs4644106			rs4644106	1.0	1.0
+rs7766089	Hip circumference adjusted for BMI	HLA-B	spatial			rs7766089			rs7766089	1.0	1.0
+rs7766089	A body shape index	HLA-B	spatial			rs7766089			rs7766089	1.0	1.0
+rs6900323	Hip circumference adjusted for BMI	HLA-B	spatial			rs6900323			rs6900323	1.0	1.0
+rs6900323	Hip circumference adjusted for BMI	HLA-B	spatial	6	31244959	rs6919908	6	31241269	rs6900323	0.92601	0.978248
+rs6900323	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs6900323			rs6900323	1.0	1.0
+rs6900323	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31244959	rs6919908	6	31241269	rs6900323	0.92601	0.978248
+rs6900323	Waist-hip index	HLA-B	spatial			rs6900323			rs6900323	1.0	1.0
+rs6900323	Waist-hip index	HLA-B	spatial	6	31244959	rs6919908	6	31241269	rs6900323	0.92601	0.978248
+rs9263869	Hip circumference adjusted for BMI	HLA-B	spatial			rs9263869			rs9263869	1.0	1.0
+rs9263869	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs9263869			rs9263869	1.0	1.0
+rs9263869	Waist-hip index	HLA-B	spatial			rs9263869			rs9263869	1.0	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32728190	rs1023448	6	32730085	rs2051549	0.993724	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32727904	rs1023449	6	32730085	rs2051549	0.991644	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial			rs2051549			rs2051549	1.0	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32729458	rs2071551	6	32730085	rs2051549	1.0	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32725192	rs2301271	6	32730085	rs2051549	0.997901	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32729334	rs2395261	6	32730085	rs2051549	0.99161	0.995783
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32729411	rs2395263	6	32730085	rs2051549	0.995809	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32726576	rs3213483	6	32730085	rs2051549	0.920676	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32725825	rs4305772	6	32730085	rs2051549	0.995809	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32728375	rs4947346	6	32730085	rs2051549	0.989526	0.995776
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32730011	rs7453920	6	32730085	rs2051549	1.0	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32729641	rs762815	6	32730085	rs2051549	1.0	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32727324	rs7753017	6	32730085	rs2051549	0.94742	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32727679	rs7753557	6	32730085	rs2051549	0.993724	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32729820	rs7768538	6	32730085	rs2051549	1.0	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32725285	rs9276568	6	32730085	rs2051549	0.99161	0.995783
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32727208	rs9276580	6	32730085	rs2051549	0.915076	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32727266	rs9276581	6	32730085	rs2051549	0.922553	1.0
+rs2051549	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32729879	rs9276583	6	32730085	rs2051549	1.0	1.0
+rs523736	Hip circumference adjusted for BMI	ESR1	spatial			rs523736			rs523736	1.0	1.0
+rs208357	Hip circumference adjusted for BMI	GNA12	spatial			rs208357			rs208357	1.0	1.0
+rs208357	Hip circumference adjusted for BMI	GNA12	spatial	7	2773604	rs208358	7	2774788	rs208357	0.912415	1.0
+rs4381565	Hip circumference adjusted for BMI	SIN3A	spatial	15	75799305	rs11638974	15	75802153	rs4381565	0.975268	0.980106
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31327381	rs2395476	6	31325791	rs9266250	0.903063	0.994671
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31327399	rs2523587	6	31325791	rs9266250	0.905615	1.0
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325402	rs33931933	6	31325791	rs9266250	0.903063	0.994671
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325340	rs9266230	6	31325791	rs9266250	0.903063	0.994671
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325379	rs9266231	6	31325791	rs9266250	0.905615	1.0
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325423	rs9266232	6	31325791	rs9266250	0.905615	1.0
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325493	rs9266234	6	31325791	rs9266250	0.89779	0.978992
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325564	rs9266241	6	31325791	rs9266250	0.902823	0.989419
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325619	rs9266242	6	31325791	rs9266250	0.907902	1.0
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial	6	31325622	rs9266243	6	31325791	rs9266250	0.907902	1.0
+rs9266250	Hip circumference adjusted for BMI	HLA-B	spatial			rs9266250			rs9266250	1.0	1.0
+rs9405084	Hip circumference adjusted for BMI	HLA-B	spatial	6	31326288	rs9378248	6	31326250	rs9405084	0.936946	1.0
+rs9268615	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32399091	rs4348358	6	32402888	rs9268615	0.993705	1.0
+rs9268615	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32398674	rs7756262	6	32402888	rs9268615	0.993705	1.0
+rs9268615	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32398562	rs7774047	6	32402888	rs9268615	0.993705	1.0
+rs9268615	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32398201	rs9268589	6	32402888	rs9268615	0.993705	1.0
+rs9268615	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32399832	rs9268605	6	32402888	rs9268615	0.993705	1.0
+rs9268615	Hip circumference adjusted for BMI	HLA-DQB2	spatial	6	32400069	rs9268606	6	32402888	rs9268615	0.993705	1.0
+rs11090045	Smoking cessation	EP300	spatial			rs11090045			rs11090045	1.0	1.0
+rs3025327	Smoking cessation	RAPGEF1	spatial	9	136471659	rs112270518	9	136467343	rs3025327	0.975908	0.98777
+rs9611540	Smoking cessation	EP300	spatial	22	41675125	rs6002310	22	41674202	rs9611540	0.99558	1.0
+rs9611540	Smoking cessation	EP300	spatial			rs9611540			rs9611540	1.0	1.0
+rs9611540	Smoking cessation	EP300	spatial	22	41677316	rs9611542	22	41674202	rs9611540	0.98892	0.991114
+rs7872903	Smoking cessation	RAPGEF1	spatial	9	136485597	rs7867984	9	136484291	rs7872903	0.994062	1.0
+rs113927489	Smoking cessation	RAPGEF1	spatial	9	136471659	rs112270518	9	136467206	rs113927489	0.964109	0.964109
+rs112270518	Smoking cessation	RAPGEF1	spatial			rs112270518			rs112270518	1.0	1.0
+rs112270518	Smoking cessation	RAPGEF1	spatial	9	136472459	rs56057809	9	136471659	rs112270518	1.0	1.0
+rs56057809	Smoking cessation	RAPGEF1	spatial	9	136471659	rs112270518	9	136472459	rs56057809	1.0	1.0
+rs56057809	Smoking cessation	RAPGEF1	spatial			rs56057809			rs56057809	1.0	1.0
+rs113864525	Smoking cessation	RAPGEF1	spatial	9	136471659	rs112270518	9	136473052	rs113864525	1.0	1.0
+rs113864525	Smoking cessation	RAPGEF1	spatial	9	136472459	rs56057809	9	136473052	rs113864525	1.0	1.0
+rs4821991	Smoking cessation	EP300	spatial	22	41439303	rs12484971	22	41440682	rs4821991	0.997661	1.0
+rs4821991	Smoking cessation	EP300	spatial	22	41440423	rs13055800	22	41440682	rs4821991	1.0	1.0
+rs4821991	Smoking cessation	EP300	spatial	22	41438060	rs4821989	22	41440682	rs4821991	1.0	1.0
+rs4821991	Smoking cessation	EP300	spatial	22	41438709	rs4821990	22	41440682	rs4821991	1.0	1.0
+rs4821991	Smoking cessation	EP300	spatial	22	41437303	rs73174660	22	41440682	rs4821991	1.0	1.0
+rs1060330	Waist-to-hip ratio adjusted for BMI	WDR82	spatial			rs1060330			rs1060330	1.0	1.0
+rs1060330	Waist-to-hip ratio adjusted for BMI	WDR82	spatial	3	52287467	rs11717383	3	52288944	rs1060330	1.0	1.0
+rs9276606	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial			rs9276606			rs9276606	1.0	1.0
+rs9276606	Waist-hip index	HLA-DQB2	spatial			rs9276606			rs9276606	1.0	1.0
+rs9266244	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31328541	rs2523578	6	31325691	rs9266244	1.0	1.0
+rs9266244	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31328091	rs2523582	6	31325691	rs9266244	1.0	1.0
+rs9266244	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31327894	rs2523583	6	31325691	rs9266244	0.99387	1.0
+rs9266244	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31326174	rs2523598	6	31325691	rs9266244	0.920948	1.0
+rs9266244	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs9266244			rs9266244	1.0	1.0
+rs9266244	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325701	rs9266245	6	31325691	rs9266244	1.0	1.0
+rs9266244	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325821	rs9266252	6	31325691	rs9266244	0.987821	1.0
+rs2308527	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31242222	rs2844619	6	31239820	rs2308527	0.931906	1.0
+rs2308527	Waist-hip index	HLA-B	spatial	6	31242222	rs2844619	6	31239820	rs2308527	0.931906	1.0
+rs2844620	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2844620			rs2844620	1.0	1.0
+rs2844620	A body shape index	HLA-B	spatial			rs2844620			rs2844620	1.0	1.0
+rs2844620	Waist-hip index	HLA-B	spatial			rs2844620			rs2844620	1.0	1.0
+rs35506574	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs35506574			rs35506574	1.0	1.0
+rs35506574	A body shape index	HLA-B	spatial			rs35506574			rs35506574	1.0	1.0
+rs35506574	Waist-hip index	HLA-B	spatial			rs35506574			rs35506574	1.0	1.0
+rs9266248	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325744	rs74618856	6	31325757	rs9266248	1.0	1.0
+rs9266248	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325755	rs9266247	6	31325757	rs9266248	0.989302	0.995685
+rs9266248	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs9266248			rs9266248	1.0	1.0
+rs9266248	Waist-hip index	HLA-B	spatial	6	31325744	rs74618856	6	31325757	rs9266248	1.0	1.0
+rs9266248	Waist-hip index	HLA-B	spatial	6	31325755	rs9266247	6	31325757	rs9266248	0.989302	0.995685
+rs9266248	Waist-hip index	HLA-B	spatial			rs9266248			rs9266248	1.0	1.0
+rs28695590	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31327737	rs13213216	6	31327756	rs28695590	1.0	1.0
+rs28695590	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31327786	rs13213218	6	31327756	rs28695590	1.0	1.0
+rs28695590	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31327762	rs13213324	6	31327756	rs28695590	1.0	1.0
+rs28695590	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs28695590			rs28695590	1.0	1.0
+rs28695590	Waist-hip index	HLA-B	spatial	6	31327737	rs13213216	6	31327756	rs28695590	1.0	1.0
+rs28695590	Waist-hip index	HLA-B	spatial	6	31327786	rs13213218	6	31327756	rs28695590	1.0	1.0
+rs28695590	Waist-hip index	HLA-B	spatial	6	31327762	rs13213324	6	31327756	rs28695590	1.0	1.0
+rs28695590	Waist-hip index	HLA-B	spatial			rs28695590			rs28695590	1.0	1.0
+rs4953627	Waist-to-hip ratio adjusted for BMI	LHCGR	spatial	2	48989577	rs144203988	2	48990166	rs4953627	0.964056	0.98856
+rs4953627	Waist-to-hip ratio adjusted for BMI	LHCGR	spatial			rs4953627			rs4953627	1.0	1.0
+rs4953627	Waist-hip index	LHCGR	spatial	2	48989577	rs144203988	2	48990166	rs4953627	0.964056	0.98856
+rs4953627	Waist-hip index	LHCGR	spatial			rs4953627			rs4953627	1.0	1.0
+rs381194	Waist-to-hip ratio adjusted for BMI	GRM1	spatial			rs381194			rs381194	1.0	1.0
+rs381194	A body shape index	GRM1	spatial			rs381194			rs381194	1.0	1.0
+rs381194	Waist-hip index	GRM1	spatial			rs381194			rs381194	1.0	1.0
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124204609	rs10160842	12	124201995	rs148118721	0.962863	0.995669
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124206432	rs10160937	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124204157	rs10734904	12	124201995	rs148118721	0.931377	0.933316
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124201293	rs12813758	12	124201995	rs148118721	-0.922427	-0.995429
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124198717	rs12828408	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124206195	rs1878077	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124198720	rs3817309	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124204968	rs6488899	12	124201995	rs148118721	0.958782	0.995646
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124204985	rs6488900	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124205045	rs6488902	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124199005	rs66471742	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124199119	rs7135267	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124204609	rs10160842	12	124201995	rs148118721	0.962863	0.995669
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124206432	rs10160937	12	124201995	rs148118721	0.96094	1.0
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124204157	rs10734904	12	124201995	rs148118721	0.931377	0.933316
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124201293	rs12813758	12	124201995	rs148118721	-0.922427	-0.995429
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124198717	rs12828408	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124206195	rs1878077	12	124201995	rs148118721	0.96094	1.0
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124198720	rs3817309	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124204968	rs6488899	12	124201995	rs148118721	0.958782	0.995646
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124204985	rs6488900	12	124201995	rs148118721	0.96094	1.0
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124205045	rs6488902	12	124201995	rs148118721	0.96094	1.0
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124199005	rs66471742	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	A body shape index	ATP6V0A2	spatial	12	124199119	rs7135267	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124204609	rs10160842	12	124201995	rs148118721	0.962863	0.995669
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124206432	rs10160937	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124204157	rs10734904	12	124201995	rs148118721	0.931377	0.933316
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124201293	rs12813758	12	124201995	rs148118721	-0.922427	-0.995429
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124198717	rs12828408	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124206195	rs1878077	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124198720	rs3817309	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124204968	rs6488899	12	124201995	rs148118721	0.958782	0.995646
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124204985	rs6488900	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124205045	rs6488902	12	124201995	rs148118721	0.96094	1.0
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124199005	rs66471742	12	124201995	rs148118721	-0.91195	-0.98625
+rs148118721	Waist-hip index	ATP6V0A2	spatial	12	124199119	rs7135267	12	124201995	rs148118721	-0.91195	-0.98625
+rs7959043	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial			rs7959043			rs7959043	1.0	1.0
+rs7959043	A body shape index	ATP6V0A2	spatial			rs7959043			rs7959043	1.0	1.0
+rs7959043	Waist-hip index	ATP6V0A2	spatial			rs7959043			rs7959043	1.0	1.0
+rs6488910	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124389149	rs12309481	12	124393696	rs6488910	0.972545	0.978731
+rs6488910	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124390680	rs2341569	12	124393696	rs6488910	0.972499	0.974559
+rs6488910	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124388783	rs57078519	12	124393696	rs6488910	0.983066	0.991443
+rs6488910	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124389052	rs57316347	12	124393696	rs6488910	0.926761	0.990779
+rs6488910	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial			rs6488910			rs6488910	1.0	1.0
+rs6488910	A body shape index	ATP6V0A2	spatial	12	124389149	rs12309481	12	124393696	rs6488910	0.972545	0.978731
+rs6488910	A body shape index	ATP6V0A2	spatial	12	124390680	rs2341569	12	124393696	rs6488910	0.972499	0.974559
+rs6488910	A body shape index	ATP6V0A2	spatial	12	124388783	rs57078519	12	124393696	rs6488910	0.983066	0.991443
+rs6488910	A body shape index	ATP6V0A2	spatial	12	124389052	rs57316347	12	124393696	rs6488910	0.926761	0.990779
+rs6488910	A body shape index	ATP6V0A2	spatial			rs6488910			rs6488910	1.0	1.0
+rs6488910	Waist-hip index	ATP6V0A2	spatial	12	124389149	rs12309481	12	124393696	rs6488910	0.972545	0.978731
+rs6488910	Waist-hip index	ATP6V0A2	spatial	12	124390680	rs2341569	12	124393696	rs6488910	0.972499	0.974559
+rs6488910	Waist-hip index	ATP6V0A2	spatial	12	124388783	rs57078519	12	124393696	rs6488910	0.983066	0.991443
+rs6488910	Waist-hip index	ATP6V0A2	spatial	12	124389052	rs57316347	12	124393696	rs6488910	0.926761	0.990779
+rs6488910	Waist-hip index	ATP6V0A2	spatial			rs6488910			rs6488910	1.0	1.0
+rs7622851	Waist-to-hip ratio adjusted for BMI	WDR82	spatial			rs7622851			rs7622851	1.0	1.0
+rs7622851	A body shape index	WDR82	spatial			rs7622851			rs7622851	1.0	1.0
+rs7622851	Waist-hip index	WDR82	spatial			rs7622851			rs7622851	1.0	1.0
+rs62012774	Waist-to-hip ratio adjusted for BMI	CABIN1	spatial	15	63866876	rs62012772	15	63868810	rs62012774	0.961654	1.0
+rs62012774	Waist-to-hip ratio adjusted for BMI	CABIN1	spatial	15	63868760	rs62012773	15	63868810	rs62012774	1.0	1.0
+rs62012774	Waist-to-hip ratio adjusted for BMI	CABIN1	spatial			rs62012774			rs62012774	1.0	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124219120	rs10732574	12	124214893	rs7398606	0.964808	0.995667
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124219035	rs10734908	12	124214893	rs7398606	0.964979	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124218358	rs10744159	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124212871	rs10773026	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124219790	rs10773030	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124210781	rs1399961	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124218796	rs2271662	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124216851	rs2333839	12	124214893	rs7398606	0.958782	0.995646
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124216534	rs2333840	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124219594	rs7300721	12	124214893	rs7398606	0.964808	0.995667
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124219608	rs7300818	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124211981	rs7311789	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124217626	rs7397240	12	124214893	rs7398606	0.96699	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124218025	rs7397745	12	124214893	rs7398606	0.96699	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124218043	rs7397746	12	124214893	rs7398606	0.96699	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124217687	rs7398372	12	124214893	rs7398606	0.962628	0.991348
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124217688	rs7398373	12	124214893	rs7398606	0.962628	0.991348
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124217839	rs7398384	12	124214893	rs7398606	0.96699	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial			rs7398606			rs7398606	1.0	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124218101	rs7398641	12	124214893	rs7398606	0.96699	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124215003	rs7398851	12	124214893	rs7398606	0.964979	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124213101	rs76399009	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124214670	rs7956045	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124209916	rs7960403	12	124214893	rs7398606	0.997887	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124214693	rs7974462	12	124214893	rs7398606	0.96699	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124210548	rs882563	12	124214893	rs7398606	0.964979	1.0
+rs7398606	Waist-to-hip ratio adjusted for BMI	ATP6V0A2	spatial	12	124211563	rs968203	12	124214893	rs7398606	0.997887	1.0
+rs59921208	Waist-to-hip ratio adjusted for BMI	NCOA2	spatial			rs59921208			rs59921208	1.0	1.0
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10504007	rs10840424	11	10507980	rs11042846	-0.98646	-0.990926
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10504750	rs11042839	11	10507980	rs11042846	-0.990977	-0.995463
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10505173	rs11042840	11	10507980	rs11042846	-0.997746	-1.0
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10505208	rs11042841	11	10507980	rs11042846	-1.0	-1.0
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial			rs11042846			rs11042846	1.0	1.0
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10505400	rs12271597	11	10507980	rs11042846	-1.0	-1.0
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10505457	rs12271609	11	10507980	rs11042846	-1.0	-1.0
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10504233	rs67126274	11	10507980	rs11042846	-0.988722	-0.995449
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10509399	rs7101934	11	10507980	rs11042846	-0.988722	-0.995449
+rs11042846	Waist-to-hip ratio adjusted for BMI	AMPD3	spatial	11	10506706	rs7113101	11	10507980	rs11042846	-1.0	-1.0
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31313147	rs4398728	6	31313257	rs9265888	0.977793	0.995857
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31313530	rs557037592	6	31313257	rs9265888	0.975644	0.987635
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31313424	rs76907473	6	31313257	rs9265888	0.973643	0.987613
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs9265888			rs9265888	1.0	1.0
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31313364	rs9265896	6	31313257	rs9265888	0.957143	0.963024
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31313376	rs9265898	6	31313257	rs9265888	0.957143	0.963024
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31313390	rs9265900	6	31313257	rs9265888	0.963318	0.967253
+rs9265888	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31313601	rs9265906	6	31313257	rs9265888	0.946363	0.991506
+rs2523599	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2523599			rs2523599	1.0	1.0
+rs2523599	Waist-hip index	HLA-B	spatial			rs2523599			rs2523599	1.0	1.0
+rs2853941	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31249126	rs2253487	6	31249228	rs2853941	0.997903	1.0
+rs2853941	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2853941			rs2853941	1.0	1.0
+rs2853941	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31249397	rs9264764	6	31249228	rs2853941	0.995809	1.0
+rs2853941	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31249477	rs9264765	6	31249228	rs2853941	0.995809	1.0
+rs9266253	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs9266253			rs9266253	1.0	1.0
+rs9266253	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325943	rs9266263	6	31325846	rs9266253	0.959068	0.965637
+rs9266253	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31325949	rs9266265	6	31325846	rs9266253	0.962592	0.972476
+rs9266253	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31326010	rs9266266	6	31325846	rs9266253	0.976644	1.0
+rs9266253	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31326054	rs9266269	6	31325846	rs9266253	0.969891	0.993086
+rs9266253	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31326071	rs9266270	6	31325846	rs9266253	0.969891	0.993086
+rs9266253	Waist-hip index	HLA-B	spatial			rs9266253			rs9266253	1.0	1.0
+rs9266253	Waist-hip index	HLA-B	spatial	6	31325943	rs9266263	6	31325846	rs9266253	0.959068	0.965637
+rs9266253	Waist-hip index	HLA-B	spatial	6	31325949	rs9266265	6	31325846	rs9266253	0.962592	0.972476
+rs9266253	Waist-hip index	HLA-B	spatial	6	31326010	rs9266266	6	31325846	rs9266253	0.976644	1.0
+rs9266253	Waist-hip index	HLA-B	spatial	6	31326054	rs9266269	6	31325846	rs9266253	0.969891	0.993086
+rs9266253	Waist-hip index	HLA-B	spatial	6	31326071	rs9266270	6	31325846	rs9266253	0.969891	0.993086
+rs4321864	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial			rs4321864			rs4321864	1.0	1.0
+rs4321864	A body shape index	HLA-DQB2	spatial			rs4321864			rs4321864	1.0	1.0
+rs4321864	Waist-hip index	HLA-DQB2	spatial			rs4321864			rs4321864	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32722134	rs10807112	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32722185	rs10807113	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32718386	rs10947340	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32720779	rs10947342	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32717945	rs11759565	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723622	rs12200954	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32720178	rs13194943	6	32721420	rs2077046	0.996015	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial			rs2077046			rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32720110	rs2227134	6	32721420	rs2077046	0.954255	0.975473
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32720132	rs28415071	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32724311	rs3213488	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32724257	rs3213490	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32717701	rs4285314	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32717548	rs4351241	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723210	rs5001627	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723195	rs5001628	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723135	rs5001629	6	32721420	rs2077046	0.998006	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723128	rs5001630	6	32721420	rs2077046	0.998006	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723108	rs5001631	6	32721420	rs2077046	0.996017	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32722948	rs5001634	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32722930	rs5001635	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32719363	rs5014419	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32718817	rs5016066	6	32721420	rs2077046	0.998006	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32719067	rs5016067	6	32721420	rs2077046	0.992051	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32724142	rs6457646	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32722830	rs6913646	6	32721420	rs2077046	0.994032	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32722531	rs6918223	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32722766	rs6934041	6	32721420	rs2077046	0.996015	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32720918	rs7450940	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32721042	rs7450989	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723916	rs7756516	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723485	rs7769959	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723517	rs7769974	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723571	rs7769979	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723340	rs7770024	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723378	rs7770045	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32721947	rs7774435	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32721960	rs7774443	6	32721420	rs2077046	1.0	1.0
+rs2077046	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32723868	rs7774452	6	32721420	rs2077046	1.0	1.0
+rs9276601	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32730834	rs9276584	6	32734303	rs9276601	0.895267	1.0
+rs9276601	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32731312	rs9276585	6	32734303	rs9276601	0.895267	1.0
+rs9276601	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial	6	32737256	rs9276607	6	32734303	rs9276601	0.895267	1.0
+rs2008560	Waist-to-hip ratio adjusted for BMI	HLA-DQB2	spatial			rs2008560			rs2008560	1.0	1.0
+rs2008560	A body shape index	HLA-DQB2	spatial			rs2008560			rs2008560	1.0	1.0
+rs2008560	Waist-hip index	HLA-DQB2	spatial			rs2008560			rs2008560	1.0	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31235371	rs148341035	6	31232450	rs2524108	0.923544	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230799	rs2245822	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31234113	rs2248902	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228213	rs2428535	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2524108			rs2524108	1.0	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231783	rs2524111	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231175	rs2524116	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228859	rs2524122	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231538	rs2844625	6	31232450	rs2524108	0.934113	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229461	rs2844627	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228083	rs2844630	6	31232450	rs2524108	0.947183	0.994332
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31235504	rs2853953	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232483	rs2853960	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231105	rs2853962	6	31232450	rs2524108	0.934113	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228599	rs3130443	6	31232450	rs2524108	0.92299	0.945397
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228633	rs3130444	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228281	rs4570007	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232577	rs9264490	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31235371	rs148341035	6	31232450	rs2524108	0.923544	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31230799	rs2245822	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31234113	rs2248902	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31228213	rs2428535	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-hip index	HLA-B	spatial			rs2524108			rs2524108	1.0	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31231783	rs2524111	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31231175	rs2524116	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31228859	rs2524122	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31231538	rs2844625	6	31232450	rs2524108	0.934113	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31229461	rs2844627	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31228083	rs2844630	6	31232450	rs2524108	0.947183	0.994332
+rs2524108	Waist-hip index	HLA-B	spatial	6	31235504	rs2853953	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31232483	rs2853960	6	31232450	rs2524108	0.939393	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31231105	rs2853962	6	31232450	rs2524108	0.934113	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31228599	rs3130443	6	31232450	rs2524108	0.92299	0.945397
+rs2524108	Waist-hip index	HLA-B	spatial	6	31228633	rs3130444	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31228281	rs4570007	6	31232450	rs2524108	0.949946	1.0
+rs2524108	Waist-hip index	HLA-B	spatial	6	31232577	rs9264490	6	31232450	rs2524108	0.939393	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229728	rs147219155	6	31229722	rs9264408	0.945642	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230758	rs2394951	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230881	rs2394952	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233352	rs2394953	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233394	rs2394954	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233395	rs2394955	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230989	rs2894198	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233269	rs2894202	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233531	rs2894203	6	31229722	rs9264408	0.923675	0.947577
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231808	rs3130445	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229040	rs3130541	6	31229722	rs9264408	0.944129	0.986796
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232110	rs3130542	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232146	rs3130543	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228867	rs3132493	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231717	rs4365966	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230650	rs4995901	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230644	rs4995902	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230604	rs4995903	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231967	rs61233306	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232342	rs66624704	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227120	rs9264322	6	31229722	rs9264408	0.948657	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227141	rs9264323	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227145	rs9264324	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227150	rs9264325	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227190	rs9264326	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227218	rs9264327	6	31229722	rs9264408	0.945152	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227249	rs9264328	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227253	rs9264329	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227262	rs9264330	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227456	rs9264333	6	31229722	rs9264408	0.94122	0.98678
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227474	rs9264334	6	31229722	rs9264408	0.903525	0.915232
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227493	rs9264335	6	31229722	rs9264408	0.94122	0.98678
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227505	rs9264337	6	31229722	rs9264408	0.94122	0.98678
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227576	rs9264338	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227587	rs9264339	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227712	rs9264341	6	31229722	rs9264408	0.916827	0.934633
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227736	rs9264342	6	31229722	rs9264408	0.916827	0.934633
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227751	rs9264343	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31227786	rs9264344	6	31229722	rs9264408	0.948657	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228039	rs9264346	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228086	rs9264351	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228103	rs9264352	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228173	rs9264353	6	31229722	rs9264408	0.916827	0.934633
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228211	rs9264356	6	31229722	rs9264408	0.947525	0.99339
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228266	rs9264358	6	31229722	rs9264408	0.947525	0.99339
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228326	rs9264362	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228385	rs9264364	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228398	rs9264365	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228429	rs9264367	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228459	rs9264368	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228600	rs9264372	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228665	rs9264374	6	31229722	rs9264408	0.947525	0.99339
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31228706	rs9264375	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229050	rs9264383	6	31229722	rs9264408	0.938331	0.986763
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229054	rs9264384	6	31229722	rs9264408	0.906523	0.915336
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229129	rs9264386	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229172	rs9264387	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229187	rs9264388	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229190	rs9264389	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229195	rs9264390	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229288	rs9264395	6	31229722	rs9264408	0.944625	0.993382
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229365	rs9264397	6	31229722	rs9264408	0.945152	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229376	rs9264398	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229412	rs9264400	6	31229722	rs9264408	0.964144	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229443	rs9264402	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229592	rs9264405	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229609	rs9264406	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229668	rs9264407	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs9264408			rs9264408	1.0	1.0
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229737	rs9264409	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229774	rs9264410	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229844	rs9264411	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229929	rs9264413	6	31229722	rs9264408	0.944314	0.992955
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31229941	rs9264414	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230077	rs9264417	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230179	rs9264421	6	31229722	rs9264408	0.920253	0.941097
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230182	rs9264422	6	31229722	rs9264408	0.917288	0.941024
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230317	rs9264425	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230318	rs9264426	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230355	rs9264427	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230451	rs9264428	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31230497	rs9264429	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231018	rs9264440	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231067	rs9264441	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231104	rs9264443	6	31229722	rs9264408	0.940901	0.979222
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231113	rs9264445	6	31229722	rs9264408	0.925179	0.96699
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231141	rs9264448	6	31229722	rs9264408	0.896618	0.902431
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231198	rs9264451	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231231	rs9264452	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231233	rs9264453	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231331	rs9264454	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231381	rs9264455	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231537	rs9264460	6	31229722	rs9264408	0.925179	0.96699
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231590	rs9264463	6	31229722	rs9264408	0.930986	0.967073
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231621	rs9264464	6	31229722	rs9264408	0.927714	0.965431
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231687	rs9264466	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231971	rs9264474	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232317	rs9264481	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232411	rs9264482	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232445	rs9264483	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232562	rs9264489	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232675	rs9264492	6	31229722	rs9264408	0.930756	0.965466
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232696	rs9264493	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232721	rs9264495	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232722	rs9264496	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232768	rs9264497	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232788	rs9264498	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232824	rs9264500	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232912	rs9264502	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233120	rs9264505	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233142	rs9264506	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233151	rs9264507	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233213	rs9264508	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233757	rs9264523	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233844	rs9264524	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233987	rs9264526	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31233991	rs9264527	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31234057	rs9264528	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31234073	rs9264529	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31234493	rs9264533	6	31229722	rs9264408	0.944314	0.992955
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31234515	rs9279065	6	31229722	rs9264408	0.910997	0.966783
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31231515	rs9281291	6	31229722	rs9264408	0.896618	0.902431
+rs9264408	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31232336	rs9281293	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229728	rs147219155	6	31229722	rs9264408	0.945642	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230758	rs2394951	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230881	rs2394952	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233352	rs2394953	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233394	rs2394954	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233395	rs2394955	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230989	rs2894198	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233269	rs2894202	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233531	rs2894203	6	31229722	rs9264408	0.923675	0.947577
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231808	rs3130445	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229040	rs3130541	6	31229722	rs9264408	0.944129	0.986796
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232110	rs3130542	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232146	rs3130543	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228867	rs3132493	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231717	rs4365966	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230650	rs4995901	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230644	rs4995902	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230604	rs4995903	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231967	rs61233306	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232342	rs66624704	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227120	rs9264322	6	31229722	rs9264408	0.948657	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227141	rs9264323	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227145	rs9264324	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227150	rs9264325	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227190	rs9264326	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227218	rs9264327	6	31229722	rs9264408	0.945152	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227249	rs9264328	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227253	rs9264329	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227262	rs9264330	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227456	rs9264333	6	31229722	rs9264408	0.94122	0.98678
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227474	rs9264334	6	31229722	rs9264408	0.903525	0.915232
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227493	rs9264335	6	31229722	rs9264408	0.94122	0.98678
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227505	rs9264337	6	31229722	rs9264408	0.94122	0.98678
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227576	rs9264338	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227587	rs9264339	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227712	rs9264341	6	31229722	rs9264408	0.916827	0.934633
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227736	rs9264342	6	31229722	rs9264408	0.916827	0.934633
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227751	rs9264343	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31227786	rs9264344	6	31229722	rs9264408	0.948657	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228039	rs9264346	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228086	rs9264351	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228103	rs9264352	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228173	rs9264353	6	31229722	rs9264408	0.916827	0.934633
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228211	rs9264356	6	31229722	rs9264408	0.947525	0.99339
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228266	rs9264358	6	31229722	rs9264408	0.947525	0.99339
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228326	rs9264362	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228385	rs9264364	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228398	rs9264365	6	31229722	rs9264408	0.909962	0.921753
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228429	rs9264367	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228459	rs9264368	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228600	rs9264372	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228665	rs9264374	6	31229722	rs9264408	0.947525	0.99339
+rs9264408	Waist-hip index	HLA-B	spatial	6	31228706	rs9264375	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229050	rs9264383	6	31229722	rs9264408	0.938331	0.986763
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229054	rs9264384	6	31229722	rs9264408	0.906523	0.915336
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229129	rs9264386	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229172	rs9264387	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229187	rs9264388	6	31229722	rs9264408	0.910415	0.928096
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229190	rs9264389	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229195	rs9264390	6	31229722	rs9264408	0.948025	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229288	rs9264395	6	31229722	rs9264408	0.944625	0.993382
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229365	rs9264397	6	31229722	rs9264408	0.945152	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229376	rs9264398	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229412	rs9264400	6	31229722	rs9264408	0.964144	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229443	rs9264402	6	31229722	rs9264408	0.950918	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229592	rs9264405	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229609	rs9264406	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229668	rs9264407	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial			rs9264408			rs9264408	1.0	1.0
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229737	rs9264409	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229774	rs9264410	6	31229722	rs9264408	0.913396	0.928185
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229844	rs9264411	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229929	rs9264413	6	31229722	rs9264408	0.944314	0.992955
+rs9264408	Waist-hip index	HLA-B	spatial	6	31229941	rs9264414	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230077	rs9264417	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230179	rs9264421	6	31229722	rs9264408	0.920253	0.941097
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230182	rs9264422	6	31229722	rs9264408	0.917288	0.941024
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230317	rs9264425	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230318	rs9264426	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230355	rs9264427	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230451	rs9264428	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31230497	rs9264429	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231018	rs9264440	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231067	rs9264441	6	31229722	rs9264408	0.899633	0.902551
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231104	rs9264443	6	31229722	rs9264408	0.940901	0.979222
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231113	rs9264445	6	31229722	rs9264408	0.925179	0.96699
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231141	rs9264448	6	31229722	rs9264408	0.896618	0.902431
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231198	rs9264451	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231231	rs9264452	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231233	rs9264453	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231331	rs9264454	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231381	rs9264455	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231537	rs9264460	6	31229722	rs9264408	0.925179	0.96699
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231590	rs9264463	6	31229722	rs9264408	0.930986	0.967073
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231621	rs9264464	6	31229722	rs9264408	0.927714	0.965431
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231687	rs9264466	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231971	rs9264474	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232317	rs9264481	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232411	rs9264482	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232445	rs9264483	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232562	rs9264489	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232675	rs9264492	6	31229722	rs9264408	0.930756	0.965466
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232696	rs9264493	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232721	rs9264495	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232722	rs9264496	6	31229722	rs9264408	0.930508	0.960585
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232768	rs9264497	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232788	rs9264498	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232824	rs9264500	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232912	rs9264502	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233120	rs9264505	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233142	rs9264506	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233151	rs9264507	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233213	rs9264508	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233757	rs9264523	6	31229722	rs9264408	0.896182	0.896182
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233844	rs9264524	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233987	rs9264526	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31233991	rs9264527	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31234057	rs9264528	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31234073	rs9264529	6	31229722	rs9264408	0.933919	0.967113
+rs9264408	Waist-hip index	HLA-B	spatial	6	31234493	rs9264533	6	31229722	rs9264408	0.944314	0.992955
+rs9264408	Waist-hip index	HLA-B	spatial	6	31234515	rs9279065	6	31229722	rs9264408	0.910997	0.966783
+rs9264408	Waist-hip index	HLA-B	spatial	6	31231515	rs9281291	6	31229722	rs9264408	0.896618	0.902431
+rs9264408	Waist-hip index	HLA-B	spatial	6	31232336	rs9281293	6	31229722	rs9264408	0.896182	0.896182
+rs9265517	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31299759	rs9265622	6	31297771	rs9265517	0.944801	0.952285
+rs9265517	Waist-hip index	HLA-B	spatial	6	31299759	rs9265622	6	31297771	rs9265517	0.944801	0.952285
+rs2442725	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2442725			rs2442725	1.0	1.0
+rs2442725	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31319890	rs2442726	6	31319895	rs2442725	1.0	1.0
+rs2442725	Waist-hip index	HLA-B	spatial			rs2442725			rs2442725	1.0	1.0
+rs2442725	Waist-hip index	HLA-B	spatial	6	31319890	rs2442726	6	31319895	rs2442725	1.0	1.0
+rs2853950	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2853950			rs2853950	1.0	1.0
+rs2853950	A body shape index	HLA-B	spatial			rs2853950			rs2853950	1.0	1.0
+rs2853950	Waist-hip index	HLA-B	spatial			rs2853950			rs2853950	1.0	1.0
+rs2844619	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial			rs2844619			rs2844619	1.0	1.0
+rs2844619	Waist-to-hip ratio adjusted for BMI	HLA-B	spatial	6	31240245	rs549359394	6	31242222	rs2844619	0.894881	0.98963
+rs2844619	A body shape index	HLA-B	spatial			rs2844619			rs2844619	1.0	1.0
+rs2844619	A body shape index	HLA-B	spatial	6	31240245	rs549359394	6	31242222	rs2844619	0.894881	0.98963
+rs2844619	Waist-hip index	HLA-B	spatial			rs2844619			rs2844619	1.0	1.0
+rs2844619	Waist-hip index	HLA-B	spatial	6	31240245	rs549359394	6	31242222	rs2844619	0.894881	0.98963
+rs12167679	IgG glycosylation patterns	SMARCB1	spatial			rs12167679			rs12167679	1.0	1.0
+rs9624326	IgG glycosylation patterns	SMARCB1	spatial	22	24136541	rs17630758	22	24135042	rs9624326	1.0	1.0
+rs9624326	IgG glycosylation patterns	SMARCB1	spatial			rs9624326			rs9624326	1.0	1.0
+rs9624326	IgG glycosylation patterns	SMARCB1	spatial	22	24139273	rs9624327	22	24135042	rs9624326	1.0	1.0
+rs9624334	IgG glycosylation patterns	SMARCB1	spatial	22	24170995	rs2186369	22	24166255	rs9624334	0.991928	1.0
+rs9624334	IgG glycosylation patterns	SMARCB1	spatial			rs9624334			rs9624334	1.0	1.0
+rs34556611	IgG glycosylation patterns	SMARCB1	spatial			rs34556611			rs34556611	1.0	1.0
+rs34556611	IgG glycosylation patterns	SMARCB1	spatial	22	24146628	rs9620326	22	24149548	rs34556611	0.996058	1.0
+rs2186369	IgG glycosylation patterns	SMARCB1	spatial			rs2186369			rs2186369	1.0	1.0
+rs2186369	IgG glycosylation patterns	SMARCB1	spatial	22	24175439	rs34864242	22	24170995	rs2186369	1.0	1.0
+rs2186369	IgG glycosylation patterns	SMARCB1	spatial	22	24166255	rs9624334	22	24170995	rs2186369	0.991928	1.0
+rs73396548	IgG glycosylation patterns	SMARCB1	spatial	22	24109408	rs73396549	22	24109284	rs73396548	0.996184	1.0
+rs9624327	IgG glycosylation patterns	SMARCB1	spatial	22	24144124	rs17548631	22	24139273	rs9624327	1.0	1.0
+rs9624327	IgG glycosylation patterns	SMARCB1	spatial	22	24136541	rs17630758	22	24139273	rs9624327	1.0	1.0
+rs9624327	IgG glycosylation patterns	SMARCB1	spatial	22	24135042	rs9624326	22	24139273	rs9624327	1.0	1.0
+rs9624327	IgG glycosylation patterns	SMARCB1	spatial			rs9624327			rs9624327	1.0	1.0
+rs9264744	A body shape index	HLA-B	spatial	6	31244213	rs9264733	6	31245359	rs9264744	-0.995847	-1.0
+rs9264744	A body shape index	HLA-B	spatial	6	31244330	rs9264740	6	31245359	rs9264744	-0.995847	-1.0
+rs34929649	A body shape index	HLA-DQB2	spatial			rs34929649			rs34929649	1.0	1.0
+rs17407577	A body shape index	FGF2	spatial	4	123780858	rs1563705	4	123779340	rs17407577	0.982154	1.0
+rs17407577	A body shape index	FGF2	spatial			rs17407577			rs17407577	1.0	1.0
+rs17407577	A body shape index	FGF2	spatial	4	123781371	rs201293452	4	123779340	rs17407577	0.982154	1.0
+rs17407577	A body shape index	FGF2	spatial	4	123781831	rs45478695	4	123779340	rs17407577	0.991108	1.0
+rs2844582	A body shape index	HLA-B	spatial	6	31330250	rs2250287	6	31332525	rs2844582	0.996754	1.0
+rs2844582	A body shape index	HLA-B	spatial	6	31333913	rs2523543	6	31332525	rs2844582	0.996754	1.0
+rs2844582	A body shape index	HLA-B	spatial	6	31332050	rs2523551	6	31332525	rs2844582	1.0	1.0
+rs2844582	A body shape index	HLA-B	spatial	6	31330695	rs2523561	6	31332525	rs2844582	1.0	1.0
+rs2844582	A body shape index	HLA-B	spatial	6	31330369	rs2523564	6	31332525	rs2844582	0.996754	1.0
+rs2844582	A body shape index	HLA-B	spatial	6	31329733	rs2523570	6	31332525	rs2844582	0.911252	0.993281
+rs2844582	A body shape index	HLA-B	spatial	6	31332238	rs2596551	6	31332525	rs2844582	1.0	1.0
+rs2844582	A body shape index	HLA-B	spatial	6	31333715	rs2844579	6	31332525	rs2844582	1.0	1.0
+rs2395475	A body shape index	HLA-B	spatial	6	31327381	rs2395476	6	31326919	rs2395475	0.914787	0.984239
+rs2395475	A body shape index	HLA-B	spatial	6	31327503	rs2523585	6	31326919	rs2395475	0.902309	0.95873
+rs2395475	A body shape index	HLA-B	spatial	6	31327399	rs2523587	6	31326919	rs2395475	0.917317	0.989454
+rs2395475	A body shape index	HLA-B	spatial	6	31325402	rs33931933	6	31326919	rs2395475	0.914787	0.984239
+rs2395475	A body shape index	HLA-B	spatial	6	31325340	rs9266230	6	31326919	rs2395475	0.914787	0.984239
+rs2395475	A body shape index	HLA-B	spatial	6	31325379	rs9266231	6	31326919	rs2395475	0.917317	0.989454
+rs2395475	A body shape index	HLA-B	spatial	6	31325423	rs9266232	6	31326919	rs2395475	0.917317	0.989454
+rs2395475	A body shape index	HLA-B	spatial	6	31325493	rs9266234	6	31326919	rs2395475	0.904782	0.963758
+rs2395475	A body shape index	HLA-B	spatial	6	31325503	rs9266235	6	31326919	rs2395475	0.894956	0.943862
+rs2395475	A body shape index	HLA-B	spatial	6	31325564	rs9266241	6	31326919	rs2395475	0.909762	0.973924
+rs2395475	A body shape index	HLA-B	spatial	6	31325619	rs9266242	6	31326919	rs2395475	0.914787	0.984239
+rs2395475	A body shape index	HLA-B	spatial	6	31325622	rs9266243	6	31326919	rs2395475	0.914787	0.984239
+rs74618856	A body shape index	HLA-B	spatial			rs74618856			rs74618856	1.0	1.0
+rs74618856	A body shape index	HLA-B	spatial	6	31325755	rs9266247	6	31325744	rs74618856	0.989302	0.995685
+rs74618856	A body shape index	HLA-B	spatial	6	31325757	rs9266248	6	31325744	rs74618856	1.0	1.0
+rs2596474	A body shape index	HLA-B	spatial			rs2596474			rs2596474	1.0	1.0
+rs9266245	A body shape index	HLA-B	spatial	6	31328541	rs2523578	6	31325701	rs9266245	1.0	1.0
+rs9266245	A body shape index	HLA-B	spatial	6	31328091	rs2523582	6	31325701	rs9266245	1.0	1.0
+rs9266245	A body shape index	HLA-B	spatial	6	31327894	rs2523583	6	31325701	rs9266245	0.99387	1.0
+rs9266245	A body shape index	HLA-B	spatial	6	31326174	rs2523598	6	31325701	rs9266245	0.920948	1.0
+rs9266245	A body shape index	HLA-B	spatial	6	31325691	rs9266244	6	31325701	rs9266245	1.0	1.0
+rs9266245	A body shape index	HLA-B	spatial			rs9266245			rs9266245	1.0	1.0
+rs9266245	A body shape index	HLA-B	spatial	6	31325821	rs9266252	6	31325701	rs9266245	0.987821	1.0
+rs9266245	Waist-hip index	HLA-B	spatial	6	31328541	rs2523578	6	31325701	rs9266245	1.0	1.0
+rs9266245	Waist-hip index	HLA-B	spatial	6	31328091	rs2523582	6	31325701	rs9266245	1.0	1.0
+rs9266245	Waist-hip index	HLA-B	spatial	6	31327894	rs2523583	6	31325701	rs9266245	0.99387	1.0
+rs9266245	Waist-hip index	HLA-B	spatial	6	31326174	rs2523598	6	31325701	rs9266245	0.920948	1.0
+rs9266245	Waist-hip index	HLA-B	spatial	6	31325691	rs9266244	6	31325701	rs9266245	1.0	1.0
+rs9266245	Waist-hip index	HLA-B	spatial			rs9266245			rs9266245	1.0	1.0
+rs9266245	Waist-hip index	HLA-B	spatial	6	31325821	rs9266252	6	31325701	rs9266245	0.987821	1.0
+rs9276578	A body shape index	HLA-DQB2	spatial	6	32725831	rs9276576	6	32726273	rs9276578	0.975915	1.0
+rs9276578	A body shape index	HLA-DQB2	spatial	6	32730834	rs9276584	6	32726273	rs9276578	0.975915	1.0
+rs7629072	Waist-hip index	WDR82	spatial	3	52308844	rs6445358	3	52305632	rs7629072	1.0	1.0
+rs7629072	Waist-hip index	WDR82	spatial			rs7629072			rs7629072	1.0	1.0
+rs9264764	Waist-hip index	HLA-B	spatial	6	31249126	rs2253487	6	31249397	rs9264764	0.997901	1.0
+rs9264764	Waist-hip index	HLA-B	spatial	6	31249228	rs2853941	6	31249397	rs9264764	0.995809	1.0
+rs9264764	Waist-hip index	HLA-B	spatial			rs9264764			rs9264764	1.0	1.0
+rs9264764	Waist-hip index	HLA-B	spatial	6	31249477	rs9264765	6	31249397	rs9264764	1.0	1.0
+rs7532151	Imidazole lactate levels	KYAT3	spatial			rs7532151			rs7532151	1.0	1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial	1	89436180	rs10801699	1	89435522	rs2810876	-0.988124	-1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial	1	89438738	rs12729969	1	89435522	rs2810876	-0.988124	-1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial			rs2810876			rs2810876	1.0	1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial	1	89435413	rs3753679	1	89435522	rs2810876	-0.992068	-1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial	1	89438112	rs4142616	1	89435522	rs2810876	-0.992068	-1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial	1	89431276	rs7526419	1	89435522	rs2810876	-0.992068	-1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial	1	89435777	rs7539070	1	89435522	rs2810876	-0.992068	-1.0
+rs2810876	Imidazole lactate levels	KYAT3	spatial	1	89438597	rs7556189	1	89435522	rs2810876	-0.992068	-1.0
+rs10801696	Imidazole lactate levels	KYAT3	spatial			rs10801696			rs10801696	1.0	1.0
+rs10801696	Imidazole lactate levels	KYAT3	spatial	1	89402959	rs12729558	1	89406540	rs10801696	-0.994045	-1.0
+rs10801696	Imidazole lactate levels	KYAT3	spatial	1	89403477	rs35023423	1	89406540	rs10801696	-0.992068	-1.0
+rs10801696	Imidazole lactate levels	KYAT3	spatial	1	89402378	rs35499972	1	89406540	rs10801696	1.0	1.0
+rs10801696	Imidazole lactate levels	KYAT3	spatial	1	89408072	rs4233335	1	89406540	rs10801696	0.998011	1.0
+rs10801696	Imidazole lactate levels	KYAT3	spatial	1	89409910	rs7530513	1	89406540	rs10801696	-0.982234	-1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89412371	rs12144640	1	89413919	rs2893083	0.990087	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89415575	rs1325923	1	89413919	rs2893083	1.0	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89418230	rs1409151	1	89413919	rs2893083	1.0	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89418402	rs1409152	1	89413919	rs2893083	0.996024	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89413872	rs2390675	1	89413919	rs2893083	1.0	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial			rs2893083			rs2893083	1.0	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89417314	rs6428487	1	89413919	rs2893083	1.0	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89413352	rs6663465	1	89413919	rs2893083	1.0	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89416515	rs6673179	1	89413919	rs2893083	1.0	1.0
+rs2893083	Imidazole lactate levels	KYAT3	spatial	1	89409910	rs7530513	1	89413919	rs2893083	0.990087	1.0
+rs7530513	Imidazole lactate levels	KYAT3	spatial	1	89406540	rs10801696	1	89409910	rs7530513	-0.982234	-1.0
+rs7530513	Imidazole lactate levels	KYAT3	spatial	1	89412371	rs12144640	1	89409910	rs7530513	1.0	1.0
+rs7530513	Imidazole lactate levels	KYAT3	spatial	1	89413872	rs2390675	1	89409910	rs7530513	0.990087	1.0
+rs7530513	Imidazole lactate levels	KYAT3	spatial	1	89413919	rs2893083	1	89409910	rs7530513	0.990087	1.0
+rs7530513	Imidazole lactate levels	KYAT3	spatial	1	89408072	rs4233335	1	89409910	rs7530513	-0.984191	-1.0
+rs7530513	Imidazole lactate levels	KYAT3	spatial	1	89413352	rs6663465	1	89409910	rs7530513	0.990087	1.0
+rs7530513	Imidazole lactate levels	KYAT3	spatial			rs7530513			rs7530513	1.0	1.0
+rs12888955	Eczema	TRAF3	spatial	14	103261299	rs12432777	14	103256876	rs12888955	0.99124	1.0
+rs12888955	Eczema	TRAF3	spatial			rs12888955			rs12888955	1.0	1.0
+rs12888955	Eczema	TRAF3	spatial	14	103261734	rs62008982	14	103256876	rs12888955	0.99124	1.0
+rs12888955	Eczema	TRAF3	spatial	14	103255460	rs7145882	14	103256876	rs12888955	0.94269	0.981383
+rs12147883	Eczema	TRAF3	spatial			rs12147883			rs12147883	1.0	1.0
+rs13323006	Eczema	CD200R1	spatial	3	112625161	rs11720045	3	112623549	rs13323006	0.982441	0.99553
+rs13323006	Eczema	CD200R1	spatial	3	112624393	rs9825873	3	112623549	rs13323006	0.997807	1.0
+rs13323006	Eczema	CD200R1	spatial	3	112624058	rs9845041	3	112623549	rs13323006	0.997807	1.0
+rs13323006	Eczema	CD200R1	spatial	3	112624729	rs9863580	3	112623549	rs13323006	0.997807	1.0
+rs13323006	Eczema	CD200R1	spatial	3	112625136	rs9877803	3	112623549	rs13323006	0.997807	1.0
+rs7713145	Eczema	RGS14	spatial	5	176780136	rs13362309	5	176781208	rs7713145	0.926186	0.990431
+rs7713145	Eczema	RGS14	spatial	5	176779688	rs34316179	5	176781208	rs7713145	0.936477	0.990503
+rs7713145	Eczema	RGS14	spatial	5	176780544	rs4131289	5	176781208	rs7713145	0.938557	0.990518
+rs7713145	Eczema	RGS14	spatial	5	176777021	rs4397143	5	176781208	rs7713145	0.936477	0.990503
+rs7713145	Eczema	RGS14	spatial	5	176777492	rs4976645	5	176781208	rs7713145	0.936477	0.990503
+rs61938962	Eczema	RPS26	spatial	12	56445365	rs10876866	12	56446765	rs61938962	0.997749	1.0
+rs61938962	Eczema	RPS26	spatial	12	56450106	rs141490969	12	56446765	rs61938962	1.0	1.0
+rs61938962	Eczema	RPS26	spatial			rs61938962			rs61938962	1.0	1.0
+rs61938962	Eczema	RPS26	spatial	12	56446803	rs61938963	12	56446765	rs61938962	1.0	1.0
+rs61938962	Eczema	RPS26	spatial	12	56449434	rs7302200	12	56446765	rs61938962	0.997746	1.0
+rs495828	Eczema	RAPGEF1	spatial	9	136154999	rs635634	9	136154866	rs495828	0.913521	1.0
+rs12886625	Eczema	TRAF3	spatial			rs12886625			rs12886625	1.0	1.0
+rs4580194	Eczema	PSMD3	spatial			rs4580194			rs4580194	1.0	1.0
+rs5751086	Eczema	EP300	spatial	22	41767134	rs4820438	22	41768861	rs5751086	0.907487	0.961211
+rs5751086	Eczema	EP300	spatial	22	41768624	rs9611566	22	41768861	rs5751086	0.912797	0.972067
+rs1800404	Eye color	OCA2	spatial	15	28237565	rs11630828	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28238518	rs12595216	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28238072	rs1868331	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28238082	rs1868332	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28238362	rs1868334	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28240600	rs1900757	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28239300	rs2015343	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28239734	rs2077596	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28237908	rs7178315	15	28235772	rs1800404	0.994122	1.0
+rs1800404	Eye color	OCA2	spatial	15	28238901	rs735067	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28240303	rs8024822	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28239709	rs8029026	15	28235772	rs1800404	1.0	1.0
+rs1800404	Eye color	OCA2	spatial	15	28240033	rs8041084	15	28235772	rs1800404	1.0	1.0
+rs4778219	Eye color	OCA2	spatial	15	28214147	rs11857036	15	28213849	rs4778219	0.995991	1.0
+rs4778219	Eye color	OCA2	spatial			rs4778219			rs4778219	1.0	1.0
+rs4778219	Eye color	OCA2	spatial	15	28213923	rs72625132	15	28213849	rs4778219	0.995991	1.0
+rs4778137	Eye color	OCA2	spatial			rs4778137			rs4778137	1.0	1.0
+rs62007489	Eye color	OCA2	spatial			rs62007489			rs62007489	1.0	1.0
+rs34369918	Eye color	OCA2	spatial	15	28281764	rs4778232	15	28277937	rs34369918	0.897027	0.938614
+rs72714114	Eye color	OCA2	spatial			rs72714114			rs72714114	1.0	1.0
+rs895828	Eye color	OCA2	spatial			rs895828			rs895828	1.0	1.0
+rs9276456	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	HLA-DQB2	spatial			rs9276456			rs9276456	1.0	1.0
+rs6930571	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	HLA-DQB2	spatial	6	32380207	rs3129963	6	32383207	rs6930571	0.953806	0.982531
+rs6930571	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	HLA-DQB2	spatial	6	32380829	rs3129965	6	32383207	rs6930571	0.953806	0.982531
+rs9276424	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	HLA-DQB2	spatial	6	32715370	rs9276444	6	32710934	rs9276424	0.981358	1.0
+rs9276424	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	HLA-DQB2	spatial	6	32715568	rs9276447	6	32710934	rs9276424	0.977128	0.991521
+rs9276424	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	HLA-DQB2	spatial	6	32715845	rs9276454	6	32710934	rs9276424	0.977128	0.991521
+rs3859191	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38126476	rs4580194	17	38128713	rs3859191	0.908632	0.953557
+rs56030650	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38134888	rs3907022	17	38131186	rs56030650	1.0	1.0
+rs56030650	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38126476	rs4580194	17	38131186	rs56030650	0.904392	0.945314
+rs57968500	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38146262	rs3217173	17	38145827	rs57968500	1.0	1.0
+rs57968500	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38150491	rs3826331	17	38145827	rs57968500	-0.971001	-1.0
+rs57968500	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38150603	rs4795412	17	38145827	rs57968500	0.997884	1.0
+rs57968500	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial			rs57968500			rs57968500	1.0	1.0
+rs8070454	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38156502	rs34004047	17	38160753	rs8070454	1.0	1.0
+rs8070454	Phosphatidylcholine-O_44:5_[M+OAc]1-/Phosphatidylcholine-P_44:4_[M+OAc]1- levels	PSMD3	spatial	17	38156711	rs4794822	17	38160753	rs8070454	1.0	1.0
+rs2524139	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31265489	rs2247056	6	31264132	rs2524139	0.996958	1.0
+rs2524139	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31267421	rs2524060	6	31264132	rs2524139	0.996958	1.0
+rs2524139	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31265134	rs2524129	6	31264132	rs2524139	0.996958	1.0
+rs2524139	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial			rs2524139			rs2524139	1.0	1.0
+rs2524139	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31263521	rs2524142	6	31264132	rs2524139	1.0	1.0
+rs2524139	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31263509	rs2524143	6	31264132	rs2524139	0.996958	1.0
+rs2524143	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31265489	rs2247056	6	31263509	rs2524143	0.993896	0.993896
+rs2524143	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31267421	rs2524060	6	31263509	rs2524143	0.993896	0.993896
+rs2524143	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31265134	rs2524129	6	31263509	rs2524143	0.993896	0.993896
+rs2524143	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31264132	rs2524139	6	31263509	rs2524143	0.996958	1.0
+rs2524143	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31263521	rs2524142	6	31263509	rs2524143	0.996958	1.0
+rs2524143	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial			rs2524143			rs2524143	1.0	1.0
+rs7750963	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31276446	rs1005599	6	31271566	rs7750963	0.923111	0.937438
+rs7750963	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31267421	rs2524060	6	31271566	rs7750963	1.0	1.0
+rs7750963	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31270102	rs35261767	6	31271566	rs7750963	0.996947	1.0
+rs7750963	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31272260	rs6457374	6	31271566	rs7750963	0.996947	1.0
+rs7750963	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial			rs7750963			rs7750963	1.0	1.0
+rs76104167	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31166682	rs3094608	6	31164234	rs76104167	0.920101	1.0
+rs76104167	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31165565	rs3094609	6	31164234	rs76104167	0.924357	1.0
+rs76104167	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31165149	rs3094610	6	31164234	rs76104167	0.924357	1.0
+rs76104167	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31164699	rs3130461	6	31164234	rs76104167	0.924357	1.0
+rs76104167	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31165276	rs3130462	6	31164234	rs76104167	0.920101	1.0
+rs76104167	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	HLA-B	spatial	6	31165961	rs3130463	6	31164234	rs76104167	0.920101	1.0
+rs6125611	Phoneme awareness	PTPN1	spatial	20	47903825	rs6122781	20	47904733	rs6125611	1.0	1.0
+rs6125611	Phoneme awareness	PTPN1	spatial	20	47904297	rs6125610	20	47904733	rs6125611	1.0	1.0
+rs6122781	Phoneme awareness	PTPN1	spatial			rs6122781			rs6122781	1.0	1.0
+rs6122781	Phoneme awareness	PTPN1	spatial	20	47904297	rs6125610	20	47903825	rs6122781	1.0	1.0
+rs6125610	Phoneme awareness	PTPN1	spatial	20	47903825	rs6122781	20	47904297	rs6125610	1.0	1.0
+rs6125610	Phoneme awareness	PTPN1	spatial			rs6125610			rs6125610	1.0	1.0
+rs6067034	Phoneme awareness	PTPN1	spatial	20	47903825	rs6122781	20	47900163	rs6067034	1.0	1.0
+rs6067034	Phoneme awareness	PTPN1	spatial	20	47904297	rs6125610	20	47900163	rs6067034	1.0	1.0
+rs6125612	Phoneme awareness	PTPN1	spatial	20	47903825	rs6122781	20	47906557	rs6125612	1.0	1.0
+rs6125612	Phoneme awareness	PTPN1	spatial	20	47904297	rs6125610	20	47906557	rs6125612	1.0	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43853908	rs11037663	11	43849883	rs9651613	0.96868	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43848337	rs1464229	11	43849883	rs9651613	0.966311	0.995313
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43848753	rs1464230	11	43849883	rs9651613	0.990876	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43846704	rs2037297	11	43849883	rs9651613	0.990876	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43847910	rs6485468	11	43849883	rs9651613	0.96868	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43849292	rs6485469	11	43849883	rs9651613	0.990876	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43851802	rs6485470	11	43849883	rs9651613	0.96868	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43846849	rs7131110	11	43849883	rs9651613	0.990876	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43847488	rs77121064	11	43849883	rs9651613	0.96868	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial	11	43851473	rs7935296	11	43849883	rs9651613	0.96868	1.0
+rs9651613	X-17357 levels	HSD17B12	spatial			rs9651613			rs9651613	1.0	1.0
+rs77774512	X-17357 levels	HSD17B12	spatial			rs77774512			rs77774512	1.0	1.0
+rs7928134	X-17357 levels	HSD17B12	spatial	11	43786553	rs10672279	11	43786312	rs7928134	1.0	1.0
+rs7928134	X-17357 levels	HSD17B12	spatial	11	43785732	rs10734517	11	43786312	rs7928134	1.0	1.0
+rs7928134	X-17357 levels	HSD17B12	spatial	11	43789221	rs10838162	11	43786312	rs7928134	1.0	1.0
+rs7928134	X-17357 levels	HSD17B12	spatial			rs7928134			rs7928134	1.0	1.0
+rs35176357	X-18886 levels	HSD17B12	spatial	11	43693109	rs35060985	11	43697158	rs35176357	0.915765	0.941964
+rs35176357	X-18886 levels	HSD17B12	spatial	11	43692383	rs59149077	11	43697158	rs35176357	0.911425	0.937499
+rs35176357	X-18886 levels	HSD17B12	spatial	11	43692422	rs59227842	11	43697158	rs35176357	0.911425	0.937499
+rs35176357	X-18886 levels	HSD17B12	spatial	11	43692421	rs59298872	11	43697158	rs35176357	0.911425	0.937499
+rs35176357	X-18886 levels	HSD17B12	spatial	11	43692382	rs60572790	11	43697158	rs35176357	0.911425	0.937499
+rs35176357	X-18886 levels	HSD17B12	spatial	11	43696315	rs6485443	11	43697158	rs35176357	0.915765	0.941964
+rs35176357	X-18886 levels	HSD17B12	spatial	11	43696916	rs7116641	11	43697158	rs35176357	0.913601	0.941798
+rs35251247	X-18886 levels	HSD17B12	spatial	11	43877933	rs1061810	11	43878458	rs35251247	0.997648	1.0
+rs35251247	X-18886 levels	HSD17B12	spatial	11	43876697	rs11555762	11	43878458	rs35251247	0.956924	1.0
+rs35251247	X-18886 levels	HSD17B12	spatial	11	43875713	rs12417393	11	43878458	rs35251247	0.956924	1.0
+rs35251247	X-18886 levels	HSD17B12	spatial	11	43877203	rs146635402	11	43878458	rs35251247	0.95911	1.0
+rs35251247	X-18886 levels	HSD17B12	spatial			rs35251247			rs35251247	1.0	1.0
+rs35251247	X-18886 levels	HSD17B12	spatial	11	43876434	rs3736505	11	43878458	rs35251247	0.956924	1.0
+rs35251247	X-18886 levels	HSD17B12	spatial	11	43878484	rs57635800	11	43878458	rs35251247	0.997648	1.0
+rs35251247	X-18886 levels	HSD17B12	spatial	11	43875315	rs58817325	11	43878458	rs35251247	0.956924	1.0
+rs10838163	X-18886 levels	HSD17B12	spatial			rs10838163			rs10838163	1.0	1.0
+rs10838163	X-18886 levels	HSD17B12	spatial	11	43794591	rs1878765	11	43797427	rs10838163	0.953983	1.0
+rs10838163	X-18886 levels	HSD17B12	spatial	11	43793572	rs57324758	11	43797427	rs10838163	0.951809	1.0
+rs11372849	Opioid use disorder	IGF1R	spatial	15	91416549	rs17514846	15	91419431	rs11372849	0.954306	0.975502
+rs9478500	Opioid use disorder	GRM1	spatial	6	154377924	rs3778146	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154378738	rs3778147	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154381011	rs3778148	6	154378222	rs9478500	0.992321	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154382138	rs3778149	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154379151	rs3823010	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154382638	rs7759522	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154382472	rs7772959	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154382366	rs7773995	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154379933	rs9285542	6	154378222	rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial			rs9478500			rs9478500	1.0	1.0
+rs9478500	Opioid use disorder	GRM1	spatial	6	154383057	rs9479754	6	154378222	rs9478500	1.0	1.0
+rs3778151	Opioid use disorder	GRM1	spatial	6	154389782	rs7453922	6	154393679	rs3778151	0.950037	0.953696
+rs4702	Opioid use disorder	IGF1R	spatial			rs4702			rs4702	1.0	1.0
+rs10922532	X-23639 levels	KYAT3	spatial			rs10922532			rs10922532	1.0	1.0
+rs10922532	X-23639 levels	KYAT3	spatial	1	89440674	rs35594043	1	89442732	rs10922532	0.929899	0.964416
+rs10922532	X-23639 levels	KYAT3	spatial	1	89440895	rs4656069	1	89442732	rs10922532	0.937216	0.986506
+rs17472737	X-23639 levels	KYAT3	spatial	1	89422083	rs10801697	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89422172	rs10801698	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89426276	rs10922529	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89427452	rs1325922	1	89425938	rs17472737	0.996024	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89429038	rs1409148	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89429148	rs1409149	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89430419	rs1536259	1	89425938	rs17472737	0.996024	1.0
+rs17472737	X-23639 levels	KYAT3	spatial			rs17472737			rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89425965	rs17472779	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89426259	rs2765527	1	89425938	rs17472737	-0.996025	-1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89425805	rs28633936	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89426901	rs3738055	1	89425938	rs17472737	0.996024	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89427570	rs3753683	1	89425938	rs17472737	0.992034	0.992034
+rs17472737	X-23639 levels	KYAT3	spatial	1	89428106	rs3820242	1	89425938	rs17472737	1.0	1.0
+rs17472737	X-23639 levels	KYAT3	spatial	1	89423919	rs6682686	1	89425938	rs17472737	0.992068	1.0
+rs10801699	X-23639 levels	KYAT3	spatial			rs10801699			rs10801699	1.0	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89440803	rs12065833	1	89436180	rs10801699	0.996023	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89438738	rs12729969	1	89436180	rs10801699	1.0	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89435522	rs2810876	1	89436180	rs10801699	-0.988124	-1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89435413	rs3753679	1	89436180	rs10801699	0.996024	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89438112	rs4142616	1	89436180	rs10801699	0.996024	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89440916	rs4656070	1	89436180	rs10801699	1.0	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89440976	rs4656071	1	89436180	rs10801699	1.0	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89431276	rs7526419	1	89436180	rs10801699	0.996024	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89435777	rs7539070	1	89436180	rs10801699	0.996024	1.0
+rs10801699	X-23639 levels	KYAT3	spatial	1	89438597	rs7556189	1	89436180	rs10801699	0.996024	1.0

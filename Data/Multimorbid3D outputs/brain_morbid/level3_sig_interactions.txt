@@ -1,0 +1,1536 @@
+snp	trait	gene	eqtl_type	chromq	posq	rsidq	chromt	post	rsidt	corr	dprime
+rs1883832	Chronic hepatitis B infection	CD40	spatial	20	44742063	rs1569723	20	44746981	rs1883832	0.994827	1.0
+rs1883832	Inflammatory bowel disease	CD40	spatial	20	44742063	rs1569723	20	44746981	rs1883832	0.994827	1.0
+rs1883832	Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	CD40	spatial	20	44742063	rs1569723	20	44746981	rs1883832	0.994827	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32675031	rs17206343	6	32670254	rs2856718	1.0	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32675146	rs17206371	6	32670254	rs2856718	1.0	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32675170	rs17206392	6	32670254	rs2856718	1.0	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32675241	rs17206420	6	32670254	rs2856718	1.0	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32674868	rs17212650	6	32670254	rs2856718	0.980662	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32674902	rs17212657	6	32670254	rs2856718	0.980662	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32675001	rs17212671	6	32670254	rs2856718	1.0	1.0
+rs2856718	Chronic hepatitis B infection	HLA-DQA1	spatial	6	32675206	rs17212720	6	32670254	rs2856718	1.0	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32675031	rs17206343	6	32670254	rs2856718	1.0	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32675146	rs17206371	6	32670254	rs2856718	1.0	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32675170	rs17206392	6	32670254	rs2856718	1.0	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32675241	rs17206420	6	32670254	rs2856718	1.0	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32674868	rs17212650	6	32670254	rs2856718	0.980662	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32674902	rs17212657	6	32670254	rs2856718	0.980662	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32675001	rs17212671	6	32670254	rs2856718	1.0	1.0
+rs2856718	Hepatitis B	HLA-DQA1	spatial	6	32675206	rs17212720	6	32670254	rs2856718	1.0	1.0
+rs9277535	Chronic hepatitis B infection	HLA-DPB1	spatial	6	33053025	rs9277457	6	33054860	rs9277535	1.0	1.0
+rs9277535	Chronic hepatitis B infection	HLA-DPB1	spatial	6	33055500	rs9277552	6	33054860	rs9277535	0.896841	0.994135
+rs9277535	Chronic hepatitis B infection	HLA-DPB1	spatial	6	33057054	rs9277568	6	33054860	rs9277535	0.963597	1.0
+rs9277535	Hepatitis B	HLA-DPB1	spatial	6	33053025	rs9277457	6	33054860	rs9277535	1.0	1.0
+rs9277535	Hepatitis B	HLA-DPB1	spatial	6	33055500	rs9277552	6	33054860	rs9277535	0.896841	0.994135
+rs9277535	Hepatitis B	HLA-DPB1	spatial	6	33057054	rs9277568	6	33054860	rs9277535	0.963597	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32705150	rs28383919	6	32707294	rs9276370	0.997943	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32703365	rs2859071	6	32707294	rs9276370	0.993829	0.995876
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32702799	rs2859074	6	32707294	rs9276370	0.991766	0.991766
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32707886	rs5021450	6	32707294	rs9276370	1.0	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32706041	rs7773149	6	32707294	rs9276370	1.0	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32704658	rs9276311	6	32707294	rs9276370	0.993837	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32704942	rs9276316	6	32707294	rs9276370	1.0	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32704976	rs9276317	6	32707294	rs9276370	1.0	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32705022	rs9276321	6	32707294	rs9276370	1.0	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32705294	rs9276326	6	32707294	rs9276370	0.993851	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32705796	rs9276342	6	32707294	rs9276370	0.991812	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32705806	rs9276343	6	32707294	rs9276370	0.991812	1.0
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32707017	rs9276362	6	32707294	rs9276370	0.993829	0.995876
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial	6	32707038	rs9276364	6	32707294	rs9276370	0.993829	0.995876
+rs9276370	Chronic hepatitis B infection	HLA-DQA2	spatial			rs9276370			rs9276370	1.0	1.0
+rs9277562	Chronic hepatitis B infection	HLA-DPB1	spatial	6	33053025	rs9277457	6	33056761	rs9277562	0.982069	0.989658
+rs9277562	Chronic hepatitis B infection	HLA-DPB1	spatial	6	33057054	rs9277568	6	33056761	rs9277562	0.943883	0.98449
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33073462	rs2064474	6	33069892	rs3117242	0.919705	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33073439	rs2064475	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33072286	rs2064477	6	33069892	rs3117242	0.979906	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33072265	rs2064478	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33072239	rs2064479	6	33069892	rs3117242	0.979906	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33074568	rs3117232	6	33069892	rs3117242	0.919705	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33074347	rs3117233	6	33069892	rs3117242	0.896841	0.994135
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33073983	rs3117234	6	33069892	rs3117242	0.919705	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33073067	rs3117236	6	33069892	rs3117242	0.919705	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33071776	rs3117239	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33071334	rs3117240	6	33069892	rs3117242	0.896841	0.994135
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33071133	rs3117241	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33070748	rs3128921	6	33069892	rs3117242	0.979906	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33070816	rs3128922	6	33069892	rs3117242	0.979906	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33071599	rs3128925	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33071753	rs3128926	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33074852	rs3128929	6	33069892	rs3117242	0.919705	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33071707	rs3129196	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33072728	rs3130210	6	33069892	rs3117242	0.89962	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33073075	rs3130211	6	33069892	rs3117242	0.919705	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33074388	rs3130212	6	33069892	rs3117242	0.919705	1.0
+rs3117242	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33074706	rs3130213	6	33069892	rs3117242	0.89962	1.0
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32600248	rs13211123	6	32600056	rs35242582	0.917024	0.929392
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32600248	rs13211123	6	32600056	rs35242582	0.917024	0.929392
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602195	rs17205114	6	32600056	rs35242582	0.927774	0.977835
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602195	rs17205114	6	32600056	rs35242582	0.927774	0.977835
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602216	rs17205128	6	32600056	rs35242582	0.924921	0.972331
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602216	rs17205128	6	32600056	rs35242582	0.924921	0.972331
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602221	rs17205135	6	32600056	rs35242582	0.924921	0.972331
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602221	rs17205135	6	32600056	rs35242582	0.924921	0.972331
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602517	rs17205177	6	32600056	rs35242582	0.93829	0.988917
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602517	rs17205177	6	32600056	rs35242582	0.93829	0.988917
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602178	rs17211454	6	32600056	rs35242582	0.930185	0.977865
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602429	rs17211510	6	32600056	rs35242582	0.941129	0.994451
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602429	rs17211510	6	32600056	rs35242582	0.941129	0.994451
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602607	rs17211545	6	32600056	rs35242582	0.935878	0.988902
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602607	rs17211545	6	32600056	rs35242582	0.935878	0.988902
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602753	rs17211580	6	32600056	rs35242582	0.933478	0.988887
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602753	rs17211580	6	32600056	rs35242582	0.933478	0.988887
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602816	rs17211601	6	32600056	rs35242582	0.923996	0.988827
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602816	rs17211601	6	32600056	rs35242582	0.923996	0.988827
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32603354	rs28407322	6	32600056	rs35242582	0.935878	0.988902
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32603354	rs28407322	6	32600056	rs35242582	0.935878	0.988902
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602863	rs28533091	6	32600056	rs35242582	0.923996	0.988827
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602863	rs28533091	6	32600056	rs35242582	0.923996	0.988827
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32603487	rs28675927	6	32600056	rs35242582	0.903315	0.988688
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32603487	rs28675927	6	32600056	rs35242582	0.903315	0.988688
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32603028	rs28694749	6	32600056	rs35242582	0.935878	0.988902
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32603028	rs28694749	6	32600056	rs35242582	0.935878	0.988902
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602123	rs34145408	6	32600056	rs35242582	0.928233	0.983331
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602123	rs34145408	6	32600056	rs35242582	0.928233	0.983331
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32600210	rs34927613	6	32600056	rs35242582	0.92446	0.92446
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32600210	rs34927613	6	32600056	rs35242582	0.92446	0.92446
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA1	spatial	6	32602064	rs72848263	6	32600056	rs35242582	0.925375	0.977805
+rs35242582	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DQA2	spatial	6	32602064	rs72848263	6	32600056	rs35242582	0.925375	0.977805
+rs3130215	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial			rs3130215			rs3130215	1.0	1.0
+rs3130215	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33077270	rs3130216	6	33074962	rs3130215	0.929673	0.982639
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33052381	rs1811359	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33057439	rs3097650	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050441	rs3097672	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050670	rs3097673	6	33054456	rs1042544	0.979278	0.99529
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050682	rs3097674	6	33054456	rs1042544	0.979278	0.99529
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050653	rs3128960	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050741	rs3128961	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33049978	rs9277357	6	33054456	rs1042544	0.970009	0.98587
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33049982	rs9277358	6	33054456	rs1042544	0.970009	0.98587
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050023	rs9277359	6	33054456	rs1042544	0.974684	0.995259
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050044	rs9277361	6	33054456	rs1042544	0.974684	0.995259
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050077	rs9277362	6	33054456	rs1042544	0.958643	0.995149
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050078	rs9277363	6	33054456	rs1042544	0.958643	0.995149
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050088	rs9277365	6	33054456	rs1042544	0.965511	0.995197
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050106	rs9277366	6	33054456	rs1042544	0.958643	0.995149
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050117	rs9277367	6	33054456	rs1042544	0.958643	0.995149
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050124	rs9277368	6	33054456	rs1042544	0.963221	0.995181
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050147	rs9277370	6	33054456	rs1042544	0.960852	0.990394
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050157	rs9277371	6	33054456	rs1042544	0.977833	0.994954
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050167	rs9277372	6	33054456	rs1042544	0.953893	0.985544
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050178	rs9277373	6	33054456	rs1042544	0.95397	0.990298
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050184	rs9277374	6	33054456	rs1042544	0.956263	0.990331
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050185	rs9277375	6	33054456	rs1042544	0.956263	0.990331
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050195	rs9277376	6	33054456	rs1042544	0.949181	0.976064
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050202	rs9277377	6	33054456	rs1042544	0.976946	0.99061
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050278	rs9277378	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050368	rs9277380	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050440	rs9277382	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050472	rs9277385	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050498	rs9277386	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050520	rs9277387	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050524	rs9277388	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33050525	rs9277389	6	33054456	rs1042544	0.981619	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33053025	rs9277457	6	33054456	rs1042544	1.0	1.0
+rs1042544	Antineutrophil cytoplasmic antibody-associated vasculitis	HLA-DPB1	spatial	6	33057054	rs9277568	6	33054456	rs1042544	0.933714	1.0
+rs1569723	Inflammatory bowel disease	CD40	spatial			rs1569723			rs1569723	1.0	1.0
+rs1569723	CD40LG/LYN protein level ratio	CD40	spatial			rs1569723			rs1569723	1.0	1.0
+rs9297145	Inflammatory bowel disease	TRRAP	spatial	7	98763404	rs10953280	7	98759116	rs9297145	1.0	1.0
+rs9297145	Inflammatory bowel disease	TRRAP	spatial	7	98756596	rs6956283	7	98759116	rs9297145	0.988045	1.0
+rs9297145	Inflammatory bowel disease	TRRAP	spatial			rs9297145			rs9297145	1.0	1.0
+rs1991866	Inflammatory bowel disease	TG	spatial			rs1991866			rs1991866	1.0	1.0
+rs1991866	Monocyte count	TG	spatial			rs1991866			rs1991866	1.0	1.0
+rs2076756	Inflammatory bowel disease	NOD2	spatial			rs2076756			rs2076756	1.0	1.0
+rs2076756	Inflammatory bowel disease	NOD2	spatial	16	50758848	rs749910	16	50756880	rs2076756	1.0	1.0
+rs2076756	Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	NOD2	spatial			rs2076756			rs2076756	1.0	1.0
+rs2076756	Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	NOD2	spatial	16	50758848	rs749910	16	50756880	rs2076756	1.0	1.0
+rs6074022	Inflammatory bowel disease	CD40	spatial	20	44742063	rs1569723	20	44740195	rs6074022	1.0	1.0
+rs6927022	Inflammatory bowel disease	HLA-DQA1	spatial			rs6927022			rs6927022	1.0	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32577156	rs138158507	6	32573990	rs9270984	0.987593	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32577196	rs368800004	6	32573990	rs9270984	0.971622	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32574249	rs9270994	6	32573990	rs9270984	1.0	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32574373	rs9270997	6	32573990	rs9270984	1.0	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32574989	rs9271025	6	32573990	rs9270984	0.967726	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32575368	rs9271055	6	32573990	rs9270984	1.0	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32575377	rs9271056	6	32573990	rs9270984	1.0	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32575543	rs9271061	6	32573990	rs9270984	0.995822	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32575618	rs9271065	6	32573990	rs9270984	0.913994	0.981
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32575699	rs9271069	6	32573990	rs9270984	0.936036	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32576075	rs9271080	6	32573990	rs9270984	0.991687	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32576085	rs9271082	6	32573990	rs9270984	0.983541	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32576151	rs9271085	6	32573990	rs9270984	0.975556	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32576340	rs9271093	6	32573990	rs9270984	1.0	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32576763	rs9271116	6	32573990	rs9270984	0.896944	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32577384	rs9271147	6	32573990	rs9270984	0.983135	0.991478
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32577530	rs9271152	6	32573990	rs9270984	0.975556	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32577585	rs9271155	6	32573990	rs9270984	0.979528	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32577712	rs9271161	6	32573990	rs9270984	0.995797	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32578284	rs9271184	6	32573990	rs9270984	0.991687	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32578448	rs9271191	6	32573990	rs9270984	1.0	1.0
+rs9270984	Inflammatory bowel disease	HLA-DQA1	spatial	6	32578884	rs9271203	6	32573990	rs9270984	0.995822	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577156	rs138158507	6	32573990	rs9270984	0.987593	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577196	rs368800004	6	32573990	rs9270984	0.971622	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574249	rs9270994	6	32573990	rs9270984	1.0	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574373	rs9270997	6	32573990	rs9270984	1.0	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574989	rs9271025	6	32573990	rs9270984	0.967726	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575368	rs9271055	6	32573990	rs9270984	1.0	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575377	rs9271056	6	32573990	rs9270984	1.0	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575543	rs9271061	6	32573990	rs9270984	0.995822	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575618	rs9271065	6	32573990	rs9270984	0.913994	0.981
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575699	rs9271069	6	32573990	rs9270984	0.936036	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576075	rs9271080	6	32573990	rs9270984	0.991687	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576085	rs9271082	6	32573990	rs9270984	0.983541	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576151	rs9271085	6	32573990	rs9270984	0.975556	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576340	rs9271093	6	32573990	rs9270984	1.0	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576763	rs9271116	6	32573990	rs9270984	0.896944	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577384	rs9271147	6	32573990	rs9270984	0.983135	0.991478
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577530	rs9271152	6	32573990	rs9270984	0.975556	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577585	rs9271155	6	32573990	rs9270984	0.979528	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577712	rs9271161	6	32573990	rs9270984	0.995797	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578284	rs9271184	6	32573990	rs9270984	0.991687	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578448	rs9271191	6	32573990	rs9270984	1.0	1.0
+rs9270984	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578884	rs9271203	6	32573990	rs9270984	0.995822	1.0
+rs61576454	Inflammatory bowel disease	YEATS4	spatial	12	69744103	rs686407	12	69742767	rs61576454	0.994495	1.0
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587116	rs28383313	6	32589482	rs9271511	0.965808	0.99524
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587457	rs369854808	6	32589482	rs9271511	0.983632	0.990566
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587507	rs9271398	6	32589482	rs9271511	0.971943	0.99041
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587612	rs9271408	6	32589482	rs9271511	0.983632	0.990566
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587627	rs9271409	6	32589482	rs9271511	0.983632	0.990566
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587660	rs9271411	6	32589482	rs9271511	0.983632	0.990566
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587811	rs9271416	6	32589482	rs9271511	0.983632	0.990566
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32587972	rs9271426	6	32589482	rs9271511	0.981293	0.985896
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32588001	rs9271430	6	32589482	rs9271511	0.976604	0.985803
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32588055	rs9271432	6	32589482	rs9271511	0.937019	0.989907
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32588056	rs9271433	6	32589482	rs9271511	0.937019	0.989907
+rs9271511	Inflammatory bowel disease	HLA-DQA1	spatial	6	32588192	rs9271438	6	32589482	rs9271511	0.971943	0.99041
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32674642	rs9275516	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32674648	rs9275517	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32674699	rs9275518	6	32678998	rs9275572	0.995862	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32675108	rs9275524	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32675236	rs9275526	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32675749	rs9275533	6	32678998	rs9275572	0.99379	0.99585
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32675788	rs9275535	6	32678998	rs9275572	0.995857	0.995857
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32675828	rs9275536	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32676016	rs9275538	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32676138	rs9275540	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32677189	rs9275556	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32677198	rs9275557	6	32678998	rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial			rs9275572			rs9275572	1.0	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32679145	rs9275573	6	32678998	rs9275572	0.995869	1.0
+rs9275572	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32679344	rs9275577	6	32678998	rs9275572	0.977568	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574588	rs139581530	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574539	rs28383200	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580879	rs2894378	6	32576477	rs9271100	0.992365	0.994895
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579042	rs34645472	6	32576477	rs9271100	0.946769	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580455	rs3997871	6	32576477	rs9271100	0.98984	0.994888
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580740	rs3997874	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579456	rs574581129	6	32576477	rs9271100	0.953711	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577872	rs66522632	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576383	rs66715534	6	32576477	rs9271100	0.979999	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574126	rs9270987	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574129	rs9270988	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574199	rs9270991	6	32576477	rs9271100	0.979999	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574201	rs9270992	6	32576477	rs9271100	0.979999	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574378	rs9270998	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574437	rs9270999	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574492	rs9271001	6	32576477	rs9271100	0.93992	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574496	rs9271002	6	32576477	rs9271100	0.93992	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574526	rs9271003	6	32576477	rs9271100	0.93992	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574578	rs9271004	6	32576477	rs9271100	0.949073	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574585	rs9271005	6	32576477	rs9271100	0.942193	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574601	rs9271006	6	32576477	rs9271100	0.946769	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574623	rs9271007	6	32576477	rs9271100	0.946769	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574627	rs9271008	6	32576477	rs9271100	0.946769	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574648	rs9271009	6	32576477	rs9271100	0.958391	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574651	rs9271010	6	32576477	rs9271100	0.960748	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574675	rs9271011	6	32576477	rs9271100	0.958391	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574839	rs9271020	6	32576477	rs9271100	0.935405	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574862	rs9271021	6	32576477	rs9271100	0.942193	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574880	rs9271022	6	32576477	rs9271100	0.944476	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574894	rs9271023	6	32576477	rs9271100	0.953711	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574953	rs9271024	6	32576477	rs9271100	0.979999	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574993	rs9271026	6	32576477	rs9271100	0.965493	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575264	rs9271049	6	32576477	rs9271100	0.979864	0.99486
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575274	rs9271050	6	32576477	rs9271100	0.979864	0.99486
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575289	rs9271051	6	32576477	rs9271100	0.979864	0.99486
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575308	rs9271052	6	32576477	rs9271100	0.9774	0.994853
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575318	rs9271053	6	32576477	rs9271100	0.970078	0.994832
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575405	rs9271058	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575512	rs9271060	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575583	rs9271063	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575600	rs9271064	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575630	rs9271066	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575673	rs9271068	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575700	rs9271070	6	32576477	rs9271100	0.984927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575748	rs9271072	6	32576477	rs9271100	0.984927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575802	rs9271073	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575848	rs9271074	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575851	rs9271075	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575872	rs9271076	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575924	rs9271077	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575929	rs9271078	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576051	rs9271079	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576101	rs9271083	6	32576477	rs9271100	0.989903	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576164	rs9271086	6	32576477	rs9271100	0.98234	0.994867
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576169	rs9271087	6	32576477	rs9271100	0.98234	0.994867
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576174	rs9271088	6	32576477	rs9271100	0.98234	0.994867
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576176	rs9271089	6	32576477	rs9271100	0.98234	0.994867
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576246	rs9271090	6	32576477	rs9271100	0.994902	0.994902
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576274	rs9271091	6	32576477	rs9271100	0.98984	0.994888
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576295	rs9271092	6	32576477	rs9271100	0.987328	0.994881
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576346	rs9271094	6	32576477	rs9271100	0.987409	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576425	rs9271096	6	32576477	rs9271100	0.977553	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576438	rs9271097	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576439	rs9271098	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial			rs9271100			rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576492	rs9271101	6	32576477	rs9271100	0.984927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576539	rs9271103	6	32576477	rs9271100	0.967883	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576560	rs9271104	6	32576477	rs9271100	0.963115	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576576	rs9271105	6	32576477	rs9271100	0.975118	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576594	rs9271106	6	32576477	rs9271100	0.949073	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576603	rs9271107	6	32576477	rs9271100	0.949073	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576632	rs9271108	6	32576477	rs9271100	0.963115	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577219	rs9271144	6	32576477	rs9271100	0.987409	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577281	rs9271146	6	32576477	rs9271100	0.992354	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577454	rs9271149	6	32576477	rs9271100	0.979999	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577469	rs9271150	6	32576477	rs9271100	0.970283	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577473	rs9271151	6	32576477	rs9271100	0.970283	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577548	rs9271153	6	32576477	rs9271100	0.977553	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577589	rs9271156	6	32576477	rs9271100	0.992408	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577714	rs9271162	6	32576477	rs9271100	0.994902	0.994902
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577732	rs9271163	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577783	rs9271164	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577784	rs9271165	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577810	rs9271166	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577853	rs9271168	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577888	rs9271170	6	32576477	rs9271100	0.989903	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577906	rs9271171	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577974	rs9271172	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577980	rs9271173	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578039	rs9271174	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578190	rs9271178	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578195	rs9271179	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578208	rs9271180	6	32576477	rs9271100	0.963115	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578229	rs9271182	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578285	rs9271185	6	32576477	rs9271100	0.992365	0.994895
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578296	rs9271186	6	32576477	rs9271100	0.992365	0.994895
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578356	rs9271189	6	32576477	rs9271100	0.992365	0.994895
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578529	rs9271192	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578565	rs9271193	6	32576477	rs9271100	0.997451	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578611	rs9271194	6	32576477	rs9271100	0.997451	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578725	rs9271198	6	32576477	rs9271100	0.994902	0.994902
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578734	rs9271199	6	32576477	rs9271100	0.994902	0.994902
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578755	rs9271200	6	32576477	rs9271100	0.994902	0.994902
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578817	rs9271201	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578836	rs9271202	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578940	rs9271205	6	32576477	rs9271100	0.984927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579034	rs9271209	6	32576477	rs9271100	0.960748	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579069	rs9271210	6	32576477	rs9271100	0.946769	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579077	rs9271211	6	32576477	rs9271100	0.946769	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579078	rs9271212	6	32576477	rs9271100	0.946769	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579210	rs9271213	6	32576477	rs9271100	0.989903	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579419	rs9271225	6	32576477	rs9271100	0.958391	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579479	rs9271227	6	32576477	rs9271100	0.992408	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579480	rs9271228	6	32576477	rs9271100	0.992408	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579514	rs9271229	6	32576477	rs9271100	0.987409	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579518	rs9271230	6	32576477	rs9271100	0.987409	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579519	rs9271231	6	32576477	rs9271100	0.987409	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579548	rs9271234	6	32576477	rs9271100	0.984927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579644	rs9271236	6	32576477	rs9271100	0.994902	0.994902
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579768	rs9271239	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579832	rs9271240	6	32576477	rs9271100	1.0	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579869	rs9271241	6	32576477	rs9271100	0.992408	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579939	rs9271242	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579950	rs9271243	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580083	rs9271246	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580111	rs9271247	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580156	rs9271248	6	32576477	rs9271100	0.997457	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580233	rs9271250	6	32576477	rs9271100	0.992408	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580240	rs9271251	6	32576477	rs9271100	0.992408	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580287	rs9271252	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580356	rs9271255	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580443	rs9271257	6	32576477	rs9271100	0.98984	0.994888
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580445	rs9271258	6	32576477	rs9271100	0.98984	0.994888
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580506	rs9271260	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576281	rs9281938	6	32576477	rs9271100	0.994927	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32579127	rs9281940	6	32576477	rs9271100	0.958391	1.0
+rs9271100	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32580343	rs9281946	6	32576477	rs9271100	0.994927	1.0
+rs9273076	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32611859	rs9273032	6	32612300	rs9273076	0.921664	0.97581
+rs9273076	Systemic lupus erythematosus	HLA-DQA1	spatial			rs9273076			rs9273076	1.0	1.0
+rs9271366	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32585754	rs3129762	6	32586853	rs9271366	1.0	1.0
+rs9271366	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32586018	rs3135005	6	32586853	rs9271366	0.986344	1.0
+rs9271366	Systemic lupus erythematosus	HLA-DQA1	spatial			rs9271366			rs9271366	1.0	1.0
+rs9271366	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32587767	rs9271413	6	32586853	rs9271366	0.986165	0.990727
+rs9271366	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32587858	rs9271421	6	32586853	rs9271366	0.958474	0.962908
+rs9271366	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32587896	rs9271423	6	32586853	rs9271366	0.986165	0.990727
+rs9270539	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32555632	rs9270166	6	32559763	rs9270539	0.925688	0.958619
+rs9271429	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32586731	rs9271363	6	32587984	rs9271429	0.928171	0.986383
+rs9271429	Systemic lupus erythematosus	HLA-DQA1	spatial			rs9271429			rs9271429	1.0	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574588	rs139581530	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574539	rs28383200	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577872	rs66522632	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576383	rs66715534	6	32573573	rs9270970	0.967388	0.974702
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574126	rs9270987	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574129	rs9270988	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574199	rs9270991	6	32573573	rs9270970	0.97241	0.979762
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574201	rs9270992	6	32573573	rs9270970	0.97241	0.979762
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574378	rs9270998	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574437	rs9270999	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574492	rs9271001	6	32573573	rs9270970	0.932183	0.97928
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574496	rs9271002	6	32573573	rs9270970	0.932183	0.97928
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574526	rs9271003	6	32573573	rs9270970	0.927252	0.9741
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574578	rs9271004	6	32573573	rs9270970	0.936419	0.974244
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574585	rs9271005	6	32573573	rs9270970	0.929528	0.974136
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574601	rs9271006	6	32573573	rs9270970	0.934112	0.974208
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574623	rs9271007	6	32573573	rs9270970	0.939058	0.979367
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574627	rs9271008	6	32573573	rs9270970	0.939058	0.979367
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574648	rs9271009	6	32573573	rs9270970	0.950724	0.97951
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574651	rs9271010	6	32573573	rs9270970	0.953089	0.979538
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574675	rs9271011	6	32573573	rs9270970	0.950724	0.97951
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574839	rs9271020	6	32573573	rs9270970	0.922728	0.974027
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574862	rs9271021	6	32573573	rs9270970	0.929528	0.974136
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574880	rs9271022	6	32573573	rs9270970	0.931815	0.974172
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574894	rs9271023	6	32573573	rs9270970	0.941064	0.974316
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574953	rs9271024	6	32573573	rs9270970	0.967388	0.974702
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32574993	rs9271026	6	32573573	rs9270970	0.952864	0.974493
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575264	rs9271049	6	32573573	rs9270970	0.972321	0.974771
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575274	rs9271050	6	32573573	rs9270970	0.972321	0.974771
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575289	rs9271051	6	32573573	rs9270970	0.972321	0.974771
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575308	rs9271052	6	32573573	rs9270970	0.969849	0.974737
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575318	rs9271053	6	32573573	rs9270970	0.962501	0.974633
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575405	rs9271058	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575512	rs9271060	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575583	rs9271063	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575600	rs9271064	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575630	rs9271066	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575673	rs9271068	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575700	rs9271070	6	32573573	rs9270970	0.972321	0.974771
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575748	rs9271072	6	32573573	rs9270970	0.972321	0.974771
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575802	rs9271073	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575848	rs9271074	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575851	rs9271075	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575872	rs9271076	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575924	rs9271077	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32575929	rs9271078	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576051	rs9271079	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576101	rs9271083	6	32573573	rs9270970	0.977302	0.97977
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576164	rs9271086	6	32573573	rs9270970	0.969767	0.969767
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576169	rs9271087	6	32573573	rs9270970	0.969767	0.969767
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576174	rs9271088	6	32573573	rs9270970	0.969767	0.969767
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576176	rs9271089	6	32573573	rs9270970	0.969767	0.969767
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576246	rs9271090	6	32573573	rs9270970	0.98234	0.994867
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576274	rs9271091	6	32573573	rs9270970	0.977274	0.984715
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576295	rs9271092	6	32573573	rs9270970	0.97476	0.979695
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576346	rs9271094	6	32573573	rs9270970	0.974806	0.974806
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576425	rs9271096	6	32573573	rs9270970	0.964939	0.974668
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576438	rs9271097	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576439	rs9271098	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576477	rs9271100	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576492	rs9271101	6	32573573	rs9270970	0.977354	0.979817
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576539	rs9271103	6	32573573	rs9270970	0.965244	0.984717
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576560	rs9271104	6	32573573	rs9270970	0.960448	0.984675
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576576	rs9271105	6	32573573	rs9270970	0.972522	0.98478
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576594	rs9271106	6	32573573	rs9270970	0.946321	0.984547
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576603	rs9271107	6	32573573	rs9270970	0.946321	0.984547
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576632	rs9271108	6	32573573	rs9270970	0.955465	0.979566
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577219	rs9271144	6	32573573	rs9270970	0.979845	0.979845
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577281	rs9271146	6	32573573	rs9270970	0.979859	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577454	rs9271149	6	32573573	rs9270970	0.97241	0.979762
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577469	rs9271150	6	32573573	rs9270970	0.962659	0.97965
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577473	rs9271151	6	32573573	rs9270970	0.962659	0.97965
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577548	rs9271153	6	32573573	rs9270970	0.964939	0.974668
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577589	rs9271156	6	32573573	rs9270970	0.97981	0.984771
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577714	rs9271162	6	32573573	rs9270970	0.98234	0.994867
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577732	rs9271163	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577783	rs9271164	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577784	rs9271165	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577810	rs9271166	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577853	rs9271168	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577888	rs9271170	6	32573573	rs9270970	0.982347	0.984828
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577906	rs9271171	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577974	rs9271172	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32577980	rs9271173	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578039	rs9271174	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578190	rs9271178	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578195	rs9271179	6	32573573	rs9270970	0.982331	0.98981
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578208	rs9271180	6	32573573	rs9270970	0.950483	0.974458
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578229	rs9271182	6	32573573	rs9270970	0.984864	0.994886
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578285	rs9271185	6	32573573	rs9270970	0.979801	0.989772
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578296	rs9271186	6	32573573	rs9270970	0.979801	0.989772
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578356	rs9271189	6	32573573	rs9270970	0.979801	0.989772
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578529	rs9271192	6	32573573	rs9270970	0.987409	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32578565	rs9271193	6	32573573	rs9270970	0.984892	1.0
+rs9270970	Systemic lupus erythematosus	HLA-DQA1	spatial	6	32576281	rs9281938	6	32573573	rs9270970	0.987387	0.994905
+rs11681718	Systemic lupus erythematosus	KANSL3	spatial	2	103056095	rs56166614	2	103051143	rs11681718	1.0	1.0
+rs7597017	Systemic lupus erythematosus	KANSL3	spatial	2	103057158	rs17027179	2	103062115	rs7597017	1.0	1.0
+rs3135461	Systemic lupus erythematosus	HLA-DQA1	spatial			rs3135461			rs3135461	1.0	1.0
+rs3135461	Mouth ulcers	HLA-DQA1	spatial			rs3135461			rs3135461	1.0	1.0
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33048685	rs1042169	6	33047030	rs1431403	0.912537	0.994901
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial			rs1431403			rs1431403	1.0	1.0
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33047431	rs2856822	6	33047030	rs1431403	0.928911	1.0
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050441	rs3097672	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050670	rs3097673	6	33047030	rs1431403	0.974366	0.995198
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050682	rs3097674	6	33047030	rs1431403	0.974366	0.995198
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050653	rs3128960	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050741	rs3128961	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33049978	rs9277357	6	33047030	rs1431403	0.969664	0.990396
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33049982	rs9277358	6	33047030	rs1431403	0.969664	0.990396
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050023	rs9277359	6	33047030	rs1431403	0.974231	0.990424
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050044	rs9277361	6	33047030	rs1431403	0.974231	0.990424
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050077	rs9277362	6	33047030	rs1431403	0.962074	0.962074
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050078	rs9277363	6	33047030	rs1431403	0.962074	0.962074
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050088	rs9277365	6	33047030	rs1431403	0.96457	0.971434
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050106	rs9277366	6	33047030	rs1431403	0.957334	0.957334
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050117	rs9277367	6	33047030	rs1431403	0.957334	0.957334
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050124	rs9277368	6	33047030	rs1431403	0.962157	0.966721
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050147	rs9277370	6	33047030	rs1431403	0.959843	0.966673
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050157	rs9277371	6	33047030	rs1431403	0.977555	1.0
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050167	rs9277372	6	33047030	rs1431403	0.952694	0.957212
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050178	rs9277373	6	33047030	rs1431403	0.947852	0.947852
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050184	rs9277374	6	33047030	rs1431403	0.950273	0.952526
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050185	rs9277375	6	33047030	rs1431403	0.950273	0.952526
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050195	rs9277376	6	33047030	rs1431403	0.943369	0.952323
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050202	rs9277377	6	33047030	rs1431403	0.972092	0.995191
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050278	rs9277378	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050368	rs9277380	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050440	rs9277382	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050472	rs9277385	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050498	rs9277386	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050520	rs9277387	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050524	rs9277388	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33050525	rs9277389	6	33047030	rs1431403	0.976649	0.995205
+rs1431403	Systemic lupus erythematosus	HLA-DPB1	spatial	6	33049210	rs928976	6	33047030	rs1431403	0.933097	1.0
+rs2856717	IgA nephropathy	HLA-DQA1	spatial	6	32674951	rs9275521	6	32670307	rs2856717	1.0	1.0
+rs9275596	IgA nephropathy	HLA-DQA1	spatial			rs9275596			rs9275596	1.0	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103543523	rs10088534	8	103547738	rs2033562	1.0	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103545007	rs10095950	8	103547738	rs2033562	0.99578	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103545435	rs10096810	8	103547738	rs2033562	0.99578	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103546941	rs10104124	8	103547738	rs2033562	0.99578	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103545002	rs10110787	8	103547738	rs2033562	0.99578	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103543955	rs13265183	8	103547738	rs2033562	0.99368	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103542790	rs1347318	8	103547738	rs2033562	0.99578	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103548509	rs1347320	8	103547738	rs2033562	0.997884	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103548537	rs1347321	8	103547738	rs2033562	1.0	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial	8	103546434	rs2033561	8	103547738	rs2033562	0.99578	1.0
+rs2033562	IgA nephropathy	ATP6V1C1	spatial			rs2033562			rs2033562	1.0	1.0
+rs3129721	IgA nephropathy	HLA-DQA1	spatial			rs3129721			rs3129721	1.0	1.0
+rs3129721	IgA nephropathy	HLA-DQA1	spatial	6	32674951	rs9275521	6	32676250	rs3129721	0.934362	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32577156	rs138158507	6	32576085	rs9271082	0.971225	0.975227
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32580636	rs2395515	6	32576085	rs9271082	0.983541	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32577196	rs368800004	6	32576085	rs9271082	0.955367	0.967087
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32580722	rs3997873	6	32576085	rs9271082	0.92063	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32574249	rs9270994	6	32576085	rs9271082	0.983541	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32574373	rs9270997	6	32576085	rs9271082	0.983541	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32574989	rs9271025	6	32576085	rs9271082	0.951499	0.967049
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32575368	rs9271055	6	32576085	rs9271082	0.983541	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32575377	rs9271056	6	32576085	rs9271082	0.983541	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32575543	rs9271061	6	32576085	rs9271082	0.979394	0.991623
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32575618	rs9271065	6	32576085	rs9271082	0.89887	0.980912
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32575699	rs9271069	6	32576085	rs9271082	0.92063	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32576075	rs9271080	6	32576085	rs9271082	0.991786	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial			rs9271082			rs9271082	1.0	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32576151	rs9271085	6	32576085	rs9271082	0.983729	0.991781
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32576340	rs9271093	6	32576085	rs9271082	0.983541	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32576763	rs9271116	6	32576085	rs9271082	0.904263	0.991566
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32577384	rs9271147	6	32576085	rs9271082	0.966915	0.991439
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32577530	rs9271152	6	32576085	rs9271082	0.967425	0.975344
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32577585	rs9271155	6	32576085	rs9271082	0.971393	0.975373
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32577712	rs9271161	6	32576085	rs9271082	0.979407	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32578284	rs9271184	6	32576085	rs9271082	0.975289	0.983366
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32578448	rs9271191	6	32576085	rs9271082	0.983541	1.0
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32578884	rs9271203	6	32576085	rs9271082	0.979394	0.991623
+rs9271082	IgA nephropathy	HLA-DQA1	spatial	6	32580410	rs9271256	6	32576085	rs9271082	0.983541	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial			rs10088534			rs10088534	1.0	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103545007	rs10095950	8	103543523	rs10088534	0.99578	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103545435	rs10096810	8	103543523	rs10088534	0.99578	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103546941	rs10104124	8	103543523	rs10088534	0.99578	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103545002	rs10110787	8	103543523	rs10088534	0.99578	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103543955	rs13265183	8	103543523	rs10088534	0.99368	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103542790	rs1347318	8	103543523	rs10088534	0.99578	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103548509	rs1347320	8	103543523	rs10088534	0.997884	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103546434	rs2033561	8	103543523	rs10088534	0.99578	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103547738	rs2033562	8	103543523	rs10088534	1.0	1.0
+rs10088534	IgA nephropathy	ATP6V1C1	spatial	8	103542537	rs4734636	8	103543523	rs10088534	0.99578	1.0
+rs1800973	Monocyte count	YEATS4	spatial			rs1800973			rs1800973	1.0	1.0
+rs1800973	Mouth ulcers	YEATS4	spatial			rs1800973			rs1800973	1.0	1.0
+rs1800973	SSC-A on CD14+ monocyte	YEATS4	spatial			rs1800973			rs1800973	1.0	1.0
+rs1800973	Lysozyme C levels	YEATS4	spatial			rs1800973			rs1800973	1.0	1.0
+rs1800973	Lysozyme C levels (LYZ.4920.10.1)	YEATS4	spatial			rs1800973			rs1800973	1.0	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83575216	rs111805711	4	83574747	rs17006028	0.929074	0.993737
+rs17006028	Monocyte count	SCD5	spatial	4	83575211	rs115007843	4	83574747	rs17006028	0.996958	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83575212	rs115844322	4	83574747	rs17006028	0.996958	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83573225	rs13102081	4	83574747	rs17006028	0.993957	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83573376	rs13135867	4	83574747	rs17006028	0.996969	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83570299	rs17005996	4	83574747	rs17006028	0.996969	1.0
+rs17006028	Monocyte count	SCD5	spatial			rs17006028			rs17006028	1.0	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83575906	rs17006038	4	83574747	rs17006028	1.0	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83576828	rs6822801	4	83574747	rs17006028	1.0	1.0
+rs17006028	Monocyte count	SCD5	spatial	4	83572050	rs6851819	4	83574747	rs17006028	0.996969	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83545975	rs13138355	4	83547861	rs17005891	0.990997	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83544902	rs141560958	4	83547861	rs17005891	0.990997	1.0
+rs17005891	Monocyte count	SCD5	spatial			rs17005891			rs17005891	1.0	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83548418	rs17005892	4	83547861	rs17005891	0.990997	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83550167	rs17005896	4	83547861	rs17005891	0.990997	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83552290	rs28476539	4	83547861	rs17005891	0.982168	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83551909	rs28483107	4	83547861	rs17005891	0.988035	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83551874	rs34428564	4	83547861	rs17005891	0.988035	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83549601	rs35409491	4	83547861	rs17005891	0.990997	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83552763	rs3733229	4	83547861	rs17005891	0.988035	1.0
+rs17005891	Monocyte count	SCD5	spatial	4	83552363	rs72658996	4	83547861	rs17005891	0.988035	1.0
+rs2289198	Monocyte count	FN1	spatial	2	216242449	rs56965084	2	216246657	rs2289198	0.994719	0.994719
+rs6824723	Monocyte count	SCD5	spatial	4	83559441	rs13124143	4	83562312	rs6824723	0.99699	1.0
+rs6824723	Monocyte count	SCD5	spatial	4	83564397	rs148899356	4	83562312	rs6824723	0.929525	0.993781
+rs6824723	Monocyte count	SCD5	spatial	4	83562169	rs57642298	4	83562312	rs6824723	0.99699	1.0
+rs6824723	Monocyte count	SCD5	spatial	4	83562568	rs6535363	4	83562312	rs6824723	0.929525	0.993781
+rs6824723	Monocyte count	SCD5	spatial	4	83564535	rs6812648	4	83562312	rs6824723	0.993961	0.993961
+rs6824723	Monocyte count	SCD5	spatial	4	83564714	rs6813051	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Monocyte count	SCD5	spatial	4	83565149	rs6813901	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Monocyte count	SCD5	spatial			rs6824723			rs6824723	1.0	1.0
+rs6824723	Monocyte count	SCD5	spatial	4	83563115	rs7669516	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Monocyte count	SCD5	spatial	4	83563157	rs7669538	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Monocyte count	SCD5	spatial	4	83563297	rs7679380	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83559441	rs13124143	4	83562312	rs6824723	0.99699	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83564397	rs148899356	4	83562312	rs6824723	0.929525	0.993781
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83562169	rs57642298	4	83562312	rs6824723	0.99699	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83562568	rs6535363	4	83562312	rs6824723	0.929525	0.993781
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83564535	rs6812648	4	83562312	rs6824723	0.993961	0.993961
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83564714	rs6813051	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83565149	rs6813901	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial			rs6824723			rs6824723	1.0	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83563115	rs7669516	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83563157	rs7669538	4	83562312	rs6824723	0.99698	1.0
+rs6824723	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83563297	rs7679380	4	83562312	rs6824723	0.99698	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83554342	rs112981741	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83559441	rs13124143	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83555715	rs17005919	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83555815	rs17005922	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83555873	rs17005923	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83552290	rs28476539	4	83556570	rs6832609	0.985144	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83551909	rs28483107	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83551874	rs34428564	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83555525	rs35614535	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83555514	rs35974252	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83552763	rs3733229	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83553208	rs6535359	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83556498	rs6832564	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83556543	rs6832591	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial			rs6832609			rs6832609	1.0	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83556586	rs6832625	4	83556570	rs6832609	1.0	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83556630	rs6832779	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83556705	rs6832951	4	83556570	rs6832609	0.994	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83556407	rs6837562	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83553530	rs6853670	4	83556570	rs6832609	0.987982	0.993945
+rs6832609	Monocyte count	SCD5	spatial	4	83553596	rs6853842	4	83556570	rs6832609	0.987982	0.993945
+rs6832609	Monocyte count	SCD5	spatial	4	83556374	rs6855705	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83552363	rs72658996	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83554655	rs7655583	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83554866	rs7656006	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83553875	rs7665702	4	83556570	rs6832609	0.987982	0.993945
+rs6832609	Monocyte count	SCD5	spatial	4	83553894	rs7665870	4	83556570	rs6832609	0.987982	0.993945
+rs6832609	Monocyte count	SCD5	spatial	4	83554821	rs7672265	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83554879	rs7672297	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83554987	rs7672496	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83553992	rs7691204	4	83556570	rs6832609	0.988077	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83554219	rs7691733	4	83556570	rs6832609	0.991029	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83555140	rs7698041	4	83556570	rs6832609	0.99699	1.0
+rs6832609	Monocyte count	SCD5	spatial	4	83554333	rs77589586	4	83556570	rs6832609	0.991029	1.0
+rs1042133	Monocyte count	HLA-DPB1	spatial			rs1042133			rs1042133	1.0	1.0
+rs13138355	Monocyte count	SCD5	spatial			rs13138355			rs13138355	1.0	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83544902	rs141560958	4	83545975	rs13138355	1.0	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83547861	rs17005891	4	83545975	rs13138355	0.990997	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83548418	rs17005892	4	83545975	rs13138355	1.0	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83550167	rs17005896	4	83545975	rs13138355	1.0	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83549601	rs35409491	4	83545975	rs13138355	1.0	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83541627	rs55825761	4	83545975	rs13138355	0.965353	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83542133	rs66550714	4	83545975	rs13138355	0.930566	1.0
+rs13138355	Monocyte count	SCD5	spatial	4	83542615	rs67445452	4	83545975	rs13138355	0.970949	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83575216	rs111805711	4	83575211	rs115007843	0.932085	1.0
+rs115007843	Monocyte count	SCD5	spatial			rs115007843			rs115007843	1.0	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83575212	rs115844322	4	83575211	rs115007843	1.0	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83573225	rs13102081	4	83575211	rs115007843	0.990934	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83573376	rs13135867	4	83575211	rs115007843	0.993936	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83570299	rs17005996	4	83575211	rs115007843	0.993936	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83574747	rs17006028	4	83575211	rs115007843	0.996958	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83575906	rs17006038	4	83575211	rs115007843	0.996958	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83576828	rs6822801	4	83575211	rs115007843	0.996958	1.0
+rs115007843	Monocyte count	SCD5	spatial	4	83572050	rs6851819	4	83575211	rs115007843	0.993936	1.0
+rs35389394	Monocyte count	TG	spatial	8	130624104	rs1991866	8	130621253	rs35389394	0.97361	0.983562
+rs7679857	Monocyte count	SCD5	spatial	4	83573225	rs13102081	4	83569736	rs7679857	0.99698	1.0
+rs7679857	Monocyte count	SCD5	spatial	4	83573376	rs13135867	4	83569736	rs7679857	1.0	1.0
+rs7679857	Monocyte count	SCD5	spatial	4	83569060	rs17005974	4	83569736	rs7679857	1.0	1.0
+rs7679857	Monocyte count	SCD5	spatial	4	83570299	rs17005996	4	83569736	rs7679857	1.0	1.0
+rs7679857	Monocyte count	SCD5	spatial	4	83565149	rs6813901	4	83569736	rs7679857	1.0	1.0
+rs7679857	Monocyte count	SCD5	spatial	4	83572050	rs6851819	4	83569736	rs7679857	1.0	1.0
+rs7679857	Monocyte count	SCD5	spatial	4	83568121	rs7672535	4	83569736	rs7679857	0.911263	1.0
+rs7679857	Monocyte count	SCD5	spatial			rs7679857			rs7679857	1.0	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83554342	rs112981741	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83559441	rs13124143	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83555715	rs17005919	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83555815	rs17005922	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83555873	rs17005923	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83552290	rs28476539	4	83556586	rs6832625	0.985144	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83551909	rs28483107	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83551874	rs34428564	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83555525	rs35614535	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83555514	rs35974252	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83552763	rs3733229	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83553208	rs6535359	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83556498	rs6832564	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83556543	rs6832591	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83556570	rs6832609	4	83556586	rs6832625	1.0	1.0
+rs6832625	Monocyte count	SCD5	spatial			rs6832625			rs6832625	1.0	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83556630	rs6832779	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83556705	rs6832951	4	83556586	rs6832625	0.994	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83556407	rs6837562	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83553530	rs6853670	4	83556586	rs6832625	0.987982	0.993945
+rs6832625	Monocyte count	SCD5	spatial	4	83553596	rs6853842	4	83556586	rs6832625	0.987982	0.993945
+rs6832625	Monocyte count	SCD5	spatial	4	83556374	rs6855705	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83552363	rs72658996	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83554655	rs7655583	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83554866	rs7656006	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83553875	rs7665702	4	83556586	rs6832625	0.987982	0.993945
+rs6832625	Monocyte count	SCD5	spatial	4	83553894	rs7665870	4	83556586	rs6832625	0.987982	0.993945
+rs6832625	Monocyte count	SCD5	spatial	4	83554821	rs7672265	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83554879	rs7672297	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83554987	rs7672496	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83553992	rs7691204	4	83556586	rs6832625	0.988077	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83554219	rs7691733	4	83556586	rs6832625	0.991029	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83555140	rs7698041	4	83556586	rs6832625	0.99699	1.0
+rs6832625	Monocyte count	SCD5	spatial	4	83554333	rs77589586	4	83556586	rs6832625	0.991029	1.0
+rs2021408	Monocyte count	HLA-DPB1	spatial	6	33046914	rs1431402	6	33046725	rs2021408	1.0	1.0
+rs2021408	Monocyte count	HLA-DPB1	spatial			rs2021408			rs2021408	1.0	1.0
+rs2021408	Monocyte count	HLA-DPB1	spatial	6	33047611	rs3097671	6	33046725	rs2021408	0.990093	1.0
+rs2021408	Monocyte count	HLA-DPB1	spatial	6	33050035	rs9277360	6	33046725	rs2021408	0.960609	0.96694
+rs2021408	Monocyte count	HLA-DPB1	spatial	6	33050143	rs9277369	6	33046725	rs2021408	0.963994	0.97352
+rs2021408	Monocyte count	HLA-DPB1	spatial	6	33050324	rs9277379	6	33046725	rs2021408	0.963994	0.97352
+rs2021408	Monocyte count	HLA-DPB1	spatial	6	33050393	rs9277381	6	33046725	rs2021408	0.963994	0.97352
+rs2021408	Monocyte count	HLA-DPB1	spatial	6	33050462	rs9277384	6	33046725	rs2021408	0.963994	0.97352
+rs2021408	Mouth ulcers	HLA-DPB1	spatial	6	33046914	rs1431402	6	33046725	rs2021408	1.0	1.0
+rs2021408	Mouth ulcers	HLA-DPB1	spatial			rs2021408			rs2021408	1.0	1.0
+rs2021408	Mouth ulcers	HLA-DPB1	spatial	6	33047611	rs3097671	6	33046725	rs2021408	0.990093	1.0
+rs2021408	Mouth ulcers	HLA-DPB1	spatial	6	33050035	rs9277360	6	33046725	rs2021408	0.960609	0.96694
+rs2021408	Mouth ulcers	HLA-DPB1	spatial	6	33050143	rs9277369	6	33046725	rs2021408	0.963994	0.97352
+rs2021408	Mouth ulcers	HLA-DPB1	spatial	6	33050324	rs9277379	6	33046725	rs2021408	0.963994	0.97352
+rs2021408	Mouth ulcers	HLA-DPB1	spatial	6	33050393	rs9277381	6	33046725	rs2021408	0.963994	0.97352
+rs2021408	Mouth ulcers	HLA-DPB1	spatial	6	33050462	rs9277384	6	33046725	rs2021408	0.963994	0.97352
+rs4971027	Monocyte count	PSMD4	spatial	1	151247997	rs11204795	1	151250420	rs4971027	0.99356	1.0
+rs4971027	Monocyte count	PSMD4	spatial			rs4971027			rs4971027	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83554342	rs112981741	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83559441	rs13124143	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83555715	rs17005919	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83555815	rs17005922	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83555873	rs17005923	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83552290	rs28476539	4	83556543	rs6832591	0.988118	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83551909	rs28483107	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83551874	rs34428564	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83555525	rs35614535	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83555514	rs35974252	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83552763	rs3733229	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83553208	rs6535359	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83556498	rs6832564	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial			rs6832591			rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83556570	rs6832609	4	83556543	rs6832591	0.99699	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83556586	rs6832625	4	83556543	rs6832591	0.99699	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83556630	rs6832779	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83556705	rs6832951	4	83556543	rs6832591	0.997001	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83556407	rs6837562	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83553530	rs6853670	4	83556543	rs6832591	0.990993	0.993974
+rs6832591	Monocyte count	SCD5	spatial	4	83553596	rs6853842	4	83556543	rs6832591	0.990993	0.993974
+rs6832591	Monocyte count	SCD5	spatial	4	83556374	rs6855705	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83552363	rs72658996	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83554655	rs7655583	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83554866	rs7656006	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83553875	rs7665702	4	83556543	rs6832591	0.990993	0.993974
+rs6832591	Monocyte count	SCD5	spatial	4	83553894	rs7665870	4	83556543	rs6832591	0.990993	0.993974
+rs6832591	Monocyte count	SCD5	spatial	4	83554821	rs7672265	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83554879	rs7672297	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83554987	rs7672496	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83553992	rs7691204	4	83556543	rs6832591	0.99106	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83554219	rs7691733	4	83556543	rs6832591	0.994021	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83555140	rs7698041	4	83556543	rs6832591	1.0	1.0
+rs6832591	Monocyte count	SCD5	spatial	4	83554333	rs77589586	4	83556543	rs6832591	0.994021	1.0
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33052381	rs1811359	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33057439	rs3097650	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050441	rs3097672	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050670	rs3097673	6	33055246	rs9277542	0.976906	0.990594
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050682	rs3097674	6	33055246	rs9277542	0.976906	0.990594
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050653	rs3128960	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050741	rs3128961	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050278	rs9277378	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050368	rs9277380	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050440	rs9277382	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050472	rs9277385	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050498	rs9277386	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050520	rs9277387	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050524	rs9277388	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33050525	rs9277389	6	33055246	rs9277542	0.979242	0.995282
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33053025	rs9277457	6	33055246	rs9277542	1.0	1.0
+rs9277542	Hepatitis B	HLA-DPB1	spatial	6	33057054	rs9277568	6	33055246	rs9277542	0.935869	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33073462	rs2064474	6	33071321	rs3128923	0.917399	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33073439	rs2064475	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33072286	rs2064477	6	33071321	rs3128923	0.977449	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33072265	rs2064478	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33072239	rs2064479	6	33071321	rs3128923	0.977449	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33075634	rs3117230	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33074907	rs3117231	6	33071321	rs3128923	0.977449	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33074568	rs3117232	6	33071321	rs3128923	0.917399	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33074347	rs3117233	6	33071321	rs3128923	0.894584	0.994127
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33073983	rs3117234	6	33071321	rs3128923	0.917399	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33073067	rs3117236	6	33071321	rs3128923	0.917399	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33071776	rs3117239	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33071334	rs3117240	6	33071321	rs3128923	0.89987	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33071133	rs3117241	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33070748	rs3128921	6	33071321	rs3128923	0.977449	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33070816	rs3128922	6	33071321	rs3128923	0.977449	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33071599	rs3128925	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33071753	rs3128926	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33074852	rs3128929	6	33071321	rs3128923	0.917399	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33071707	rs3129196	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33072728	rs3130210	6	33071321	rs3128923	0.897364	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33073075	rs3130211	6	33071321	rs3128923	0.917399	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33074388	rs3130212	6	33071321	rs3128923	0.917399	1.0
+rs3128923	Hepatitis B	HLA-DPB1	spatial	6	33074706	rs3130213	6	33071321	rs3128923	0.897364	1.0
+rs9379862	Epstein-Barr virus VCA p18 antibody levels	BTN2A1	spatial	6	26366442	rs10622848	6	26370706	rs9379862	0.894926	1.0
+rs9271536	Epstein-Barr virus VCA p18 antibody levels	HLA-DQA1	spatial	6	32586731	rs9271363	6	32589977	rs9271536	0.932362	1.0
+rs9271536	Epstein-Barr virus VCA p18 antibody levels	HLA-DQA1	spatial	6	32587984	rs9271429	6	32589977	rs9271536	0.954009	0.962833
+rs2858892	Adult asthma	HLA-DQA2	spatial	6	32697463	rs138428186	6	32693241	rs2858892	0.99197	0.995965
+rs2858892	Adult asthma	HLA-DQA2	spatial	6	32695235	rs2858886	6	32693241	rs2858892	0.993975	0.995974
+rs2858892	Adult asthma	HLA-DQA2	spatial	6	32698206	rs2859109	6	32693241	rs2858892	0.993975	0.995974
+rs2858892	Adult asthma	HLA-DQA2	spatial	6	32698043	rs2859111	6	32693241	rs2858892	0.989956	0.991947
+rs2858892	Adult asthma	HLA-DQA2	spatial	6	32698012	rs2859112	6	32693241	rs2858892	0.99197	0.995965
+rs2858892	Adult asthma	HLA-DQA2	spatial	6	32696415	rs2859125	6	32693241	rs2858892	0.993975	0.995974
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587116	rs28383313	6	32588629	rs9271469	0.93864	0.995048
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587457	rs369854808	6	32588629	rs9271469	0.950491	0.970967
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587507	rs9271398	6	32588629	rs9271469	0.947696	0.956759
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587612	rs9271408	6	32588629	rs9271469	0.950491	0.970967
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587627	rs9271409	6	32588629	rs9271469	0.950491	0.970967
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587660	rs9271411	6	32588629	rs9271469	0.950491	0.970967
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587811	rs9271416	6	32588629	rs9271469	0.955227	0.975806
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32587972	rs9271426	6	32588629	rs9271469	0.96242	0.985463
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32588001	rs9271430	6	32588629	rs9271469	0.957509	0.97584
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32588055	rs9271432	6	32588629	rs9271469	0.930302	0.955349
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32588056	rs9271433	6	32588629	rs9271469	0.930302	0.955349
+rs9271469	Adult asthma	HLA-DQA1	spatial	6	32588192	rs9271438	6	32588629	rs9271469	0.971491	0.980782
+rs9272226	Adult asthma	HLA-DQA1	spatial	6	32601331	rs2002777	6	32602395	rs9272226	0.931795	0.995151
+rs9272226	Adult asthma	HLA-DQA2	spatial	6	32601331	rs2002777	6	32602395	rs9272226	0.931795	0.995151
+rs9272226	Adult asthma	HLA-DQA2	spatial			rs9272226			rs9272226	1.0	1.0
+rs9272226	Adult asthma	HLA-DQA2	spatial	6	32602871	rs9272245	6	32602395	rs9272226	0.986062	0.986062
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32407301	rs2395179	6	32408906	rs3129879	0.992628	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32407309	rs2395180	6	32408906	rs3129879	0.992628	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32407403	rs2395181	6	32408906	rs3129879	0.992628	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32406099	rs3129870	6	32408906	rs3129879	0.980355	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32407152	rs3129872	6	32408906	rs3129879	0.980314	0.994977
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32407432	rs3129873	6	32408906	rs3129879	0.982809	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32407439	rs3129874	6	32408906	rs3129879	0.982809	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32407467	rs3129875	6	32408906	rs3129879	0.992628	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32408011	rs3129876	6	32408906	rs3129879	0.982809	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32408596	rs3129877	6	32408906	rs3129879	0.965583	0.965583
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32408734	rs3129878	6	32408906	rs3129879	0.973622	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial			rs3129879			rs3129879	1.0	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32409483	rs3129881	6	32408906	rs3129879	0.982809	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32406411	rs9268632	6	32408906	rs3129879	0.982809	1.0
+rs3129879	Adult asthma	HLA-DQA2	spatial	6	32406886	rs9268641	6	32408906	rs3129879	0.982809	1.0
+rs1871665	Mouth ulcers	HLA-DQA2	spatial	6	32804880	rs1871664	6	32804878	rs1871665	0.997967	1.0
+rs1871665	Mouth ulcers	HLA-DQA2	spatial			rs1871665			rs1871665	1.0	1.0
+rs1871665	Mouth ulcers	HLA-DQA2	spatial	6	32804908	rs241425	6	32804878	rs1871665	0.99188	1.0
+rs9276427	Mouth ulcers	HLA-DQA2	spatial			rs9276427			rs9276427	1.0	1.0
+rs9277356	Response to hepatitis B vaccine	HLA-DPB1	spatial			rs9277356			rs9277356	1.0	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial			rs2395179			rs2395179	1.0	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32407309	rs2395180	6	32407301	rs2395179	1.0	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32407403	rs2395181	6	32407301	rs2395179	1.0	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32406099	rs3129870	6	32407301	rs2395179	0.987636	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32407152	rs3129872	6	32407301	rs2395179	0.987614	0.994998
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32407432	rs3129873	6	32407301	rs2395179	0.990108	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32407439	rs3129874	6	32407301	rs2395179	0.990108	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32407467	rs3129875	6	32407301	rs2395179	1.0	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32408011	rs3129876	6	32407301	rs2395179	0.990108	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32408596	rs3129877	6	32407301	rs2395179	0.972897	0.980123
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32408734	rs3129878	6	32407301	rs2395179	0.966445	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32408906	rs3129879	6	32407301	rs2395179	0.992628	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32409483	rs3129881	6	32407301	rs2395179	0.990108	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32406411	rs9268632	6	32407301	rs2395179	0.990108	1.0
+rs2395179	Response to hepatitis B vaccine	HLA-DQA2	spatial	6	32406886	rs9268641	6	32407301	rs2395179	0.990108	1.0
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33052381	rs1811359	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33057439	rs3097650	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050441	rs3097672	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050670	rs3097673	6	33055418	rs9277549	0.976906	0.990594
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050682	rs3097674	6	33055418	rs9277549	0.976906	0.990594
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050653	rs3128960	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050741	rs3128961	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050440	rs9277382	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050472	rs9277385	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050498	rs9277386	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050520	rs9277387	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050524	rs9277388	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33050525	rs9277389	6	33055418	rs9277549	0.979242	0.995282
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33053025	rs9277457	6	33055418	rs9277549	1.0	1.0
+rs9277549	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33057054	rs9277568	6	33055418	rs9277549	0.935869	1.0
+rs9273062	Response to hepatitis B vaccine	HLA-DQA1	spatial			rs9273062			rs9273062	1.0	1.0
+rs9273062	Response to hepatitis B vaccine	HLA-DQA1	spatial	6	32612165	rs9273063	6	32612160	rs9273062	1.0	1.0
+rs9277464	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33053025	rs9277457	6	33053351	rs9277464	1.0	1.0
+rs9277464	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33055500	rs9277552	6	33053351	rs9277464	0.896841	0.994135
+rs9277464	Response to hepatitis B vaccine	HLA-DPB1	spatial	6	33057054	rs9277568	6	33053351	rs9277464	0.963597	1.0
+rs73730372	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32584976	rs113016235	6	32584580	rs73730372	0.994969	1.0
+rs73730372	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32585070	rs113243185	6	32584580	rs73730372	0.985099	1.0
+rs73730372	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32584879	rs73730377	6	32584580	rs73730372	1.0	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581777	rs2395223	6	32581500	rs9271296	0.995918	0.995918
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582274	rs2858859	6	32581500	rs9271296	0.995929	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582189	rs5004275	6	32581500	rs9271296	0.995929	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582331	rs5004276	6	32581500	rs9271296	0.995929	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582353	rs5004277	6	32581500	rs9271296	0.995929	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581981	rs521512	6	32581500	rs9271296	0.993881	0.995911
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581949	rs567387425	6	32581500	rs9271296	0.993881	0.995911
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582002	rs641685	6	32581500	rs9271296	0.993881	0.995911
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582434	rs7451962	6	32581500	rs9271296	0.995929	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32580805	rs9271268	6	32581500	rs9271296	0.989863	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32580819	rs9271269	6	32581500	rs9271296	0.99188	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32580893	rs9271272	6	32581500	rs9271296	0.98571	0.987725
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32580901	rs9271273	6	32581500	rs9271296	0.98571	0.987725
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32580934	rs9271274	6	32581500	rs9271296	0.983669	0.987696
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32580970	rs9271276	6	32581500	rs9271296	0.979585	0.983594
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32580997	rs9271277	6	32581500	rs9271296	0.971421	0.979395
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581015	rs9271278	6	32581500	rs9271296	0.971421	0.979395
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581017	rs9271279	6	32581500	rs9271296	0.971421	0.979395
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581058	rs9271281	6	32581500	rs9271296	0.973459	0.979444
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581061	rs9271282	6	32581500	rs9271296	0.971421	0.979395
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581091	rs9271283	6	32581500	rs9271296	0.987754	0.991797
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581189	rs9271284	6	32581500	rs9271296	0.985741	0.995869
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581192	rs9271285	6	32581500	rs9271296	0.985741	0.995869
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581220	rs9271286	6	32581500	rs9271296	0.985741	0.995869
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581252	rs9271287	6	32581500	rs9271296	0.985741	0.995869
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581259	rs9271288	6	32581500	rs9271296	0.985741	0.995869
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581304	rs9271289	6	32581500	rs9271296	0.995918	0.995918
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581334	rs9271291	6	32581500	rs9271296	0.995918	0.995918
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581349	rs9271292	6	32581500	rs9271296	0.995918	0.995918
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581458	rs9271293	6	32581500	rs9271296	0.987754	0.991797
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581460	rs9271294	6	32581500	rs9271296	0.987754	0.991797
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581466	rs9271295	6	32581500	rs9271296	0.989794	0.991817
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial			rs9271296			rs9271296	1.0	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581536	rs9271299	6	32581500	rs9271296	0.997962	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581620	rs9271302	6	32581500	rs9271296	0.997962	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581646	rs9271303	6	32581500	rs9271296	0.991858	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581647	rs9271304	6	32581500	rs9271296	0.991858	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581648	rs9271305	6	32581500	rs9271296	0.991858	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581657	rs9271306	6	32581500	rs9271296	0.991858	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32581693	rs9271307	6	32581500	rs9271296	0.995918	0.995918
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582481	rs9271324	6	32581500	rs9271296	0.995929	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582532	rs9271327	6	32581500	rs9271296	0.989863	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582634	rs9271329	6	32581500	rs9271296	0.983778	0.995876
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582671	rs9271331	6	32581500	rs9271296	0.995929	1.0
+rs9271296	HLA DR++ monocyte %monocyte	HLA-DQA1	spatial	6	32582673	rs9271332	6	32581500	rs9271296	0.995929	1.0
+rs4761234	SSC-A on CD14+ monocyte	YEATS4	spatial	12	69734640	rs2168029	12	69732104	rs4761234	0.923483	1.0
+rs4761234	SSC-A on CD14+ monocyte	YEATS4	spatial	12	69735491	rs7959452	12	69732104	rs4761234	0.923483	1.0
+rs4761234	Lysozyme C levels	YEATS4	spatial	12	69734640	rs2168029	12	69732104	rs4761234	0.923483	1.0
+rs4761234	Lysozyme C levels	YEATS4	spatial	12	69735491	rs7959452	12	69732104	rs4761234	0.923483	1.0
+rs4761234	Lysozyme C levels (LYZ.4920.10.1)	YEATS4	spatial	12	69734640	rs2168029	12	69732104	rs4761234	0.923483	1.0
+rs4761234	Lysozyme C levels (LYZ.4920.10.1)	YEATS4	spatial	12	69735491	rs7959452	12	69732104	rs4761234	0.923483	1.0
+rs10005438	CD40LG/LYN protein level ratio	SCD5	spatial	4	83577938	rs10034935	4	83575637	rs10005438	1.0	1.0
+rs10005438	CD40LG/LYN protein level ratio	SCD5	spatial	4	83578910	rs113465198	4	83575637	rs10005438	0.950935	1.0
+rs9272775	Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous)	HLA-DQA1	spatial	6	32610993	rs1130161	6	32610256	rs9272775	0.909191	0.95191
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33070729	rs149806249	6	33071026	rs559242105	0.944428	1.0
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33073514	rs2064473	6	33071026	rs559242105	0.947503	1.0
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33070906	rs3129197	6	33071026	rs559242105	0.947503	1.0
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (antibody titre; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33070821	rs3129198	6	33071026	rs559242105	0.947503	1.0
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33070729	rs149806249	6	33071026	rs559242105	0.944428	1.0
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33073514	rs2064473	6	33071026	rs559242105	0.947503	1.0
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33070906	rs3129197	6	33071026	rs559242105	0.947503	1.0
+rs559242105	Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous)	HLA-DPB1	spatial	6	33070821	rs3129198	6	33071026	rs559242105	0.947503	1.0
+rs28366299	Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies; IFNβ-1b subcutaneous)	HLA-DQA1	spatial	6	32555988	rs17203846	6	32560869	rs28366299	0.929915	0.984807
+rs7959452	Lysozyme C levels	YEATS4	spatial	12	69737878	rs10784774	12	69735491	rs7959452	0.942901	0.975316
+rs7959452	Lysozyme C levels	YEATS4	spatial	12	69734640	rs2168029	12	69735491	rs7959452	1.0	1.0
+rs7959452	Lysozyme C levels	YEATS4	spatial			rs7959452			rs7959452	1.0	1.0
+rs7100689	Crohn's disease vs rheumatoid arthritis (ordinary least squares (OLS))	NRG3	spatial			rs7100689			rs7100689	1.0	1.0
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial	6	33046914	rs1431402	6	33047611	rs3097671	0.990093	1.0
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial	6	33046725	rs2021408	6	33047611	rs3097671	0.990093	1.0
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial			rs3097671			rs3097671	1.0	1.0
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial	6	33050035	rs9277360	6	33047611	rs3097671	0.97039	0.986559
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial	6	33050143	rs9277369	6	33047611	rs3097671	0.973809	0.993271
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial	6	33050324	rs9277379	6	33047611	rs3097671	0.973809	0.993271
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial	6	33050393	rs9277381	6	33047611	rs3097671	0.973809	0.993271
+rs3097671	Idiopathic achalasia	HLA-DPB1	spatial	6	33050462	rs9277384	6	33047611	rs3097671	0.973809	0.993271
+rs1126511	Idiopathic achalasia	HLA-DPB1	spatial			rs1126511			rs1126511	1.0	1.0
+rs1126511	Idiopathic achalasia	HLA-DPB1	spatial	6	33048466	rs1126513	6	33048465	rs1126511	1.0	1.0
+rs1126511	Idiopathic achalasia	HLA-DPB1	spatial	6	33046741	rs2856821	6	33048465	rs1126511	0.916568	0.9547
+rs1126511	Idiopathic achalasia	HLA-DPB1	spatial	6	33047465	rs3135024	6	33048465	rs1126511	0.939917	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124475898	rs10470424	3	124473878	rs34740224	1.0	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124475910	rs10470425	3	124473878	rs34740224	1.0	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124476191	rs10470428	3	124473878	rs34740224	1.0	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124477259	rs13075349	3	124473878	rs34740224	1.0	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124476988	rs35007231	3	124473878	rs34740224	1.0	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124476687	rs4678153	3	124473878	rs34740224	1.0	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124476927	rs4678154	3	124473878	rs34740224	0.988534	1.0
+rs34740224	Orotate levels	UMPS	spatial	3	124476716	rs547737261	3	124473878	rs34740224	1.0	1.0
+rs2242247	Orotate levels	UMPS	spatial	3	124462807	rs13146	3	124463655	rs2242247	1.0	1.0
+rs2242247	Orotate levels	UMPS	spatial			rs2242247			rs2242247	1.0	1.0
+rs2242247	Orotate levels	UMPS	spatial	3	124463981	rs2242248	3	124463655	rs2242247	1.0	1.0
+rs2242247	Orotate levels	UMPS	spatial	3	124462187	rs372532406	3	124463655	rs2242247	1.0	1.0
+rs2242247	Orotate levels	UMPS	spatial	3	124461803	rs4678148	3	124463655	rs2242247	1.0	1.0
+rs2242247	Orotate levels	UMPS	spatial	3	124462057	rs4678149	3	124463655	rs2242247	1.0	1.0
+rs2242247	Orotate levels	UMPS	spatial	3	124462258	rs9875527	3	124463655	rs2242247	1.0	1.0
+rs1801019	Orotate levels	UMPS	spatial	3	124457271	rs13061561	3	124456741	rs1801019	1.0	1.0
+rs1801019	Orotate levels	UMPS	spatial	3	124453662	rs13092695	3	124456741	rs1801019	1.0	1.0
+rs1801019	Orotate levels	UMPS	spatial	3	124455213	rs16835929	3	124456741	rs1801019	1.0	1.0
+rs1801019	Orotate levels	UMPS	spatial	3	124457482	rs17843826	3	124456741	rs1801019	1.0	1.0
+rs1801019	Orotate levels	UMPS	spatial			rs1801019			rs1801019	1.0	1.0
+rs1801019	Orotate levels	UMPS	spatial	3	124454683	rs1966981	3	124456741	rs1801019	1.0	1.0
+rs1801019	Orotate levels	UMPS	spatial	3	124458332	rs3772806	3	124456741	rs1801019	1.0	1.0
+rs16835929	Orotate levels	UMPS	spatial	3	124457271	rs13061561	3	124455213	rs16835929	1.0	1.0
+rs16835929	Orotate levels	UMPS	spatial	3	124453662	rs13092695	3	124455213	rs16835929	1.0	1.0
+rs16835929	Orotate levels	UMPS	spatial			rs16835929			rs16835929	1.0	1.0
+rs16835929	Orotate levels	UMPS	spatial	3	124457482	rs17843826	3	124455213	rs16835929	1.0	1.0
+rs16835929	Orotate levels	UMPS	spatial	3	124456741	rs1801019	3	124455213	rs16835929	1.0	1.0
+rs16835929	Orotate levels	UMPS	spatial	3	124454683	rs1966981	3	124455213	rs16835929	1.0	1.0
+rs16835929	Orotate levels	UMPS	spatial	3	124458332	rs3772806	3	124455213	rs16835929	1.0	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554342	rs112981741	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83550167	rs17005896	4	83553875	rs7665702	0.994003	0.994003
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83555715	rs17005919	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83555815	rs17005922	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83555873	rs17005923	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83552290	rs28476539	4	83553875	rs7665702	0.991091	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83551909	rs28483107	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83551874	rs34428564	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83549601	rs35409491	4	83553875	rs7665702	0.994003	0.994003
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83555525	rs35614535	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83555514	rs35974252	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83552763	rs3733229	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83553208	rs6535359	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556498	rs6832564	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556543	rs6832591	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556570	rs6832609	4	83553875	rs7665702	0.987982	0.993945
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556586	rs6832625	4	83553875	rs7665702	0.987982	0.993945
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556630	rs6832779	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556705	rs6832951	4	83553875	rs7665702	0.988006	0.988006
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556407	rs6837562	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83553530	rs6853670	4	83553875	rs7665702	1.0	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83553596	rs6853842	4	83553875	rs7665702	1.0	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83556374	rs6855705	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83552363	rs72658996	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554655	rs7655583	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554866	rs7656006	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial			rs7665702			rs7665702	1.0	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83553894	rs7665870	4	83553875	rs7665702	1.0	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554821	rs7672265	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554879	rs7672297	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554987	rs7672496	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83553992	rs7691204	4	83553875	rs7665702	0.994041	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554219	rs7691733	4	83553875	rs7665702	0.997011	1.0
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83555140	rs7698041	4	83553875	rs7665702	0.990993	0.993974
+rs7665702	Behenoylcarnitine (C22) levels	SCD5	spatial	4	83554333	rs77589586	4	83553875	rs7665702	0.997011	1.0
+rs588485	Uridine levels	CDA	spatial	1	20913518	rs1253904	1	20916443	rs588485	0.941626	0.952697
+rs588485	Uridine levels	CDA	spatial	1	20917205	rs471760	1	20916443	rs588485	0.99296	1.0
+rs588485	Uridine levels	CDA	spatial	1	20917107	rs472629	1	20916443	rs588485	0.99296	1.0
+rs532545	Uridine levels	CDA	spatial	1	20913518	rs1253904	1	20915171	rs532545	0.98138	0.995254
+rs532545	Uridine levels	CDA	spatial	1	20917205	rs471760	1	20915171	rs532545	0.952871	0.957373
+rs532545	Uridine levels	CDA	spatial	1	20917107	rs472629	1	20915171	rs532545	0.952871	0.957373
+rs66731853	Uridine levels	CDA	spatial	1	20913518	rs1253904	1	20916237	rs66731853	0.913342	0.955386
+rs66731853	Uridine levels	CDA	spatial	1	20917205	rs471760	1	20916237	rs66731853	0.95022	0.975496
+rs66731853	Uridine levels	CDA	spatial	1	20917107	rs472629	1	20916237	rs66731853	0.95022	0.975496
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21175876	rs113690697	22	21177244	rs178052	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21176256	rs165603	22	21177244	rs178052	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21173307	rs165616	22	21177244	rs178052	0.990077	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21174398	rs165665	22	21177244	rs178052	0.998009	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21174311	rs165691	22	21177244	rs178052	0.998009	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21160092	rs178046	22	21164693	rs165718	0.998009	1.0
+rs178046	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21156870	rs178043	22	21160092	rs178046	1.0	1.0
+rs178046	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial			rs178046			rs178046	1.0	1.0
+rs9481016	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110179969	rs35608475	6	110182610	rs9481016	0.97439	0.995935
+rs9481016	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110183869	rs7759816	6	110182610	rs9481016	-0.992048	-0.992048
+rs9481016	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110181592	rs9374129	6	110182610	rs9481016	1.0	1.0
+rs9481016	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial			rs9481016			rs9481016	1.0	1.0
+rs4388322	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110137430	rs12527421	6	110136428	rs4388322	0.945416	1.0
+rs4388322	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110136896	rs9398217	6	110136428	rs4388322	0.945416	1.0
+rs9400330	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110179969	rs35608475	6	110180254	rs9400330	0.902284	0.961724
+rs9400330	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110183869	rs7759816	6	110180254	rs9400330	-0.90593	-0.986961
+rs9400330	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110181592	rs9374129	6	110180254	rs9400330	0.913909	0.995654
+rs9400330	Resistance to COVID-19 infection (Exposed negative vs positive)	CDC40	spatial	6	110182610	rs9481016	6	110180254	rs9400330	0.913909	0.995654
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21207565	rs165641	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21206661	rs178063	22	21202746	rs165850	0.998009	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21173307	rs165616	22	21169293	rs165898	0.988106	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21175876	rs113690697	22	21174311	rs165691	0.998	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21176256	rs165603	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21173307	rs165616	22	21174311	rs165691	0.988106	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial	22	21174398	rs165665	22	21174311	rs165691	1.0	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	CRKL	spatial			rs165691			rs165691	1.0	1.0
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32601796	rs114020256	6	32602555	rs17205191	0.915848	0.975214
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601796	rs114020256	6	32602555	rs17205191	0.915848	0.975214
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32601717	rs115566240	6	32602555	rs17205191	0.927278	0.980369
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601717	rs115566240	6	32602555	rs17205191	0.927278	0.980369
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17205191			rs17205191	1.0	1.0
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17205191			rs17205191	1.0	1.0
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600045	rs35585151	6	32602555	rs17205191	0.954523	0.98575
+rs17205191	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600152	rs35656734	6	32602555	rs17205191	0.970412	0.986064
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33048685	rs1042169	6	33052381	rs1811359	0.943585	0.99033
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial			rs1811359			rs1811359	1.0	1.0
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33047431	rs2856822	6	33052381	rs1811359	0.914507	0.966137
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050441	rs3097672	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050670	rs3097673	6	33052381	rs1811359	0.960335	0.962579
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050682	rs3097674	6	33052381	rs1811359	0.960335	0.962579
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050653	rs3128960	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050741	rs3128961	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33049978	rs9277357	6	33052381	rs1811359	0.951002	0.953223
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33049982	rs9277358	6	33052381	rs1811359	0.951002	0.953223
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050023	rs9277359	6	33052381	rs1811359	0.955588	0.957825
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050044	rs9277361	6	33052381	rs1811359	0.955588	0.957825
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050077	rs9277362	6	33052381	rs1811359	0.939003	0.956844
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050078	rs9277363	6	33052381	rs1811359	0.939003	0.956844
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050088	rs9277365	6	33052381	rs1811359	0.946106	0.95727
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050106	rs9277366	6	33052381	rs1811359	0.939003	0.956844
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050117	rs9277367	6	33052381	rs1811359	0.939003	0.956844
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050124	rs9277368	6	33052381	rs1811359	0.943737	0.957129
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050147	rs9277370	6	33052381	rs1811359	0.941414	0.952522
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050157	rs9277371	6	33052381	rs1811359	0.957496	0.959893
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050167	rs9277372	6	33052381	rs1811359	0.934344	0.947602
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050178	rs9277373	6	33052381	rs1811359	0.934297	0.952049
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050184	rs9277374	6	33052381	rs1811359	0.936669	0.952208
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050185	rs9277375	6	33052381	rs1811359	0.936669	0.952208
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050195	rs9277376	6	33052381	rs1811359	0.929723	0.938481
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050202	rs9277377	6	33052381	rs1811359	0.958047	0.962525
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050278	rs9277378	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050368	rs9277380	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050440	rs9277382	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050472	rs9277385	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050498	rs9277386	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050520	rs9277387	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050524	rs9277388	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33050525	rs9277389	6	33052381	rs1811359	0.962632	0.962632
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33053025	rs9277457	6	33052381	rs1811359	0.979569	1.0
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33057054	rs9277568	6	33052381	rs1811359	0.913063	0.959908
+rs1811359	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DPB1	spatial	6	33049210	rs928976	6	33052381	rs1811359	0.909551	0.956591
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602216	rs17205128	0.911753	0.955909
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602216	rs17205128	0.919623	0.95644
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602216	rs17205128	0.93793	0.972884
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602216	rs17205128	0.93793	0.972884
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602216	rs17205128	0.997439	1.0
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602216	rs17205128	0.997439	1.0
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17205128			rs17205128	1.0	1.0
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17205128			rs17205128	1.0	1.0
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602216	rs17205128	1.0	1.0
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602216	rs17205128	1.0	1.0
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602216	rs17205128	0.982051	0.984572
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602216	rs17205128	0.982051	0.984572
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602216	rs17205128	0.994864	0.994864
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602216	rs17205128	0.984644	0.989701
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602216	rs17205128	0.984644	0.989701
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602216	rs17205128	0.984644	0.989701
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602216	rs17205128	0.984644	0.989701
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602216	rs17205128	0.98212	0.989687
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602216	rs17205128	0.98212	0.989687
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602216	rs17205128	0.972148	0.989631
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602216	rs17205128	0.972148	0.989631
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602216	rs17205128	0.979521	0.984552
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602216	rs17205128	0.979521	0.984552
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602216	rs17205128	0.972148	0.989631
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602216	rs17205128	0.972148	0.989631
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602216	rs17205128	0.950399	0.989502
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602216	rs17205128	0.950399	0.989502
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602216	rs17205128	0.979521	0.984552
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602216	rs17205128	0.979521	0.984552
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602216	rs17205128	0.98212	0.989687
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602216	rs17205128	0.98212	0.989687
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602216	rs17205128	0.924921	0.972331
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602216	rs17205128	0.924921	0.972331
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602216	rs17205128	0.911844	0.940818
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602216	rs17205128	0.974397	0.979402
+rs17205128	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602216	rs17205128	0.974397	0.979402
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602221	rs17205135	0.911753	0.955909
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602221	rs17205135	0.919623	0.95644
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602221	rs17205135	0.93793	0.972884
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602221	rs17205135	0.93793	0.972884
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602221	rs17205135	0.997439	1.0
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602221	rs17205135	0.997439	1.0
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602221	rs17205135	1.0	1.0
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602221	rs17205135	1.0	1.0
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17205135			rs17205135	1.0	1.0
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17205135			rs17205135	1.0	1.0
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602221	rs17205135	0.982051	0.984572
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602221	rs17205135	0.982051	0.984572
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602221	rs17205135	0.994864	0.994864
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602221	rs17205135	0.984644	0.989701
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602221	rs17205135	0.984644	0.989701
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602221	rs17205135	0.984644	0.989701
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602221	rs17205135	0.984644	0.989701
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602221	rs17205135	0.98212	0.989687
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602221	rs17205135	0.98212	0.989687
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602221	rs17205135	0.972148	0.989631
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602221	rs17205135	0.972148	0.989631
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602221	rs17205135	0.979521	0.984552
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602221	rs17205135	0.979521	0.984552
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602221	rs17205135	0.972148	0.989631
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602221	rs17205135	0.972148	0.989631
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602221	rs17205135	0.950399	0.989502
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602221	rs17205135	0.950399	0.989502
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602221	rs17205135	0.979521	0.984552
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602221	rs17205135	0.979521	0.984552
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602221	rs17205135	0.98212	0.989687
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602221	rs17205135	0.98212	0.989687
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602221	rs17205135	0.924921	0.972331
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602221	rs17205135	0.924921	0.972331
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602221	rs17205135	0.911844	0.940818
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602221	rs17205135	0.974397	0.979402
+rs17205135	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602221	rs17205135	0.974397	0.979402
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602195	rs17205114	0.914612	0.961368
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602195	rs17205114	0.92244	0.961834
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602195	rs17205114	0.940714	0.978278
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602195	rs17205114	0.940714	0.978278
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17205114			rs17205114	1.0	1.0
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17205114			rs17205114	1.0	1.0
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602195	rs17205114	0.997439	1.0
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602195	rs17205114	0.997439	1.0
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602195	rs17205114	0.997439	1.0
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602195	rs17205114	0.997439	1.0
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602195	rs17205114	0.984631	0.984631
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602195	rs17205114	0.984631	0.984631
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602195	rs17205114	0.997439	1.0
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602195	rs17205114	0.987211	0.98974
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602195	rs17205114	0.987211	0.98974
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602195	rs17205114	0.987211	0.98974
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602195	rs17205114	0.987211	0.98974
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602195	rs17205114	0.984681	0.989726
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602195	rs17205114	0.984681	0.989726
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602195	rs17205114	0.974683	0.98967
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602195	rs17205114	0.974683	0.98967
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602195	rs17205114	0.982094	0.98461
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602195	rs17205114	0.982094	0.98461
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602195	rs17205114	0.974683	0.98967
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602195	rs17205114	0.974683	0.98967
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602195	rs17205114	0.952878	0.989542
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602195	rs17205114	0.952878	0.989542
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602195	rs17205114	0.982094	0.98461
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602195	rs17205114	0.982094	0.98461
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602195	rs17205114	0.984681	0.989726
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602195	rs17205114	0.984681	0.989726
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602195	rs17205114	0.927774	0.977835
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602195	rs17205114	0.927774	0.977835
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602195	rs17205114	0.914639	0.946126
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602195	rs17205114	0.976977	0.97948
+rs17205114	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602195	rs17205114	0.976977	0.97948
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602178	rs17211454	0.91701	0.96142
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602178	rs17211454	0.924858	0.961885
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602178	rs17211454	0.943158	0.978307
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602178	rs17211454	0.943158	0.978307
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602178	rs17211454	0.997439	1.0
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602178	rs17211454	0.997439	1.0
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602178	rs17211454	0.994864	0.994864
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602178	rs17211454	0.994864	0.994864
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602178	rs17211454	0.994864	0.994864
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602178	rs17211454	0.994864	0.994864
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602178	rs17211454	0.98718	0.989715
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602178	rs17211454	0.98718	0.989715
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17211454			rs17211454	1.0	1.0
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602178	rs17211454	0.989767	0.994851
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602178	rs17211454	0.989767	0.994851
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602178	rs17211454	0.989767	0.994851
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602178	rs17211454	0.989767	0.994851
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602178	rs17211454	0.98212	0.989687
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602178	rs17211454	0.98212	0.989687
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602178	rs17211454	0.972148	0.989631
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602178	rs17211454	0.972148	0.989631
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602178	rs17211454	0.984644	0.989701
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602178	rs17211454	0.984644	0.989701
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602178	rs17211454	0.972148	0.989631
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602178	rs17211454	0.972148	0.989631
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602178	rs17211454	0.950399	0.989502
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602178	rs17211454	0.950399	0.989502
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602178	rs17211454	0.984644	0.989701
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602178	rs17211454	0.984644	0.989701
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602178	rs17211454	0.987237	0.994844
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602178	rs17211454	0.987237	0.994844
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602178	rs17211454	0.930185	0.977865
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602178	rs17211454	0.930185	0.977865
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602178	rs17211454	0.917058	0.946199
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602178	rs17211454	0.979521	0.984552
+rs17211454	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602178	rs17211454	0.979521	0.984552
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602816	rs17211601	0.910892	0.972181
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602816	rs17211601	0.91856	0.972516
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602816	rs17211601	0.93667	0.98905
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602816	rs17211601	0.93667	0.98905
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602816	rs17211601	0.974683	0.98967
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602816	rs17211601	0.974683	0.98967
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602816	rs17211601	0.972148	0.989631
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602816	rs17211601	0.972148	0.989631
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602816	rs17211601	0.972148	0.989631
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602816	rs17211601	0.972148	0.989631
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602816	rs17211601	0.984856	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602816	rs17211601	0.984856	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602816	rs17211601	0.972148	0.989631
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602816	rs17211601	0.989903	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602816	rs17211601	0.989903	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17211601			rs17211601	1.0	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17211601			rs17211601	1.0	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602816	rs17211601	1.0	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602816	rs17211601	1.0	1.0
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602816	rs17211601	0.952758	0.974434
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602816	rs17211601	0.952758	0.974434
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602816	rs17211601	0.982299	0.994854
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602816	rs17211601	0.969605	0.979495
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602816	rs17211601	0.969605	0.979495
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602816	rs17211601	0.923996	0.988827
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602816	rs17211601	0.923996	0.988827
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602816	rs17211601	0.915883	0.96198
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602816	rs17211601	0.961976	0.974272
+rs17211601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602816	rs17211601	0.961976	0.974272
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602753	rs17211580	0.915088	0.966798
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602753	rs17211580	0.922855	0.967198
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602753	rs17211580	0.946281	0.98911
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602753	rs17211580	0.946281	0.98911
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602753	rs17211580	0.984681	0.989726
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602753	rs17211580	0.984681	0.989726
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602753	rs17211580	0.98212	0.989687
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602753	rs17211580	0.98212	0.989687
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602753	rs17211580	0.98212	0.989687
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602753	rs17211580	0.98212	0.989687
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602753	rs17211580	0.994902	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602753	rs17211580	0.994902	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602550	rs17205184	6	32602753	rs17211580	0.898071	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602753	rs17211580	0.98212	0.989687
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17211580			rs17211580	1.0	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17211580			rs17211580	1.0	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602753	rs17211580	0.989903	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602753	rs17211580	0.989903	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602753	rs17211580	0.989903	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602753	rs17211580	0.989903	1.0
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602753	rs17211580	0.96286	0.99481
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602753	rs17211580	0.96286	0.99481
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602753	rs17211580	0.992346	0.994882
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602753	rs17211580	0.979606	0.979606
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602753	rs17211580	0.979606	0.979606
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602753	rs17211580	0.933478	0.988887
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602753	rs17211580	0.933478	0.988887
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603320	rs62404084	6	32602753	rs17211580	0.895248	0.994029
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602753	rs17211580	0.920227	0.956784
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602753	rs17211580	0.971928	0.974412
+rs17211580	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602753	rs17211580	0.971928	0.974412
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602517	rs17205177	0.919862	0.966887
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602517	rs17205177	0.927669	0.967286
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602517	rs17205177	0.951158	0.989139
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602517	rs17205177	0.951158	0.989139
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602517	rs17205177	0.984631	0.984631
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602517	rs17205177	0.984631	0.984631
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602517	rs17205177	0.982051	0.984572
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602517	rs17205177	0.982051	0.984572
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602517	rs17205177	0.982051	0.984572
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602517	rs17205177	0.982051	0.984572
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17205177			rs17205177	1.0	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17205177			rs17205177	1.0	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602550	rs17205184	6	32602517	rs17205177	0.902673	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602517	rs17205177	0.98718	0.989715
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602517	rs17205177	0.997445	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602517	rs17205177	0.997445	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602517	rs17205177	0.997445	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602517	rs17205177	0.997445	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602517	rs17205177	0.994902	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602517	rs17205177	0.994902	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602517	rs17205177	0.984856	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602517	rs17205177	0.984856	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602517	rs17205177	0.992328	0.99487
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602517	rs17205177	0.992328	0.99487
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602517	rs17205177	0.984856	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602517	rs17205177	0.984856	1.0
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602517	rs17205177	0.957913	0.994771
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602517	rs17205177	0.957913	0.994771
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602517	rs17205177	0.992328	0.99487
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602517	rs17205177	0.992328	0.99487
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602517	rs17205177	0.984681	0.989726
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602517	rs17205177	0.984681	0.989726
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602517	rs17205177	0.93829	0.988917
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602517	rs17205177	0.93829	0.988917
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603320	rs62404084	6	32602517	rs17205177	0.89446	0.988091
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602517	rs17205177	0.925055	0.956901
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602517	rs17205177	0.976977	0.97948
+rs17205177	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602517	rs17205177	0.976977	0.97948
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602429	rs17211510	0.922713	0.972369
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602429	rs17211510	0.930479	0.972702
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602429	rs17211510	0.953929	0.994562
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602429	rs17211510	0.953929	0.994562
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602429	rs17211510	0.987211	0.98974
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602429	rs17211510	0.987211	0.98974
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602429	rs17211510	0.984644	0.989701
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602429	rs17211510	0.984644	0.989701
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602429	rs17211510	0.984644	0.989701
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602429	rs17211510	0.984644	0.989701
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602429	rs17211510	0.997445	1.0
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602429	rs17211510	0.997445	1.0
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602550	rs17205184	6	32602429	rs17211510	0.900366	1.0
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602429	rs17211510	0.989767	0.994851
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17211510			rs17211510	1.0	1.0
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17211510			rs17211510	1.0	1.0
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602607	rs17211545	6	32602429	rs17211510	0.994889	0.994889
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602607	rs17211545	6	32602429	rs17211510	0.994889	0.994889
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602429	rs17211510	0.992346	0.994882
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602429	rs17211510	0.992346	0.994882
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602429	rs17211510	0.982299	0.994854
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602429	rs17211510	0.982299	0.994854
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602429	rs17211510	0.994889	0.994889
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602429	rs17211510	0.994889	0.994889
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602429	rs17211510	0.982299	0.994854
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602429	rs17211510	0.982299	0.994854
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602429	rs17211510	0.960386	0.994791
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602429	rs17211510	0.960386	0.994791
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602429	rs17211510	0.994889	0.994889
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602429	rs17211510	0.994889	0.994889
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602429	rs17211510	0.987242	0.989765
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602429	rs17211510	0.987242	0.989765
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602429	rs17211510	0.941129	0.994451
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602429	rs17211510	0.941129	0.994451
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603320	rs62404084	6	32602429	rs17211510	0.897543	0.994037
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602429	rs17211510	0.922635	0.956843
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602429	rs17211510	0.979557	0.979557
+rs17211510	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602429	rs17211510	0.979557	0.979557
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601718	rs114567049	6	32602607	rs17211545	0.922713	0.972369
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601707	rs114803358	6	32602607	rs17211545	0.930479	0.972702
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600248	rs13211123	6	32602607	rs17211545	0.948713	0.989124
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600248	rs13211123	6	32602607	rs17211545	0.948713	0.989124
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602195	rs17205114	6	32602607	rs17211545	0.987211	0.98974
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602195	rs17205114	6	32602607	rs17211545	0.987211	0.98974
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602216	rs17205128	6	32602607	rs17211545	0.984644	0.989701
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602216	rs17205128	6	32602607	rs17211545	0.984644	0.989701
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602221	rs17205135	6	32602607	rs17211545	0.984644	0.989701
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602221	rs17205135	6	32602607	rs17211545	0.984644	0.989701
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602517	rs17205177	6	32602607	rs17211545	0.997445	1.0
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602517	rs17205177	6	32602607	rs17211545	0.997445	1.0
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602550	rs17205184	6	32602607	rs17211545	0.900366	1.0
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602178	rs17211454	6	32602607	rs17211545	0.989767	0.994851
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602429	rs17211510	6	32602607	rs17211545	0.994889	0.994889
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602429	rs17211510	6	32602607	rs17211545	0.994889	0.994889
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial			rs17211545			rs17211545	1.0	1.0
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17211545			rs17211545	1.0	1.0
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602753	rs17211580	6	32602607	rs17211545	0.992346	0.994882
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602753	rs17211580	6	32602607	rs17211545	0.992346	0.994882
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602816	rs17211601	6	32602607	rs17211545	0.982299	0.994854
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602816	rs17211601	6	32602607	rs17211545	0.982299	0.994854
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603354	rs28407322	6	32602607	rs17211545	0.989779	0.989779
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603354	rs28407322	6	32602607	rs17211545	0.989779	0.989779
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602863	rs28533091	6	32602607	rs17211545	0.982299	0.994854
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602863	rs28533091	6	32602607	rs17211545	0.982299	0.994854
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603487	rs28675927	6	32602607	rs17211545	0.955357	0.989581
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603487	rs28675927	6	32602607	rs17211545	0.955357	0.989581
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32603028	rs28694749	6	32602607	rs17211545	0.989779	0.989779
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603028	rs28694749	6	32602607	rs17211545	0.989779	0.989779
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602123	rs34145408	6	32602607	rs17211545	0.987242	0.989765
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602123	rs34145408	6	32602607	rs17211545	0.987242	0.989765
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32600210	rs34927613	6	32602607	rs17211545	0.935878	0.988902
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32600210	rs34927613	6	32602607	rs17211545	0.935878	0.988902
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601789	rs72848261	6	32602607	rs17211545	0.927837	0.962237
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA1	spatial	6	32602064	rs72848263	6	32602607	rs17211545	0.979557	0.979557
+rs17211545	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602064	rs72848263	6	32602607	rs17211545	0.979557	0.979557
+rs17211657	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32601441	rs114250738	6	32603022	rs17211657	0.930116	0.954935
+rs17211657	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603733	rs116235343	6	32603022	rs17211657	0.953586	1.0
+rs17211657	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial			rs17211657			rs17211657	1.0	1.0
+rs17211657	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603943	rs28666575	6	32603022	rs17211657	0.948916	0.990945
+rs17211657	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32603948	rs28693734	6	32603022	rs17211657	0.948916	0.990945
+rs17211657	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-DQA2	spatial	6	32602085	rs36173887	6	32603022	rs17211657	0.973005	0.981813
+rs1047989	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32604123	rs9272320	6	32605256	rs1047989	0.897376	0.969842
+rs1047989	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32604123	rs9272320	6	32605256	rs1047989	0.897376	0.969842
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32603678	rs140227720	6	32605233	rs28383345	0.953302	1.0
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32603678	rs140227720	6	32605233	rs28383345	0.953302	1.0
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32602284	rs17211475	6	32605233	rs28383345	0.983503	0.983503
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32602284	rs17211475	6	32605233	rs28383345	0.983503	0.983503
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601646	rs2002778	6	32605233	rs28383345	0.963625	0.983408
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601646	rs2002778	6	32605233	rs28383345	0.963625	0.983408
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601461	rs2395520	6	32605233	rs28383345	0.959764	0.983388
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601461	rs2395520	6	32605233	rs28383345	0.959764	0.983388
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32600339	rs28383330	6	32605233	rs28383345	0.983503	0.983503
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32600339	rs28383330	6	32605233	rs28383345	0.983503	0.983503
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601127	rs28383332	6	32605233	rs28383345	0.933739	0.983252
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601127	rs28383332	6	32605233	rs28383345	0.933739	0.983252
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32602891	rs28383335	6	32605233	rs28383345	0.979449	0.983484
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32602891	rs28383335	6	32605233	rs28383345	0.979449	0.983484
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32603896	rs28383338	6	32605233	rs28383345	0.921542	1.0
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32603896	rs28383338	6	32605233	rs28383345	0.921542	1.0
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32604394	rs28383339	6	32605233	rs28383345	0.917834	0.966504
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32604394	rs28383339	6	32605233	rs28383345	0.917834	0.966504
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32604430	rs28383340	6	32605233	rs28383345	0.928382	1.0
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32604430	rs28383340	6	32605233	rs28383345	0.928382	1.0
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32605824	rs28383348	6	32605233	rs28383345	0.987673	0.991742
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609037	rs28383438	6	32605233	rs28383345	0.937655	0.949435
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609045	rs28383440	6	32605233	rs28383345	0.958315	0.98277
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609475	rs28383458	6	32605233	rs28383345	0.95051	0.95051
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609519	rs28383459	6	32605233	rs28383345	0.95051	0.95051
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601213	rs547534201	6	32605233	rs28383345	0.963625	0.983408
+rs28383345	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601213	rs547534201	6	32605233	rs28383345	0.963625	0.983408
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32603678	rs140227720	6	32605325	rs28383346	0.95723	1.0
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32603678	rs140227720	6	32605325	rs28383346	0.95723	1.0
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32602284	rs17211475	6	32605325	rs28383346	0.979449	0.983484
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32602284	rs17211475	6	32605325	rs28383346	0.979449	0.983484
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601646	rs2002778	6	32605325	rs28383346	0.959605	0.975287
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601646	rs2002778	6	32605325	rs28383346	0.959605	0.975287
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601461	rs2395520	6	32605325	rs28383346	0.955751	0.975258
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601461	rs2395520	6	32605325	rs28383346	0.955751	0.975258
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32600339	rs28383330	6	32605325	rs28383346	0.979449	0.983484
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32600339	rs28383330	6	32605325	rs28383346	0.979449	0.983484
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601127	rs28383332	6	32605325	rs28383346	0.937699	0.98337
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601127	rs28383332	6	32605325	rs28383346	0.937699	0.98337
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32602891	rs28383335	6	32605325	rs28383346	0.975401	0.975401
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32602891	rs28383335	6	32605325	rs28383346	0.975401	0.975401
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32603896	rs28383338	6	32605325	rs28383346	0.925339	1.0
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32603896	rs28383338	6	32605325	rs28383346	0.925339	1.0
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32604394	rs28383339	6	32605325	rs28383346	0.921841	0.966739
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32604394	rs28383339	6	32605325	rs28383346	0.921841	0.966739
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32604430	rs28383340	6	32605325	rs28383346	0.924401	0.991626
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32604430	rs28383340	6	32605325	rs28383346	0.924401	0.991626
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32605824	rs28383348	6	32605325	rs28383346	0.983601	0.983601
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609037	rs28383438	6	32605325	rs28383346	0.942048	0.957813
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609045	rs28383440	6	32605325	rs28383346	0.954363	0.98275
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609475	rs28383458	6	32605325	rs28383346	0.954777	0.958711
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32609519	rs28383459	6	32605325	rs28383346	0.954777	0.958711
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA1	spatial	6	32601213	rs547534201	6	32605325	rs28383346	0.959605	0.975287
+rs28383346	Steroid-dependent/frequent relapse nephrotic syndrome	HLA-DQA2	spatial	6	32601213	rs547534201	6	32605325	rs28383346	0.959605	0.975287
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32580636	rs2395515	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32581332	rs3129749	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32581514	rs3129750	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32577196	rs368800004	6	32576763	rs9271116	0.907892	0.983481
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32574249	rs9270994	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32574373	rs9270997	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32574989	rs9271025	6	32576763	rs9271116	0.896446	0.967189
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32575368	rs9271055	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32575377	rs9271056	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32576075	rs9271080	6	32576763	rs9271116	0.904463	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32576085	rs9271082	6	32576763	rs9271116	0.904263	0.991566
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32576151	rs9271085	6	32576763	rs9271116	0.911772	0.991683
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32576340	rs9271093	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial			rs9271116			rs9271116	1.0	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32577530	rs9271152	6	32576763	rs9271116	0.896479	0.97505
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32577585	rs9271155	6	32576763	rs9271116	0.900352	0.98325
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32578448	rs9271191	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32578884	rs9271203	6	32576763	rs9271116	0.900707	1.0
+rs9271116	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA1	spatial	6	32580410	rs9271256	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32580636	rs2395515	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32581332	rs3129749	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32581514	rs3129750	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32577196	rs368800004	6	32576763	rs9271116	0.907892	0.983481
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32574249	rs9270994	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32574373	rs9270997	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32574989	rs9271025	6	32576763	rs9271116	0.896446	0.967189
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32575368	rs9271055	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32575377	rs9271056	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32576075	rs9271080	6	32576763	rs9271116	0.904463	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32576085	rs9271082	6	32576763	rs9271116	0.904263	0.991566
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32576151	rs9271085	6	32576763	rs9271116	0.911772	0.991683
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32576340	rs9271093	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial			rs9271116			rs9271116	1.0	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32577530	rs9271152	6	32576763	rs9271116	0.896479	0.97505
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32577585	rs9271155	6	32576763	rs9271116	0.900352	0.98325
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32578448	rs9271191	6	32576763	rs9271116	0.896944	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32578884	rs9271203	6	32576763	rs9271116	0.900707	1.0
+rs9271116	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA1	spatial	6	32580410	rs9271256	6	32576763	rs9271116	0.896944	1.0
+rs9276434	Seropositivity for streptococcus phage peptide (twist_76831)	HLA-DQA2	spatial			rs9276434			rs9276434	1.0	1.0
+rs9276434	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	HLA-DQA2	spatial			rs9276434			rs9276434	1.0	1.0
+rs9270022	Seropositivity for lactobacillus phage LFEINF peptide (twist_64023)	HLA-DQA1	spatial	6	32549595	rs2308759	6	32553141	rs9270022	0.924904	0.932657
+rs9270022	Seropositivity for lactobacillus phage LFEINF peptide (twist_64023)	HLA-DQA1	spatial	6	32555964	rs9270187	6	32553141	rs9270022	0.90645	0.990319
+rs9270022	Seropositivity for lactobacillus phage LFEINF peptide (twist_64023)	HLA-DQA1	spatial	6	32556029	rs9270189	6	32553141	rs9270022	0.919488	0.990556
+rs3117116	Seropositivity for lactobacillus phage LFEINF peptide (twist_64023)	HLA-DQA2	spatial			rs3117116			rs3117116	1.0	1.0
+rs9276189	Seropositivity for lactobacillus phage LFEINF peptide (twist_64023)	HLA-DQA2	spatial			rs9276189			rs9276189	1.0	1.0
