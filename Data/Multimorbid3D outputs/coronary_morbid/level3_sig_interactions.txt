@@ -1,0 +1,1872 @@
+snp	trait	gene	eqtl_type	chromq	posq	rsidq	chromt	post	rsidt	corr	dprime
+rs2276824	Waist-to-hip ratio adjusted for body mass index	ITIH4	spatial			rs2276824			rs2276824	1.0	1.0
+rs13083798	Waist-to-hip ratio adjusted for body mass index	ITIH4	spatial			rs13083798			rs13083798	1.0	1.0
+rs12489828	Waist-to-hip ratio adjusted for body mass index	ITIH4	spatial			rs12489828			rs12489828	1.0	1.0
+rs12489828	Waist-to-hip ratio adjusted for body mass index	ITIH4	spatial	3	52567616	rs66782572	3	52567013	rs12489828	0.993983	1.0
+rs12489828	Waist-to-hip ratio adjusted for body mass index	ITIH4	spatial	3	52566913	rs7614981	3	52567013	rs12489828	1.0	1.0
+rs2590838	Waist-to-hip ratio adjusted for body mass index	ITIH4	spatial	3	52626442	rs2336147	3	52622085	rs2590838	0.99801	1.0
+rs2710323	Waist-to-hip ratio adjusted for body mass index	ITIH4	spatial			rs2710323			rs2710323	1.0	1.0
+rs2710323	Worry	ITIH4	spatial			rs2710323			rs2710323	1.0	1.0
+rs6976	Osteoarthritis (hip)	ITIH4	spatial	3	52731482	rs11130317	3	52728803	rs6976	0.991864	1.0
+rs6976	Osteoarthritis (hip)	ITIH4	spatial	3	52725960	rs13076193	3	52728803	rs6976	0.997958	1.0
+rs6976	Osteoarthritis (hip)	ITIH4	spatial	3	52731268	rs2164885	3	52728803	rs6976	0.971899	1.0
+rs6976	Osteoarthritis (hip)	ITIH4	spatial	3	52727256	rs2289247	3	52728803	rs6976	0.973872	1.0
+rs6976	Osteoarthritis (hip)	ITIH4	spatial	3	52731597	rs3733041	3	52728803	rs6976	0.971899	1.0
+rs6976	Osteoarthritis (hip)	ITIH4	spatial	3	52726694	rs6762813	3	52728803	rs6976	0.997958	1.0
+rs6976	Osteoarthritis (hip)	ITIH4	spatial			rs6976			rs6976	1.0	1.0
+rs6976	Verbal learning	ITIH4	spatial	3	52731482	rs11130317	3	52728803	rs6976	0.991864	1.0
+rs6976	Verbal learning	ITIH4	spatial	3	52725960	rs13076193	3	52728803	rs6976	0.997958	1.0
+rs6976	Verbal learning	ITIH4	spatial	3	52731268	rs2164885	3	52728803	rs6976	0.971899	1.0
+rs6976	Verbal learning	ITIH4	spatial	3	52727256	rs2289247	3	52728803	rs6976	0.973872	1.0
+rs6976	Verbal learning	ITIH4	spatial	3	52731597	rs3733041	3	52728803	rs6976	0.971899	1.0
+rs6976	Verbal learning	ITIH4	spatial	3	52726694	rs6762813	3	52728803	rs6976	0.997958	1.0
+rs6976	Verbal learning	ITIH4	spatial			rs6976			rs6976	1.0	1.0
+rs11177	Osteoarthritis (hip)	ITIH4	spatial	3	52718153	rs10865973	3	52721304	rs11177	1.0	1.0
+rs11177	Osteoarthritis (hip)	ITIH4	spatial	3	52718279	rs10865974	3	52721304	rs11177	0.973888	1.0
+rs11177	Osteoarthritis (hip)	ITIH4	spatial			rs11177			rs11177	1.0	1.0
+rs11177	Osteoarthritis (hip)	ITIH4	spatial	3	52725960	rs13076193	3	52721304	rs11177	1.0	1.0
+rs11177	Osteoarthritis (hip)	ITIH4	spatial	3	52719397	rs1866268	3	52721304	rs11177	0.973888	1.0
+rs11177	Osteoarthritis (hip)	ITIH4	spatial	3	52719087	rs3733039	3	52721304	rs11177	0.971917	1.0
+rs11177	Verbal learning	ITIH4	spatial	3	52718153	rs10865973	3	52721304	rs11177	1.0	1.0
+rs11177	Verbal learning	ITIH4	spatial	3	52718279	rs10865974	3	52721304	rs11177	0.973888	1.0
+rs11177	Verbal learning	ITIH4	spatial			rs11177			rs11177	1.0	1.0
+rs11177	Verbal learning	ITIH4	spatial	3	52725960	rs13076193	3	52721304	rs11177	1.0	1.0
+rs11177	Verbal learning	ITIH4	spatial	3	52719397	rs1866268	3	52721304	rs11177	0.973888	1.0
+rs11177	Verbal learning	ITIH4	spatial	3	52719087	rs3733039	3	52721304	rs11177	0.971917	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52821010	rs1042779	3	52820980	rs678	0.989665	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52825527	rs1075653	3	52820980	rs678	0.935422	0.937373
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52825461	rs1076425	3	52820980	rs678	0.937484	0.9414
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52816584	rs11267471	3	52820980	rs678	0.981421	0.995787
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52823125	rs2239549	3	52820980	rs678	0.973438	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52822508	rs2239550	3	52820980	rs678	0.971435	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52818578	rs2239551	3	52820980	rs678	0.967447	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52819326	rs2268023	3	52820980	rs678	0.924987	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52824094	rs2270197	3	52820980	rs678	0.939551	0.945447
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52822855	rs2284350	3	52820980	rs678	0.969438	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52822788	rs2284351	3	52820980	rs678	0.971435	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52821176	rs2286798	3	52820980	rs678	0.993781	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52822920	rs2300149	3	52820980	rs678	0.971435	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52825280	rs3216516	3	52820980	rs678	0.935422	0.937373
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52824283	rs3217089	3	52820980	rs678	0.927008	0.936732
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52817674	rs3774354	3	52820980	rs678	0.993781	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52817777	rs3774355	3	52820980	rs678	0.993781	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52823429	rs4687550	3	52820980	rs678	0.937484	0.9414
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52823447	rs4687551	3	52820980	rs678	0.937484	0.9414
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52824609	rs6778329	3	52820980	rs678	0.937484	0.9414
+rs678	Osteoarthritis (hip)	ITIH4	spatial			rs678			rs678	1.0	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52821991	rs68094128	3	52820980	rs678	0.917529	1.0
+rs678	Osteoarthritis (hip)	ITIH4	spatial	3	52825584	rs9324	3	52820980	rs678	0.935422	0.937373
+rs678	Verbal learning	ITIH4	spatial	3	52821010	rs1042779	3	52820980	rs678	0.989665	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52825527	rs1075653	3	52820980	rs678	0.935422	0.937373
+rs678	Verbal learning	ITIH4	spatial	3	52825461	rs1076425	3	52820980	rs678	0.937484	0.9414
+rs678	Verbal learning	ITIH4	spatial	3	52816584	rs11267471	3	52820980	rs678	0.981421	0.995787
+rs678	Verbal learning	ITIH4	spatial	3	52823125	rs2239549	3	52820980	rs678	0.973438	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52820980	rs678	0.971435	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52818578	rs2239551	3	52820980	rs678	0.967447	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52819326	rs2268023	3	52820980	rs678	0.924987	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52824094	rs2270197	3	52820980	rs678	0.939551	0.945447
+rs678	Verbal learning	ITIH4	spatial	3	52822855	rs2284350	3	52820980	rs678	0.969438	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52822788	rs2284351	3	52820980	rs678	0.971435	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52821176	rs2286798	3	52820980	rs678	0.993781	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52822920	rs2300149	3	52820980	rs678	0.971435	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52825280	rs3216516	3	52820980	rs678	0.935422	0.937373
+rs678	Verbal learning	ITIH4	spatial	3	52824283	rs3217089	3	52820980	rs678	0.927008	0.936732
+rs678	Verbal learning	ITIH4	spatial	3	52817674	rs3774354	3	52820980	rs678	0.993781	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52817777	rs3774355	3	52820980	rs678	0.993781	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52823429	rs4687550	3	52820980	rs678	0.937484	0.9414
+rs678	Verbal learning	ITIH4	spatial	3	52823447	rs4687551	3	52820980	rs678	0.937484	0.9414
+rs678	Verbal learning	ITIH4	spatial	3	52824609	rs6778329	3	52820980	rs678	0.937484	0.9414
+rs678	Verbal learning	ITIH4	spatial			rs678			rs678	1.0	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52821991	rs68094128	3	52820980	rs678	0.917529	1.0
+rs678	Verbal learning	ITIH4	spatial	3	52825584	rs9324	3	52820980	rs678	0.935422	0.937373
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52821010	rs1042779	3	52817777	rs3774355	0.983408	0.987498
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52816584	rs11267471	3	52817777	rs3774355	0.987594	0.995819
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52822508	rs2239550	3	52817777	rs3774355	0.965109	0.987309
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52818578	rs2239551	3	52817777	rs3774355	0.973502	1.0
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52819326	rs2268023	3	52817777	rs3774355	0.930776	1.0
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52821176	rs2286798	3	52817777	rs3774355	0.987539	0.987539
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52817674	rs3774354	3	52817777	rs3774355	1.0	1.0
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial			rs3774355			rs3774355	1.0	1.0
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52820980	rs678	3	52817777	rs3774355	0.993781	1.0
+rs3774355	Osteoarthritis (hip)	ITIH4	spatial	3	52821991	rs68094128	3	52817777	rs3774355	0.910976	0.986683
+rs3774355	Verbal learning	ITIH4	spatial	3	52821010	rs1042779	3	52817777	rs3774355	0.983408	0.987498
+rs3774355	Verbal learning	ITIH4	spatial	3	52816584	rs11267471	3	52817777	rs3774355	0.987594	0.995819
+rs3774355	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52817777	rs3774355	0.965109	0.987309
+rs3774355	Verbal learning	ITIH4	spatial	3	52818578	rs2239551	3	52817777	rs3774355	0.973502	1.0
+rs3774355	Verbal learning	ITIH4	spatial	3	52819326	rs2268023	3	52817777	rs3774355	0.930776	1.0
+rs3774355	Verbal learning	ITIH4	spatial	3	52821176	rs2286798	3	52817777	rs3774355	0.987539	0.987539
+rs3774355	Verbal learning	ITIH4	spatial	3	52817674	rs3774354	3	52817777	rs3774355	1.0	1.0
+rs3774355	Verbal learning	ITIH4	spatial			rs3774355			rs3774355	1.0	1.0
+rs3774355	Verbal learning	ITIH4	spatial	3	52820980	rs678	3	52817777	rs3774355	0.993781	1.0
+rs3774355	Verbal learning	ITIH4	spatial	3	52821991	rs68094128	3	52817777	rs3774355	0.910976	0.986683
+rs131794	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50971794	rs131793	22	50971751	rs131794	1.0	1.0
+rs131794	5-methyluridine (ribothymidine) levels	TYMP	spatial			rs131794			rs131794	1.0	1.0
+rs131794	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50971508	rs131798	22	50971751	rs131794	1.0	1.0
+rs131794	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50971305	rs131799	22	50971751	rs131794	0.985767	1.0
+rs131794	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50974099	rs4824129	22	50971751	rs131794	0.994255	1.0
+rs131794	Uridine levels	TYMP	spatial	22	50971794	rs131793	22	50971751	rs131794	1.0	1.0
+rs131794	Uridine levels	TYMP	spatial			rs131794			rs131794	1.0	1.0
+rs131794	Uridine levels	TYMP	spatial	22	50971508	rs131798	22	50971751	rs131794	1.0	1.0
+rs131794	Uridine levels	TYMP	spatial	22	50971305	rs131799	22	50971751	rs131794	0.985767	1.0
+rs131794	Uridine levels	TYMP	spatial	22	50974099	rs4824129	22	50971751	rs131794	0.994255	1.0
+rs470118	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50981435	rs131784	22	50977737	rs470118	0.939289	1.0
+rs470118	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50980070	rs131785	22	50977737	rs470118	0.974237	1.0
+rs470118	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50976753	rs131788	22	50977737	rs470118	0.910985	0.989433
+rs470118	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50978023	rs140521	22	50977737	rs470118	0.98125	1.0
+rs470118	5-methyluridine (ribothymidine) levels	TYMP	spatial			rs470118			rs470118	1.0	1.0
+rs131805	5-methyluridine (ribothymidine) levels	TYMP	spatial			rs131805			rs131805	1.0	1.0
+rs131805	5-methyluridine (ribothymidine) levels	TYMP	spatial	22	50961168	rs131813	22	50964152	rs131805	0.991516	1.0
+rs131805	Uridine levels	TYMP	spatial			rs131805			rs131805	1.0	1.0
+rs131805	Uridine levels	TYMP	spatial	22	50961168	rs131813	22	50964152	rs131805	0.991516	1.0
+rs131805	2'-deoxyuridine levels	TYMP	spatial			rs131805			rs131805	1.0	1.0
+rs131805	2'-deoxyuridine levels	TYMP	spatial	22	50961168	rs131813	22	50964152	rs131805	0.991516	1.0
+rs131805	Metabolite levels (5-methyluridine (ribothymidine); ribothymidine)	TYMP	spatial			rs131805			rs131805	1.0	1.0
+rs131805	Metabolite levels (5-methyluridine (ribothymidine); ribothymidine)	TYMP	spatial	22	50961168	rs131813	22	50964152	rs131805	0.991516	1.0
+rs131805	Metabolite levels (2'-deoxyuridine; __deoxyuridine)	TYMP	spatial			rs131805			rs131805	1.0	1.0
+rs131805	Metabolite levels (2'-deoxyuridine; __deoxyuridine)	TYMP	spatial	22	50961168	rs131813	22	50964152	rs131805	0.991516	1.0
+rs9836178	Worry	ITIH4	spatial			rs9836178			rs9836178	1.0	1.0
+rs4434138	Worry	ITIH4	spatial	3	52561778	rs11711421	3	52556889	rs4434138	0.964203	0.979721
+rs4434138	Worry	ITIH4	spatial	3	52560020	rs4475032	3	52556889	rs4434138	0.97233	0.995909
+rs4687552	Worry	ITIH4	spatial	3	52837854	rs2710331	3	52838401	rs4687552	0.997919	1.0
+rs4687552	Worry	ITIH4	spatial			rs4687552			rs4687552	1.0	1.0
+rs4687552	Worry	ITIH4	spatial	3	52835353	rs736408	3	52838401	rs4687552	0.962485	0.978728
+rs13094915	Worry	ITIH4	spatial			rs13094915			rs13094915	1.0	1.0
+rs6445541	Worry	ITIH4	spatial	3	52883069	rs11715347	3	52880127	rs6445541	-0.995885	-1.0
+rs6445541	Worry	ITIH4	spatial	3	52876388	rs11719137	3	52880127	rs6445541	-0.993837	-1.0
+rs6445541	Worry	ITIH4	spatial	3	52882352	rs3839102	3	52880127	rs6445541	-0.99794	-1.0
+rs6445541	Worry	ITIH4	spatial	3	52878599	rs56214994	3	52880127	rs6445541	-0.995885	-1.0
+rs6445541	Worry	ITIH4	spatial			rs6445541			rs6445541	1.0	1.0
+rs2613996	CD4+ T cell-associated HIV-1 RNA-to-DNA ratio in long-term suppressive antiretroviral treated HIV-1	HRAS	spatial			rs2613996			rs2613996	1.0	1.0
+rs7113204	CD4+ T cell-associated HIV-1 RNA-to-DNA ratio in long-term suppressive antiretroviral treated HIV-1	HRAS	spatial			rs7113204			rs7113204	1.0	1.0
+rs7959452	Lysozyme C levels	YEATS4	spatial	12	69737878	rs10784774	12	69735491	rs7959452	0.942901	0.975316
+rs7959452	Lysozyme C levels	YEATS4	spatial	12	69734640	rs2168029	12	69735491	rs7959452	1.0	1.0
+rs7959452	Lysozyme C levels	YEATS4	spatial	12	69732104	rs4761234	12	69735491	rs7959452	0.923483	1.0
+rs7959452	Lysozyme C levels	YEATS4	spatial			rs7959452			rs7959452	1.0	1.0
+rs4761234	Lysozyme C levels	YEATS4	spatial	12	69729433	rs12827594	12	69732104	rs4761234	0.919195	0.991406
+rs4761234	Lysozyme C levels	YEATS4	spatial	12	69734640	rs2168029	12	69732104	rs4761234	0.923483	1.0
+rs4761234	Lysozyme C levels	YEATS4	spatial			rs4761234			rs4761234	1.0	1.0
+rs4761234	Lysozyme C levels	YEATS4	spatial	12	69735491	rs7959452	12	69732104	rs4761234	0.923483	1.0
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895111	rs112299092	20	1894605	rs56301259	0.974528	0.978675
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895358	rs115684185	20	1894605	rs56301259	0.909668	0.981294
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895357	rs116321632	20	1894605	rs56301259	0.909668	0.981294
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895352	rs139228210	20	1894605	rs56301259	0.901417	0.981073
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893120	rs1569960	20	1894605	rs56301259	0.987273	0.987273
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894629	rs16978863	20	1894605	rs56301259	0.985162	0.987253
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894976	rs17775933	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893746	rs4813319	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893762	rs4813320	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893783	rs4813321	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893808	rs4813322	20	1894605	rs56301259	0.985146	0.987239
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893814	rs4813323	20	1894605	rs56301259	0.985146	0.987239
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893979	rs4813324	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893985	rs4813325	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1897389	rs4813329	20	1894605	rs56301259	0.905307	0.981909
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1897406	rs4813330	20	1894605	rs56301259	0.976682	0.978754
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1897441	rs4813331	20	1894605	rs56301259	0.978788	0.978788
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894583	rs55698111	20	1894605	rs56301259	0.995771	1.0
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894689	rs55797358	20	1894605	rs56301259	0.983057	0.987232
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894606	rs56278099	20	1894605	rs56301259	0.995771	1.0
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial			rs56301259			rs56301259	1.0	1.0
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894688	rs56380582	20	1894605	rs56301259	0.983057	0.987232
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894314	rs6075339	20	1894605	rs56301259	0.987273	0.987273
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894334	rs6075340	20	1894605	rs56301259	0.985146	0.987239
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1889857	rs6081121	20	1894605	rs56301259	0.978788	0.978788
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894466	rs6081134	20	1894605	rs56301259	0.974705	0.98715
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1896400	rs6132062	20	1894605	rs56301259	0.983031	0.983031
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1896243	rs6136376	20	1894605	rs56301259	0.983031	0.983031
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1896287	rs6136377	20	1894605	rs56301259	0.983031	0.983031
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895569	rs66523711	20	1894605	rs56301259	0.942831	0.977787
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895316	rs66591681	20	1894605	rs56301259	0.957619	0.982473
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895600	rs66600581	20	1894605	rs56301259	0.978788	0.978788
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895291	rs66675914	20	1894605	rs56301259	0.955514	0.982425
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894788	rs66815411	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894919	rs67343776	20	1894605	rs56301259	0.978788	0.978788
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895272	rs67414469	20	1894605	rs56301259	0.955514	0.982425
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894846	rs67558779	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894909	rs67772748	20	1894605	rs56301259	0.978788	0.978788
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895070	rs67774686	20	1894605	rs56301259	0.978788	0.978788
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895073	rs67802885	20	1894605	rs56301259	0.978788	0.978788
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895015	rs68064046	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894871	rs68178619	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894880	rs72620869	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894895	rs72620870	20	1894605	rs56301259	0.980922	0.983004
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895532	rs72620873	20	1894605	rs56301259	0.921932	0.977152
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895538	rs75776568	20	1894605	rs56301259	0.919851	0.977086
+rs56301259	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895537	rs78417105	20	1894605	rs56301259	0.919851	0.977086
+rs6081084	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial			rs6081084			rs6081084	1.0	1.0
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893120	rs1569960	20	1888864	rs59317774	0.993642	0.995751
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893746	rs4813319	20	1888864	rs59317774	0.987286	0.987286
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893762	rs4813320	20	1888864	rs59317774	0.987286	0.987286
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893783	rs4813321	20	1888864	rs59317774	0.987286	0.987286
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893808	rs4813322	20	1888864	rs59317774	0.991524	0.99574
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893814	rs4813323	20	1888864	rs59317774	0.991524	0.99574
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial			rs59317774			rs59317774	1.0	1.0
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1885098	rs6045331	20	1888864	rs59317774	1.0	1.0
+rs59317774	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1889857	rs6081121	20	1888864	rs59317774	0.997882	1.0
+rs2253427	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial			rs2253427			rs2253427	1.0	1.0
+rs2253427	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1547741	rs2253953	20	1552429	rs2253427	0.945998	0.993893
+rs2253427	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1549401	rs2254194	20	1552429	rs2253427	1.0	1.0
+rs2253427	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1551096	rs2254448	20	1552429	rs2253427	0.997021	1.0
+rs2253427	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1556757	rs2422631	20	1552429	rs2253427	0.930779	1.0
+rs2253427	SIRPA protein levels	SIRPB1	spatial			rs2253427			rs2253427	1.0	1.0
+rs2253427	SIRPA protein levels	SIRPB1	spatial	20	1547741	rs2253953	20	1552429	rs2253427	0.945998	0.993893
+rs2253427	SIRPA protein levels	SIRPB1	spatial	20	1549401	rs2254194	20	1552429	rs2253427	1.0	1.0
+rs2253427	SIRPA protein levels	SIRPB1	spatial	20	1551096	rs2254448	20	1552429	rs2253427	0.997021	1.0
+rs2253427	SIRPA protein levels	SIRPB1	spatial	20	1556757	rs2422631	20	1552429	rs2253427	0.930779	1.0
+rs6081096	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial			rs6081096			rs6081096	1.0	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895111	rs112299092	20	1893120	rs1569960	0.987268	0.99147
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895358	rs115684185	20	1893120	rs1569960	0.918338	0.990647
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895357	rs116321632	20	1893120	rs1569960	0.918338	0.990647
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895352	rs139228210	20	1893120	rs1569960	0.910113	0.990536
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial			rs1569960			rs1569960	1.0	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894629	rs16978863	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894976	rs17775933	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893746	rs4813319	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893762	rs4813320	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893783	rs4813321	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893808	rs4813322	20	1893120	rs1569960	0.99788	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893814	rs4813323	20	1893120	rs1569960	0.99788	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893979	rs4813324	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1893985	rs4813325	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1897389	rs4813329	20	1893120	rs1569960	0.913647	0.990954
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1897406	rs4813330	20	1893120	rs1569960	0.989402	0.991502
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1897441	rs4813331	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894583	rs55698111	20	1893120	rs1569960	0.983057	0.987232
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894689	rs55797358	20	1893120	rs1569960	0.995771	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894606	rs56278099	20	1893120	rs1569960	0.983057	0.987232
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894605	rs56301259	20	1893120	rs1569960	0.987273	0.987273
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894688	rs56380582	20	1893120	rs1569960	0.995771	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1888864	rs59317774	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894314	rs6075339	20	1893120	rs1569960	1.0	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894334	rs6075340	20	1893120	rs1569960	0.99788	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1889857	rs6081121	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894466	rs6081134	20	1893120	rs1569960	0.987393	1.0
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1896400	rs6132062	20	1893120	rs1569960	0.995758	0.995758
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1896243	rs6136376	20	1893120	rs1569960	0.995758	0.995758
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1896287	rs6136377	20	1893120	rs1569960	0.995758	0.995758
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895569	rs66523711	20	1893120	rs1569960	0.955682	0.991115
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895316	rs66591681	20	1893120	rs1569960	0.966161	0.991236
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895600	rs66600581	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895291	rs66675914	20	1893120	rs1569960	0.964061	0.991212
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894788	rs66815411	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894919	rs67343776	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895272	rs67414469	20	1893120	rs1569960	0.964061	0.991212
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894846	rs67558779	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894909	rs67772748	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895070	rs67774686	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895073	rs67802885	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895015	rs68064046	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894871	rs68178619	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894880	rs72620869	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1894895	rs72620870	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895532	rs72620873	20	1893120	rs1569960	0.934866	0.990861
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895538	rs75776568	20	1893120	rs1569960	0.932794	0.990835
+rs1569960	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	SIRPB1	spatial	20	1895537	rs78417105	20	1893120	rs1569960	0.932794	0.990835
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895111	rs112299092	20	1893120	rs1569960	0.987268	0.99147
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895358	rs115684185	20	1893120	rs1569960	0.918338	0.990647
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895357	rs116321632	20	1893120	rs1569960	0.918338	0.990647
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895352	rs139228210	20	1893120	rs1569960	0.910113	0.990536
+rs1569960	SIRPA protein levels	SIRPB1	spatial			rs1569960			rs1569960	1.0	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894629	rs16978863	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894976	rs17775933	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1893746	rs4813319	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1893762	rs4813320	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1893783	rs4813321	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1893808	rs4813322	20	1893120	rs1569960	0.99788	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1893814	rs4813323	20	1893120	rs1569960	0.99788	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1893979	rs4813324	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1893985	rs4813325	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1897389	rs4813329	20	1893120	rs1569960	0.913647	0.990954
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1897406	rs4813330	20	1893120	rs1569960	0.989402	0.991502
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1897441	rs4813331	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894583	rs55698111	20	1893120	rs1569960	0.983057	0.987232
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894689	rs55797358	20	1893120	rs1569960	0.995771	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894606	rs56278099	20	1893120	rs1569960	0.983057	0.987232
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894605	rs56301259	20	1893120	rs1569960	0.987273	0.987273
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894688	rs56380582	20	1893120	rs1569960	0.995771	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1888864	rs59317774	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894314	rs6075339	20	1893120	rs1569960	1.0	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894334	rs6075340	20	1893120	rs1569960	0.99788	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1889857	rs6081121	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894466	rs6081134	20	1893120	rs1569960	0.987393	1.0
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1896400	rs6132062	20	1893120	rs1569960	0.995758	0.995758
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1896243	rs6136376	20	1893120	rs1569960	0.995758	0.995758
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1896287	rs6136377	20	1893120	rs1569960	0.995758	0.995758
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895569	rs66523711	20	1893120	rs1569960	0.955682	0.991115
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895316	rs66591681	20	1893120	rs1569960	0.966161	0.991236
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895600	rs66600581	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895291	rs66675914	20	1893120	rs1569960	0.964061	0.991212
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894788	rs66815411	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894919	rs67343776	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895272	rs67414469	20	1893120	rs1569960	0.964061	0.991212
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894846	rs67558779	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894909	rs67772748	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895070	rs67774686	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895073	rs67802885	20	1893120	rs1569960	0.991515	0.991515
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895015	rs68064046	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894871	rs68178619	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894880	rs72620869	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1894895	rs72620870	20	1893120	rs1569960	0.993642	0.995751
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895532	rs72620873	20	1893120	rs1569960	0.934866	0.990861
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895538	rs75776568	20	1893120	rs1569960	0.932794	0.990835
+rs1569960	SIRPA protein levels	SIRPB1	spatial	20	1895537	rs78417105	20	1893120	rs1569960	0.932794	0.990835
+rs17855611	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895812	rs17855609	20	1895825	rs17855611	0.976487	0.991996
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895111	rs112299092	20	1896287	rs6136377	0.987268	0.99147
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895358	rs115684185	20	1896287	rs6136377	0.918338	0.990647
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895357	rs116321632	20	1896287	rs6136377	0.918338	0.990647
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895352	rs139228210	20	1896287	rs6136377	0.910113	0.990536
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893120	rs1569960	20	1896287	rs6136377	0.995758	0.995758
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894629	rs16978863	20	1896287	rs6136377	0.989402	0.991502
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894976	rs17775933	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893746	rs4813319	20	1896287	rs6136377	0.989402	0.991502
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893762	rs4813320	20	1896287	rs6136377	0.989402	0.991502
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893783	rs4813321	20	1896287	rs6136377	0.989402	0.991502
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893808	rs4813322	20	1896287	rs6136377	0.993635	0.995746
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893814	rs4813323	20	1896287	rs6136377	0.993635	0.995746
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893979	rs4813324	20	1896287	rs6136377	0.989402	0.991502
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1893985	rs4813325	20	1896287	rs6136377	0.989402	0.991502
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1897389	rs4813329	20	1896287	rs6136377	0.917817	0.995477
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1897406	rs4813330	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1897441	rs4813331	20	1896287	rs6136377	0.995758	0.995758
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894583	rs55698111	20	1896287	rs6136377	0.97882	0.982976
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894689	rs55797358	20	1896287	rs6136377	0.991533	0.995744
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894606	rs56278099	20	1896287	rs6136377	0.97882	0.982976
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894605	rs56301259	20	1896287	rs6136377	0.983031	0.983031
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894688	rs56380582	20	1896287	rs6136377	0.991533	0.995744
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894314	rs6075339	20	1896287	rs6136377	0.995758	0.995758
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894334	rs6075340	20	1896287	rs6136377	0.99788	1.0
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894466	rs6081134	20	1896287	rs6136377	0.983164	0.995717
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1896400	rs6132062	20	1896287	rs6136377	1.0	1.0
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1896243	rs6136376	20	1896287	rs6136377	1.0	1.0
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial			rs6136377			rs6136377	1.0	1.0
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895569	rs66523711	20	1896287	rs6136377	0.955682	0.991115
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895316	rs66591681	20	1896287	rs6136377	0.966161	0.991236
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895600	rs66600581	20	1896287	rs6136377	0.991515	0.991515
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895291	rs66675914	20	1896287	rs6136377	0.964061	0.991212
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894788	rs66815411	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894919	rs67343776	20	1896287	rs6136377	0.991515	0.991515
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895272	rs67414469	20	1896287	rs6136377	0.964061	0.991212
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894846	rs67558779	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894909	rs67772748	20	1896287	rs6136377	0.991515	0.991515
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895070	rs67774686	20	1896287	rs6136377	0.991515	0.991515
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895073	rs67802885	20	1896287	rs6136377	0.991515	0.991515
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895015	rs68064046	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894871	rs68178619	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894880	rs72620869	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1894895	rs72620870	20	1896287	rs6136377	0.993642	0.995751
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895532	rs72620873	20	1896287	rs6136377	0.934866	0.990861
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895538	rs75776568	20	1896287	rs6136377	0.932794	0.990835
+rs6136377	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	SIRPB1	spatial	20	1895537	rs78417105	20	1896287	rs6136377	0.932794	0.990835
+rs10865973	Verbal learning	ITIH4	spatial			rs10865973			rs10865973	1.0	1.0
+rs10865973	Verbal learning	ITIH4	spatial	3	52718279	rs10865974	3	52718153	rs10865973	0.973888	1.0
+rs10865973	Verbal learning	ITIH4	spatial	3	52721304	rs11177	3	52718153	rs10865973	1.0	1.0
+rs10865973	Verbal learning	ITIH4	spatial	3	52713305	rs11370862	3	52718153	rs10865973	0.973888	1.0
+rs10865973	Verbal learning	ITIH4	spatial	3	52719397	rs1866268	3	52718153	rs10865973	0.973888	1.0
+rs10865973	Verbal learning	ITIH4	spatial	3	52719087	rs3733039	3	52718153	rs10865973	0.971917	1.0
+rs11717836	Verbal learning	ITIH4	spatial	3	52808340	rs1014969	3	52807735	rs11717836	0.94501	0.958604
+rs11717836	Verbal learning	ITIH4	spatial			rs11717836			rs11717836	1.0	1.0
+rs11717836	Verbal learning	ITIH4	spatial	3	52804486	rs13071584	3	52807735	rs11717836	0.969799	0.995817
+rs11717836	Verbal learning	ITIH4	spatial	3	52809524	rs2019065	3	52807735	rs11717836	0.959186	0.967054
+rs11717836	Verbal learning	ITIH4	spatial	3	52810932	rs2098167	3	52807735	rs11717836	0.916958	0.973634
+rs11717836	Verbal learning	ITIH4	spatial	3	52803204	rs2268024	3	52807735	rs11717836	0.99591	0.99591
+rs11717836	Verbal learning	ITIH4	spatial	3	52806834	rs35401426	3	52807735	rs11717836	0.971899	1.0
+rs11717836	Verbal learning	ITIH4	spatial	3	52811171	rs6792369	3	52807735	rs11717836	0.938818	0.970232
+rs11717836	Verbal learning	ITIH4	spatial	3	52805092	rs998909	3	52807735	rs11717836	0.969799	0.995817
+rs2268027	Verbal learning	ITIH4	spatial	3	52764623	rs10780035	3	52766605	rs2268027	1.0	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52762697	rs11130321	3	52766605	rs2268027	0.979835	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52770276	rs11130323	3	52766605	rs2268027	0.993894	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52770983	rs11130325	3	52766605	rs2268027	0.993894	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52765881	rs11714030	3	52766605	rs2268027	0.973888	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52765645	rs2079929	3	52766605	rs2268027	0.973888	1.0
+rs2268027	Verbal learning	ITIH4	spatial			rs2268027			rs2268027	1.0	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52763162	rs34291015	3	52766605	rs2268027	0.993894	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52766121	rs34739010	3	52766605	rs2268027	0.973888	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52763953	rs4687549	3	52766605	rs2268027	1.0	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52771467	rs6445535	3	52766605	rs2268027	0.973888	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52762999	rs7653028	3	52766605	rs2268027	0.973888	1.0
+rs2268027	Verbal learning	ITIH4	spatial	3	52767426	rs767418	3	52766605	rs2268027	0.973888	1.0
+rs1029871	Verbal learning	ITIH4	spatial			rs1029871			rs1029871	1.0	1.0
+rs1029871	Verbal learning	ITIH4	spatial	3	52793238	rs11130327	3	52797633	rs1029871	1.0	1.0
+rs1029871	Verbal learning	ITIH4	spatial	3	52793601	rs12497998	3	52797633	rs1029871	0.973888	1.0
+rs1029871	Verbal learning	ITIH4	spatial	3	52802401	rs2230534	3	52797633	rs1029871	0.991839	0.995899
+rs1029871	Verbal learning	ITIH4	spatial	3	52800283	rs2230535	3	52797633	rs1029871	0.991839	0.995899
+rs1029871	Verbal learning	ITIH4	spatial	3	52795223	rs2268025	3	52797633	rs1029871	0.997958	1.0
+rs1029871	Verbal learning	ITIH4	spatial	3	52793986	rs34148081	3	52797633	rs1029871	0.993894	1.0
+rs1029871	Verbal learning	ITIH4	spatial	3	52794366	rs4687648	3	52797633	rs1029871	0.973888	1.0
+rs1029871	Verbal learning	ITIH4	spatial	3	52800730	rs4687650	3	52797633	rs1029871	0.997959	1.0
+rs2239551	Verbal learning	ITIH4	spatial	3	52821010	rs1042779	3	52818578	rs2239551	0.956907	0.978883
+rs2239551	Verbal learning	ITIH4	spatial	3	52816584	rs11267471	3	52818578	rs2239551	0.960983	0.978988
+rs2239551	Verbal learning	ITIH4	spatial	3	52823125	rs2239549	3	52818578	rs2239551	0.993846	1.0
+rs2239551	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52818578	rs2239551	0.991781	0.995869
+rs2239551	Verbal learning	ITIH4	spatial			rs2239551			rs2239551	1.0	1.0
+rs2239551	Verbal learning	ITIH4	spatial	3	52819326	rs2268023	3	52818578	rs2239551	0.956111	1.0
+rs2239551	Verbal learning	ITIH4	spatial	3	52822855	rs2284350	3	52818578	rs2239551	0.989722	0.991759
+rs2239551	Verbal learning	ITIH4	spatial	3	52822788	rs2284351	3	52818578	rs2239551	0.991781	0.995869
+rs2239551	Verbal learning	ITIH4	spatial	3	52821176	rs2286798	3	52818578	rs2239551	0.961105	0.987266
+rs2239551	Verbal learning	ITIH4	spatial	3	52822920	rs2300149	3	52818578	rs2239551	0.991781	0.995869
+rs2239551	Verbal learning	ITIH4	spatial	3	52817674	rs3774354	3	52818578	rs2239551	0.973502	1.0
+rs2239551	Verbal learning	ITIH4	spatial	3	52817777	rs3774355	3	52818578	rs2239551	0.973502	1.0
+rs2239551	Verbal learning	ITIH4	spatial	3	52823429	rs4687550	3	52818578	rs2239551	0.959282	0.995702
+rs2239551	Verbal learning	ITIH4	spatial	3	52823447	rs4687551	3	52818578	rs2239551	0.959282	0.995702
+rs2239551	Verbal learning	ITIH4	spatial	3	52820980	rs678	3	52818578	rs2239551	0.967447	1.0
+rs2268025	Verbal learning	ITIH4	spatial	3	52797633	rs1029871	3	52795223	rs2268025	0.997958	1.0
+rs2268025	Verbal learning	ITIH4	spatial	3	52793238	rs11130327	3	52795223	rs2268025	0.997958	1.0
+rs2268025	Verbal learning	ITIH4	spatial	3	52793601	rs12497998	3	52795223	rs2268025	0.971899	1.0
+rs2268025	Verbal learning	ITIH4	spatial			rs2268025			rs2268025	1.0	1.0
+rs2268025	Verbal learning	ITIH4	spatial	3	52793986	rs34148081	3	52795223	rs2268025	0.991864	1.0
+rs2268025	Verbal learning	ITIH4	spatial	3	52794366	rs4687648	3	52795223	rs2268025	0.971899	1.0
+rs2286798	Verbal learning	ITIH4	spatial	3	52821010	rs1042779	3	52821176	rs2286798	0.991708	0.995833
+rs2286798	Verbal learning	ITIH4	spatial	3	52825527	rs1075653	3	52821176	rs2286798	0.93762	0.945455
+rs2286798	Verbal learning	ITIH4	spatial	3	52825461	rs1076425	3	52821176	rs2286798	0.93553	0.945316
+rs2286798	Verbal learning	ITIH4	spatial	3	52816584	rs11267471	3	52821176	rs2286798	0.983447	0.991637
+rs2286798	Verbal learning	ITIH4	spatial	3	52823125	rs2239549	3	52821176	rs2286798	0.967119	0.98733
+rs2286798	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52821176	rs2286798	0.969244	0.991539
+rs2286798	Verbal learning	ITIH4	spatial	3	52818578	rs2239551	3	52821176	rs2286798	0.961105	0.987266
+rs2286798	Verbal learning	ITIH4	spatial	3	52819326	rs2268023	3	52821176	rs2286798	0.922571	0.991184
+rs2286798	Verbal learning	ITIH4	spatial	3	52824094	rs2270197	3	52821176	rs2286798	0.933442	0.945177
+rs2286798	Verbal learning	ITIH4	spatial	3	52822855	rs2284350	3	52821176	rs2286798	0.967238	0.991525
+rs2286798	Verbal learning	ITIH4	spatial	3	52822788	rs2284351	3	52821176	rs2286798	0.969244	0.991539
+rs2286798	Verbal learning	ITIH4	spatial			rs2286798			rs2286798	1.0	1.0
+rs2286798	Verbal learning	ITIH4	spatial	3	52822920	rs2300149	3	52821176	rs2286798	0.969244	0.991539
+rs2286798	Verbal learning	ITIH4	spatial	3	52825280	rs3216516	3	52821176	rs2286798	0.93762	0.945455
+rs2286798	Verbal learning	ITIH4	spatial	3	52824283	rs3217089	3	52821176	rs2286798	0.925104	0.940658
+rs2286798	Verbal learning	ITIH4	spatial	3	52817674	rs3774354	3	52821176	rs2286798	0.987539	0.987539
+rs2286798	Verbal learning	ITIH4	spatial	3	52817777	rs3774355	3	52821176	rs2286798	0.987539	0.987539
+rs2286798	Verbal learning	ITIH4	spatial	3	52823429	rs4687550	3	52821176	rs2286798	0.93553	0.945316
+rs2286798	Verbal learning	ITIH4	spatial	3	52823447	rs4687551	3	52821176	rs2286798	0.93553	0.945316
+rs2286798	Verbal learning	ITIH4	spatial	3	52824609	rs6778329	3	52821176	rs2286798	0.93553	0.945316
+rs2286798	Verbal learning	ITIH4	spatial	3	52820980	rs678	3	52821176	rs2286798	0.993781	1.0
+rs2286798	Verbal learning	ITIH4	spatial	3	52821991	rs68094128	3	52821176	rs2286798	0.915074	0.991122
+rs2286798	Verbal learning	ITIH4	spatial	3	52825584	rs9324	3	52821176	rs2286798	0.93762	0.945455
+rs2251219	Verbal learning	ITIH4	spatial	3	52586681	rs1570	3	52584786	rs2251219	0.97986	1.0
+rs2251219	Verbal learning	ITIH4	spatial			rs2251219			rs2251219	1.0	1.0
+rs2251219	Verbal learning	ITIH4	spatial	3	52584714	rs2878628	3	52584786	rs2251219	0.98185	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52697081	rs11130314	3	52697162	rs11130315	1.0	1.0
+rs11130315	Verbal learning	ITIH4	spatial			rs11130315			rs11130315	1.0	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52698559	rs12488527	3	52697162	rs11130315	1.0	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52692358	rs2590846	3	52697162	rs11130315	1.0	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52696797	rs34168767	3	52697162	rs11130315	1.0	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52699740	rs62255362	3	52697162	rs11130315	1.0	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52701501	rs62255364	3	52697162	rs11130315	0.997963	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52694197	rs6804145	3	52697162	rs11130315	0.979872	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52692720	rs7611731	3	52697162	rs11130315	0.979872	1.0
+rs11130315	Verbal learning	ITIH4	spatial	3	52701500	rs77146033	3	52697162	rs11130315	0.997963	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52656091	rs11717043	3	52657001	rs13064064	1.0	1.0
+rs13064064	Verbal learning	ITIH4	spatial			rs13064064			rs13064064	1.0	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52659962	rs1561337	3	52657001	rs13064064	1.0	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52659123	rs34215106	3	52657001	rs13064064	1.0	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52655414	rs34341238	3	52657001	rs13064064	0.979872	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52657471	rs34537256	3	52657001	rs13064064	0.993894	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52661639	rs35249778	3	52657001	rs13064064	1.0	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52656339	rs4687639	3	52657001	rs13064064	1.0	1.0
+rs13064064	Verbal learning	ITIH4	spatial	3	52653413	rs62253733	3	52657001	rs13064064	0.993894	1.0
+rs12487591	Verbal learning	ITIH4	spatial	3	52638481	rs10433615	3	52642935	rs12487591	1.0	1.0
+rs12487591	Verbal learning	ITIH4	spatial	3	52639256	rs11130308	3	52642935	rs12487591	0.979872	1.0
+rs12487591	Verbal learning	ITIH4	spatial			rs12487591			rs12487591	1.0	1.0
+rs12487591	Verbal learning	ITIH4	spatial	3	52644835	rs13065851	3	52642935	rs12487591	0.993894	1.0
+rs12487591	Verbal learning	ITIH4	spatial	3	52643306	rs3733045	3	52642935	rs12487591	0.979872	1.0
+rs12487591	Verbal learning	ITIH4	spatial	3	52642486	rs3774365	3	52642935	rs12487591	1.0	1.0
+rs12487591	Verbal learning	ITIH4	spatial	3	52641254	rs3774366	3	52642935	rs12487591	0.979872	1.0
+rs12487591	Verbal learning	ITIH4	spatial	3	52646902	rs71084197	3	52642935	rs12487591	0.993894	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52779590	rs112860674	3	52778346	rs2268026	0.979872	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52779800	rs13074853	3	52778346	rs2268026	0.979872	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52781538	rs13082208	3	52778346	rs2268026	0.993894	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52782273	rs13087772	3	52778346	rs2268026	0.993894	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52780508	rs2072390	3	52778346	rs2268026	0.979872	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52774529	rs2159644	3	52778346	rs2268026	0.979872	1.0
+rs2268026	Verbal learning	ITIH4	spatial			rs2268026			rs2268026	1.0	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52778050	rs2286800	3	52778346	rs2268026	0.993894	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52782838	rs62255396	3	52778346	rs2268026	1.0	1.0
+rs2268026	Verbal learning	ITIH4	spatial	3	52776907	rs7638162	3	52778346	rs2268026	0.979872	1.0
+rs1561337	Verbal learning	ITIH4	spatial	3	52656091	rs11717043	3	52659962	rs1561337	1.0	1.0
+rs1561337	Verbal learning	ITIH4	spatial	3	52657001	rs13064064	3	52659962	rs1561337	1.0	1.0
+rs1561337	Verbal learning	ITIH4	spatial			rs1561337			rs1561337	1.0	1.0
+rs1561337	Verbal learning	ITIH4	spatial	3	52659123	rs34215106	3	52659962	rs1561337	1.0	1.0
+rs1561337	Verbal learning	ITIH4	spatial	3	52655414	rs34341238	3	52659962	rs1561337	0.979872	1.0
+rs1561337	Verbal learning	ITIH4	spatial	3	52657471	rs34537256	3	52659962	rs1561337	0.993894	1.0
+rs1561337	Verbal learning	ITIH4	spatial	3	52661639	rs35249778	3	52659962	rs1561337	1.0	1.0
+rs1561337	Verbal learning	ITIH4	spatial	3	52656339	rs4687639	3	52659962	rs1561337	1.0	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52674666	rs11130310	3	52672166	rs13068293	0.979872	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52675004	rs11130311	3	52672166	rs13068293	1.0	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52675054	rs11130312	3	52672166	rs13068293	1.0	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52676189	rs11130313	3	52672166	rs13068293	1.0	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52672530	rs11719514	3	52672166	rs13068293	0.993894	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52672741	rs11720432	3	52672166	rs13068293	0.993894	1.0
+rs13068293	Verbal learning	ITIH4	spatial			rs13068293			rs13068293	1.0	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52674541	rs13081031	3	52672166	rs13068293	1.0	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52675278	rs13086898	3	52672166	rs13068293	1.0	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52670043	rs13098776	3	52672166	rs13068293	0.979872	1.0
+rs13068293	Verbal learning	ITIH4	spatial	3	52668118	rs2083180	3	52672166	rs13068293	0.965377	0.971297
+rs13068293	Verbal learning	ITIH4	spatial	3	52672617	rs34959878	3	52672166	rs13068293	0.940836	0.95832
+rs13068293	Verbal learning	ITIH4	spatial	3	52669388	rs6796726	3	52672166	rs13068293	0.979872	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52685243	rs13065019	3	52682945	rs2289250	1.0	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52678369	rs13085775	3	52682945	rs2289250	0.979872	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52678269	rs13085895	3	52682945	rs2289250	1.0	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52678493	rs13086297	3	52682945	rs2289250	1.0	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52683863	rs33967311	3	52682945	rs2289250	1.0	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52682204	rs34757451	3	52682945	rs2289250	1.0	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52685304	rs35211965	3	52682945	rs2289250	0.993894	1.0
+rs2289250	Verbal learning	ITIH4	spatial	3	52677959	rs7642198	3	52682945	rs2289250	1.0	1.0
+rs2336545	Verbal learning	ITIH4	spatial	3	52790212	rs13061423	3	52787602	rs2336545	1.0	1.0
+rs2336545	Verbal learning	ITIH4	spatial	3	52785167	rs13082960	3	52787602	rs2336545	1.0	1.0
+rs2336545	Verbal learning	ITIH4	spatial	3	52787241	rs13095332	3	52787602	rs2336545	0.993894	1.0
+rs2336545	Verbal learning	ITIH4	spatial			rs2336545			rs2336545	1.0	1.0
+rs2336545	Verbal learning	ITIH4	spatial	3	52782838	rs62255396	3	52787602	rs2336545	1.0	1.0
+rs2336545	Verbal learning	ITIH4	spatial	3	52788958	rs6414570	3	52787602	rs2336545	0.979872	1.0
+rs2336545	Verbal learning	ITIH4	spatial	3	52784415	rs6787154	3	52787602	rs2336545	0.979872	1.0
+rs2336545	Verbal learning	ITIH4	spatial	3	52784799	rs71087014	3	52787602	rs2336545	0.993894	1.0
+rs3774365	Verbal learning	ITIH4	spatial	3	52638481	rs10433615	3	52642486	rs3774365	1.0	1.0
+rs3774365	Verbal learning	ITIH4	spatial	3	52639256	rs11130308	3	52642486	rs3774365	0.979872	1.0
+rs3774365	Verbal learning	ITIH4	spatial	3	52642935	rs12487591	3	52642486	rs3774365	1.0	1.0
+rs3774365	Verbal learning	ITIH4	spatial	3	52644835	rs13065851	3	52642486	rs3774365	0.993894	1.0
+rs3774365	Verbal learning	ITIH4	spatial	3	52643306	rs3733045	3	52642486	rs3774365	0.979872	1.0
+rs3774365	Verbal learning	ITIH4	spatial			rs3774365			rs3774365	1.0	1.0
+rs3774365	Verbal learning	ITIH4	spatial	3	52641254	rs3774366	3	52642486	rs3774365	0.979872	1.0
+rs3774365	Verbal learning	ITIH4	spatial	3	52646902	rs71084197	3	52642486	rs3774365	0.993894	1.0
+rs11130323	Verbal learning	ITIH4	spatial			rs11130323			rs11130323	1.0	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52770983	rs11130325	3	52770276	rs11130323	1.0	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52771919	rs11130326	3	52770276	rs11130323	0.974696	0.987145
+rs11130323	Verbal learning	ITIH4	spatial	3	52765881	rs11714030	3	52770276	rs11130323	0.979872	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52765645	rs2079929	3	52770276	rs11130323	0.979872	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52774529	rs2159644	3	52770276	rs11130323	0.979872	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52766605	rs2268027	3	52770276	rs11130323	0.993894	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52766121	rs34739010	3	52770276	rs11130323	0.979872	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52771467	rs6445535	3	52770276	rs11130323	0.979872	1.0
+rs11130323	Verbal learning	ITIH4	spatial	3	52767426	rs767418	3	52770276	rs11130323	0.979872	1.0
+rs4687548	Verbal learning	ITIH4	spatial	3	52670043	rs13098776	3	52666649	rs4687548	0.979872	1.0
+rs4687548	Verbal learning	ITIH4	spatial	3	52668118	rs2083180	3	52666649	rs4687548	0.965377	0.971297
+rs4687548	Verbal learning	ITIH4	spatial	3	52669388	rs6796726	3	52666649	rs4687548	0.979872	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52697081	rs11130314	3	52694197	rs6804145	0.979872	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52697162	rs11130315	3	52694197	rs6804145	0.979872	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52691111	rs12486847	3	52694197	rs6804145	0.973888	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52698559	rs12488527	3	52694197	rs6804145	0.979872	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52690637	rs2336148	3	52694197	rs6804145	0.973888	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52692123	rs2336149	3	52694197	rs6804145	1.0	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52692358	rs2590846	3	52694197	rs6804145	0.979872	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52690943	rs3041438	3	52694197	rs6804145	0.973888	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52696797	rs34168767	3	52694197	rs6804145	0.979872	1.0
+rs6804145	Verbal learning	ITIH4	spatial			rs6804145			rs6804145	1.0	1.0
+rs6804145	Verbal learning	ITIH4	spatial	3	52692720	rs7611731	3	52694197	rs6804145	1.0	1.0
+rs3774366	Verbal learning	ITIH4	spatial	3	52638481	rs10433615	3	52641254	rs3774366	0.979872	1.0
+rs3774366	Verbal learning	ITIH4	spatial	3	52639256	rs11130308	3	52641254	rs3774366	1.0	1.0
+rs3774366	Verbal learning	ITIH4	spatial	3	52642935	rs12487591	3	52641254	rs3774366	0.979872	1.0
+rs3774366	Verbal learning	ITIH4	spatial	3	52644835	rs13065851	3	52641254	rs3774366	0.973888	1.0
+rs3774366	Verbal learning	ITIH4	spatial	3	52643306	rs3733045	3	52641254	rs3774366	1.0	1.0
+rs3774366	Verbal learning	ITIH4	spatial	3	52642486	rs3774365	3	52641254	rs3774366	0.979872	1.0
+rs3774366	Verbal learning	ITIH4	spatial			rs3774366			rs3774366	1.0	1.0
+rs2289247	Verbal learning	ITIH4	spatial	3	52731482	rs11130317	3	52727256	rs2289247	0.977793	0.995857
+rs2289247	Verbal learning	ITIH4	spatial	3	52725960	rs13076193	3	52727256	rs2289247	0.971793	0.995827
+rs2289247	Verbal learning	ITIH4	spatial	3	52731268	rs2164885	3	52727256	rs2289247	0.997974	1.0
+rs2289247	Verbal learning	ITIH4	spatial			rs2289247			rs2289247	1.0	1.0
+rs2289247	Verbal learning	ITIH4	spatial	3	52731597	rs3733041	3	52727256	rs2289247	0.997974	1.0
+rs2289247	Verbal learning	ITIH4	spatial	3	52726694	rs6762813	3	52727256	rs2289247	0.971793	0.995827
+rs2289247	Verbal learning	ITIH4	spatial	3	52728803	rs6976	3	52727256	rs2289247	0.973872	1.0
+rs2019065	Verbal learning	ITIH4	spatial	3	52808340	rs1014969	3	52809524	rs2019065	0.920548	0.926192
+rs2019065	Verbal learning	ITIH4	spatial	3	52807735	rs11717836	3	52809524	rs2019065	0.959186	0.967054
+rs2019065	Verbal learning	ITIH4	spatial			rs2019065			rs2019065	1.0	1.0
+rs2019065	Verbal learning	ITIH4	spatial	3	52810932	rs2098167	3	52809524	rs2019065	0.934127	1.0
+rs2019065	Verbal learning	ITIH4	spatial	3	52806834	rs35401426	3	52809524	rs2019065	0.947336	0.966796
+rs2019065	Verbal learning	ITIH4	spatial	3	52811171	rs6792369	3	52809524	rs2019065	0.95564	0.995718
+rs2019065	Verbal learning	ITIH4	spatial	3	52805092	rs998909	3	52809524	rs2019065	0.945248	0.96271
+rs3755798	Verbal learning	ITIH4	spatial	3	52742536	rs12486554	3	52741159	rs3755798	0.989867	0.995915
+rs3755798	Verbal learning	ITIH4	spatial	3	52738164	rs12635140	3	52741159	rs3755798	0.995954	1.0
+rs3755798	Verbal learning	ITIH4	spatial	3	52742412	rs34017441	3	52741159	rs3755798	0.977793	0.995857
+rs3755798	Verbal learning	ITIH4	spatial			rs3755798			rs3755798	1.0	1.0
+rs3755798	Verbal learning	ITIH4	spatial	3	52740181	rs6617	3	52741159	rs3755798	0.997974	1.0
+rs3755798	Verbal learning	ITIH4	spatial	3	52739519	rs8906	3	52741159	rs3755798	0.971793	0.995827
+rs3733045	Verbal learning	ITIH4	spatial	3	52638481	rs10433615	3	52643306	rs3733045	0.979872	1.0
+rs3733045	Verbal learning	ITIH4	spatial	3	52639256	rs11130308	3	52643306	rs3733045	1.0	1.0
+rs3733045	Verbal learning	ITIH4	spatial	3	52642935	rs12487591	3	52643306	rs3733045	0.979872	1.0
+rs3733045	Verbal learning	ITIH4	spatial	3	52644835	rs13065851	3	52643306	rs3733045	0.973888	1.0
+rs3733045	Verbal learning	ITIH4	spatial			rs3733045			rs3733045	1.0	1.0
+rs3733045	Verbal learning	ITIH4	spatial	3	52642486	rs3774365	3	52643306	rs3733045	0.979872	1.0
+rs3733045	Verbal learning	ITIH4	spatial	3	52641254	rs3774366	3	52643306	rs3733045	1.0	1.0
+rs3733045	Verbal learning	ITIH4	spatial	3	52646902	rs71084197	3	52643306	rs3733045	0.973888	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52697081	rs11130314	3	52692123	rs2336149	0.979872	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52691111	rs12486847	3	52692123	rs2336149	0.973888	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52690637	rs2336148	3	52692123	rs2336149	0.973888	1.0
+rs2336149	Verbal learning	ITIH4	spatial			rs2336149			rs2336149	1.0	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52692358	rs2590846	3	52692123	rs2336149	0.979872	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52690943	rs3041438	3	52692123	rs2336149	0.973888	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52696797	rs34168767	3	52692123	rs2336149	0.979872	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52694197	rs6804145	3	52692123	rs2336149	1.0	1.0
+rs2336149	Verbal learning	ITIH4	spatial	3	52692720	rs7611731	3	52692123	rs2336149	1.0	1.0
+rs12497998	Verbal learning	ITIH4	spatial	3	52797633	rs1029871	3	52793601	rs12497998	0.973888	1.0
+rs12497998	Verbal learning	ITIH4	spatial	3	52793238	rs11130327	3	52793601	rs12497998	0.973888	1.0
+rs12497998	Verbal learning	ITIH4	spatial			rs12497998			rs12497998	1.0	1.0
+rs12497998	Verbal learning	ITIH4	spatial	3	52790212	rs13061423	3	52793601	rs12497998	0.979872	1.0
+rs12497998	Verbal learning	ITIH4	spatial	3	52795223	rs2268025	3	52793601	rs12497998	0.971899	1.0
+rs12497998	Verbal learning	ITIH4	spatial	3	52793986	rs34148081	3	52793601	rs12497998	0.979872	1.0
+rs12497998	Verbal learning	ITIH4	spatial	3	52794366	rs4687648	3	52793601	rs12497998	1.0	1.0
+rs12497998	Verbal learning	ITIH4	spatial	3	52788958	rs6414570	3	52793601	rs12497998	1.0	1.0
+rs4687657	Verbal learning	ITIH4	spatial	3	52855228	rs2239547	3	52852537	rs4687657	0.997648	1.0
+rs4687657	Verbal learning	ITIH4	spatial	3	52853746	rs2276815	3	52852537	rs4687657	1.0	1.0
+rs4687657	Verbal learning	ITIH4	spatial	3	52852896	rs35004449	3	52852537	rs4687657	1.0	1.0
+rs4687657	Verbal learning	ITIH4	spatial			rs4687657			rs4687657	1.0	1.0
+rs4687657	Verbal learning (visual presentation)	ITIH4	spatial	3	52855228	rs2239547	3	52852537	rs4687657	0.997648	1.0
+rs4687657	Verbal learning (visual presentation)	ITIH4	spatial	3	52853746	rs2276815	3	52852537	rs4687657	1.0	1.0
+rs4687657	Verbal learning (visual presentation)	ITIH4	spatial	3	52852896	rs35004449	3	52852537	rs4687657	1.0	1.0
+rs4687657	Verbal learning (visual presentation)	ITIH4	spatial			rs4687657			rs4687657	1.0	1.0
+rs998909	Verbal learning	ITIH4	spatial	3	52808340	rs1014969	3	52805092	rs998909	0.971625	0.983544
+rs998909	Verbal learning	ITIH4	spatial	3	52807735	rs11717836	3	52805092	rs998909	0.969799	0.995817
+rs998909	Verbal learning	ITIH4	spatial	3	52804486	rs13071584	3	52805092	rs998909	1.0	1.0
+rs998909	Verbal learning	ITIH4	spatial	3	52809524	rs2019065	3	52805092	rs998909	0.945248	0.96271
+rs998909	Verbal learning	ITIH4	spatial	3	52802401	rs2230534	3	52805092	rs998909	0.97986	1.0
+rs998909	Verbal learning	ITIH4	spatial	3	52800283	rs2230535	3	52805092	rs998909	0.97986	1.0
+rs998909	Verbal learning	ITIH4	spatial	3	52803204	rs2268024	3	52805092	rs998909	0.973872	1.0
+rs998909	Verbal learning	ITIH4	spatial	3	52806834	rs35401426	3	52805092	rs998909	0.997974	1.0
+rs998909	Verbal learning	ITIH4	spatial	3	52800730	rs4687650	3	52805092	rs998909	0.96972	0.991674
+rs998909	Verbal learning	ITIH4	spatial			rs998909			rs998909	1.0	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52742536	rs12486554	3	52743383	rs6445534	0.991914	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52747480	rs145014080	3	52743383	rs6445534	0.973888	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52748270	rs2878726	3	52743383	rs6445534	0.973888	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52742412	rs34017441	3	52743383	rs6445534	0.979872	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52741159	rs3755798	3	52743383	rs6445534	0.997974	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52746540	rs4687644	3	52743383	rs6445534	1.0	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52747320	rs62255371	3	52743383	rs6445534	0.979872	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52740181	rs6617	3	52743383	rs6445534	1.0	1.0
+rs6445534	Verbal learning	ITIH4	spatial	3	52739519	rs8906	3	52743383	rs6445534	0.973888	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52674666	rs11130310	3	52678369	rs13085775	1.0	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52675004	rs11130311	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52675054	rs11130312	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52676189	rs11130313	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52674541	rs13081031	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial			rs13085775			rs13085775	1.0	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52678269	rs13085895	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52678493	rs13086297	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52675278	rs13086898	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52682204	rs34757451	3	52678369	rs13085775	0.979872	1.0
+rs13085775	Verbal learning	ITIH4	spatial	3	52677959	rs7642198	3	52678369	rs13085775	0.979872	1.0
+rs1042779	Verbal learning	ITIH4	spatial			rs1042779			rs1042779	1.0	1.0
+rs1042779	Verbal learning	ITIH4	spatial	3	52825527	rs1075653	3	52821010	rs1042779	0.933558	0.945275
+rs1042779	Verbal learning	ITIH4	spatial	3	52825461	rs1076425	3	52821010	rs1042779	0.931477	0.945136
+rs1042779	Verbal learning	ITIH4	spatial	3	52816584	rs11267471	3	52821010	rs1042779	0.991722	0.99584
+rs1042779	Verbal learning	ITIH4	spatial	3	52823125	rs2239549	3	52821010	rs1042779	0.962937	0.978989
+rs1042779	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52821010	rs1042779	0.965053	0.983163
+rs1042779	Verbal learning	ITIH4	spatial	3	52818578	rs2239551	3	52821010	rs1042779	0.956907	0.978883
+rs1042779	Verbal learning	ITIH4	spatial	3	52819326	rs2268023	3	52821010	rs1042779	0.91825	0.982456
+rs1042779	Verbal learning	ITIH4	spatial	3	52824094	rs2270197	3	52821010	rs1042779	0.929398	0.944996
+rs1042779	Verbal learning	ITIH4	spatial	3	52822855	rs2284350	3	52821010	rs1042779	0.963042	0.983135
+rs1042779	Verbal learning	ITIH4	spatial	3	52822788	rs2284351	3	52821010	rs1042779	0.965053	0.983163
+rs1042779	Verbal learning	ITIH4	spatial	3	52821176	rs2286798	3	52821010	rs1042779	0.991708	0.995833
+rs1042779	Verbal learning	ITIH4	spatial	3	52822920	rs2300149	3	52821010	rs1042779	0.965053	0.983163
+rs1042779	Verbal learning	ITIH4	spatial	3	52825280	rs3216516	3	52821010	rs1042779	0.933558	0.945275
+rs1042779	Verbal learning	ITIH4	spatial	3	52824283	rs3217089	3	52821010	rs1042779	0.921081	0.940462
+rs1042779	Verbal learning	ITIH4	spatial	3	52817674	rs3774354	3	52821010	rs1042779	0.983408	0.987498
+rs1042779	Verbal learning	ITIH4	spatial	3	52817777	rs3774355	3	52821010	rs1042779	0.983408	0.987498
+rs1042779	Verbal learning	ITIH4	spatial	3	52823429	rs4687550	3	52821010	rs1042779	0.931477	0.945136
+rs1042779	Verbal learning	ITIH4	spatial	3	52823447	rs4687551	3	52821010	rs1042779	0.931477	0.945136
+rs1042779	Verbal learning	ITIH4	spatial	3	52824609	rs6778329	3	52821010	rs1042779	0.931477	0.945136
+rs1042779	Verbal learning	ITIH4	spatial	3	52820980	rs678	3	52821010	rs1042779	0.989665	1.0
+rs1042779	Verbal learning	ITIH4	spatial	3	52821991	rs68094128	3	52821010	rs1042779	0.906637	0.977916
+rs1042779	Verbal learning	ITIH4	spatial	3	52825584	rs9324	3	52821010	rs1042779	0.933558	0.945275
+rs2276815	Verbal learning	ITIH4	spatial	3	52855228	rs2239547	3	52853746	rs2276815	0.997648	1.0
+rs2276815	Verbal learning	ITIH4	spatial			rs2276815			rs2276815	1.0	1.0
+rs2276815	Verbal learning	ITIH4	spatial	3	52852896	rs35004449	3	52853746	rs2276815	1.0	1.0
+rs2276815	Verbal learning	ITIH4	spatial	3	52852537	rs4687657	3	52853746	rs2276815	1.0	1.0
+rs2276815	Verbal learning (visual presentation)	ITIH4	spatial	3	52855228	rs2239547	3	52853746	rs2276815	0.997648	1.0
+rs2276815	Verbal learning (visual presentation)	ITIH4	spatial			rs2276815			rs2276815	1.0	1.0
+rs2276815	Verbal learning (visual presentation)	ITIH4	spatial	3	52852896	rs35004449	3	52853746	rs2276815	1.0	1.0
+rs2276815	Verbal learning (visual presentation)	ITIH4	spatial	3	52852537	rs4687657	3	52853746	rs2276815	1.0	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52821010	rs1042779	3	52823125	rs2239549	0.962937	0.978989
+rs2239549	Verbal learning	ITIH4	spatial	3	52825527	rs1075653	3	52823125	rs2239549	0.963124	0.991468
+rs2239549	Verbal learning	ITIH4	spatial	3	52825461	rs1076425	3	52823125	rs2239549	0.965243	0.995723
+rs2239549	Verbal learning	ITIH4	spatial	3	52826275	rs2071506	3	52823125	rs2239549	0.961097	0.991446
+rs2239549	Verbal learning	ITIH4	spatial	3	52826706	rs2071507	3	52823125	rs2239549	0.96322	0.995712
+rs2239549	Verbal learning	ITIH4	spatial	3	52826845	rs2071508	3	52823125	rs2239549	0.96322	0.995712
+rs2239549	Verbal learning	ITIH4	spatial			rs2239549			rs2239549	1.0	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52823125	rs2239549	0.997943	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52818578	rs2239551	3	52823125	rs2239549	0.993846	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52827914	rs2239699	3	52823125	rs2239549	0.93713	0.995566
+rs2239549	Verbal learning	ITIH4	spatial	3	52819326	rs2268023	3	52823125	rs2239549	0.950228	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52824094	rs2270197	3	52823125	rs2239549	0.967368	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52822855	rs2284350	3	52823125	rs2239549	0.995892	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52822788	rs2284351	3	52823125	rs2239549	0.997943	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52821176	rs2286798	3	52823125	rs2239549	0.967119	0.98733
+rs2239549	Verbal learning	ITIH4	spatial	3	52822920	rs2300149	3	52823125	rs2239549	0.997943	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52825280	rs3216516	3	52823125	rs2239549	0.963124	0.991468
+rs2239549	Verbal learning	ITIH4	spatial	3	52824283	rs3217089	3	52823125	rs2239549	0.955029	0.991381
+rs2239549	Verbal learning	ITIH4	spatial	3	52823429	rs4687550	3	52823125	rs2239549	0.965243	0.995723
+rs2239549	Verbal learning	ITIH4	spatial	3	52823447	rs4687551	3	52823125	rs2239549	0.965243	0.995723
+rs2239549	Verbal learning	ITIH4	spatial	3	52827565	rs4687654	3	52823125	rs2239549	0.93713	0.995566
+rs2239549	Verbal learning	ITIH4	spatial	3	52824609	rs6778329	3	52823125	rs2239549	0.965243	0.995723
+rs2239549	Verbal learning	ITIH4	spatial	3	52820980	rs678	3	52823125	rs2239549	0.973438	1.0
+rs2239549	Verbal learning	ITIH4	spatial	3	52826619	rs746694	3	52823125	rs2239549	0.961097	0.991446
+rs2239549	Verbal learning	ITIH4	spatial	3	52825584	rs9324	3	52823125	rs2239549	0.963124	0.991468
+rs2028216	Verbal learning	ITIH4	spatial	3	52676189	rs11130313	3	52680822	rs2028216	0.993894	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52685243	rs13065019	3	52680822	rs2028216	0.993894	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52678369	rs13085775	3	52680822	rs2028216	0.973888	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52678269	rs13085895	3	52680822	rs2028216	0.993894	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52678493	rs13086297	3	52680822	rs2028216	0.993894	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52683863	rs33967311	3	52680822	rs2028216	0.993894	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52682204	rs34757451	3	52680822	rs2028216	0.993894	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52685304	rs35211965	3	52680822	rs2028216	1.0	1.0
+rs2028216	Verbal learning	ITIH4	spatial	3	52677959	rs7642198	3	52680822	rs2028216	0.993894	1.0
+rs6617	Verbal learning	ITIH4	spatial	3	52742536	rs12486554	3	52740181	rs6617	0.991914	1.0
+rs6617	Verbal learning	ITIH4	spatial	3	52738164	rs12635140	3	52740181	rs6617	0.997975	1.0
+rs6617	Verbal learning	ITIH4	spatial	3	52742412	rs34017441	3	52740181	rs6617	0.979872	1.0
+rs6617	Verbal learning	ITIH4	spatial	3	52741159	rs3755798	3	52740181	rs6617	0.997974	1.0
+rs6617	Verbal learning	ITIH4	spatial			rs6617			rs6617	1.0	1.0
+rs6617	Verbal learning	ITIH4	spatial	3	52739519	rs8906	3	52740181	rs6617	0.973888	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52624722	rs11708075	3	52628815	rs11714419	1.0	1.0
+rs11714419	Verbal learning	ITIH4	spatial			rs11714419			rs11714419	1.0	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52627659	rs12498066	3	52628815	rs11714419	0.993894	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52627485	rs13085331	3	52628815	rs11714419	0.993894	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52626645	rs2336146	3	52628815	rs11714419	0.973888	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52624232	rs4336110	3	52628815	rs11714419	1.0	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52630547	rs4687633	3	52628815	rs11714419	0.993894	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52625018	rs62253700	3	52628815	rs11714419	0.993894	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52632356	rs62253703	3	52628815	rs11714419	0.993894	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52624768	rs68021750	3	52628815	rs11714419	0.993894	1.0
+rs11714419	Verbal learning	ITIH4	spatial	3	52628320	rs7628578	3	52628815	rs11714419	0.98985	1.0
+rs2276817	Verbal learning	ITIH4	spatial	3	52862002	rs12488303	3	52860935	rs2276817	1.0	1.0
+rs2276817	Verbal learning	ITIH4	spatial	3	52861210	rs13072536	3	52860935	rs2276817	1.0	1.0
+rs2276817	Verbal learning	ITIH4	spatial	3	52864859	rs2071040	3	52860935	rs2276817	0.997407	1.0
+rs2276817	Verbal learning	ITIH4	spatial	3	52864692	rs2071041	3	52860935	rs2276817	0.997413	1.0
+rs2276817	Verbal learning	ITIH4	spatial	3	52862199	rs2072391	3	52860935	rs2276817	1.0	1.0
+rs2276817	Verbal learning	ITIH4	spatial			rs2276817			rs2276817	1.0	1.0
+rs2276817	Verbal learning	ITIH4	spatial	3	52864134	rs4687554	3	52860935	rs2276817	1.0	1.0
+rs2276817	Verbal learning	ITIH4	spatial	3	52860365	rs4687658	3	52860935	rs2276817	1.0	1.0
+rs2240920	Verbal learning	ITIH4	spatial	3	52826275	rs2071506	3	52831008	rs2240920	0.960423	0.982832
+rs2240920	Verbal learning	ITIH4	spatial	3	52826706	rs2071507	3	52831008	rs2240920	0.958261	0.978576
+rs2240920	Verbal learning	ITIH4	spatial	3	52826845	rs2071508	3	52831008	rs2240920	0.962457	0.98286
+rs2240920	Verbal learning	ITIH4	spatial	3	52827914	rs2239699	3	52831008	rs2240920	0.989464	0.995751
+rs2240920	Verbal learning	ITIH4	spatial			rs2240920			rs2240920	1.0	1.0
+rs2240920	Verbal learning	ITIH4	spatial	3	52833218	rs2535629	3	52831008	rs2240920	0.953572	0.969858
+rs2240920	Verbal learning	ITIH4	spatial	3	52827565	rs4687654	3	52831008	rs2240920	0.989464	0.995751
+rs2240920	Verbal learning	ITIH4	spatial	3	52835353	rs736408	3	52831008	rs2240920	0.920087	0.927863
+rs2240920	Verbal learning	ITIH4	spatial	3	52826619	rs746694	3	52831008	rs2240920	0.960423	0.982832
+rs2240920	Verbal learning	ITIH4	spatial	3	52828627	rs9881468	3	52831008	rs2240920	0.958395	0.982804
+rs1010554	Verbal learning	ITIH4	spatial	3	52541252	rs11130306	3	52542918	rs1010554	0.964455	0.995863
+rs4687554	Verbal learning	ITIH4	spatial	3	52862002	rs12488303	3	52864134	rs4687554	1.0	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52861210	rs13072536	3	52864134	rs4687554	1.0	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52868444	rs13083728	3	52864134	rs4687554	0.997413	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52864859	rs2071040	3	52864134	rs4687554	0.997407	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52864692	rs2071041	3	52864134	rs4687554	0.997413	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52862199	rs2072391	3	52864134	rs4687554	1.0	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52860935	rs2276817	3	52864134	rs4687554	1.0	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52866156	rs3755803	3	52864134	rs4687554	1.0	1.0
+rs4687554	Verbal learning	ITIH4	spatial			rs4687554			rs4687554	1.0	1.0
+rs4687554	Verbal learning	ITIH4	spatial	3	52860365	rs4687658	3	52864134	rs4687554	1.0	1.0
+rs7614981	Verbal learning	ITIH4	spatial	3	52567013	rs12489828	3	52566913	rs7614981	1.0	1.0
+rs7614981	Verbal learning	ITIH4	spatial	3	52567616	rs66782572	3	52566913	rs7614981	0.993983	1.0
+rs7614981	Verbal learning	ITIH4	spatial			rs7614981			rs7614981	1.0	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52825527	rs1075653	3	52827914	rs2239699	0.969006	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52825461	rs1076425	3	52827914	rs2239699	0.971029	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52826275	rs2071506	3	52827914	rs2239699	0.971029	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52826706	rs2071507	3	52827914	rs2239699	0.968855	0.995681
+rs2239699	Verbal learning	ITIH4	spatial	3	52826845	rs2071508	3	52827914	rs2239699	0.973058	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52823125	rs2239549	3	52827914	rs2239699	0.93713	0.995566
+rs2239699	Verbal learning	ITIH4	spatial			rs2239699			rs2239699	1.0	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52831008	rs2240920	3	52827914	rs2239699	0.989464	0.995751
+rs2239699	Verbal learning	ITIH4	spatial	3	52824094	rs2270197	3	52827914	rs2239699	0.968855	0.995681
+rs2239699	Verbal learning	ITIH4	spatial	3	52822920	rs2300149	3	52827914	rs2239699	0.939368	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52825280	rs3216516	3	52827914	rs2239699	0.969006	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52824283	rs3217089	3	52827914	rs2239699	0.960308	0.982781
+rs2239699	Verbal learning	ITIH4	spatial	3	52823429	rs4687550	3	52827914	rs2239699	0.971029	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52823447	rs4687551	3	52827914	rs2239699	0.971029	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52827565	rs4687654	3	52827914	rs2239699	1.0	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52824609	rs6778329	3	52827914	rs2239699	0.971029	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52826619	rs746694	3	52827914	rs2239699	0.971029	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52825584	rs9324	3	52827914	rs2239699	0.969006	1.0
+rs2239699	Verbal learning	ITIH4	spatial	3	52828627	rs9881468	3	52827914	rs2239699	0.960609	0.991334
+rs4687658	Verbal learning	ITIH4	spatial	3	52862002	rs12488303	3	52860365	rs4687658	1.0	1.0
+rs4687658	Verbal learning	ITIH4	spatial	3	52861210	rs13072536	3	52860365	rs4687658	1.0	1.0
+rs4687658	Verbal learning	ITIH4	spatial	3	52864859	rs2071040	3	52860365	rs4687658	0.997407	1.0
+rs4687658	Verbal learning	ITIH4	spatial	3	52864692	rs2071041	3	52860365	rs4687658	0.997413	1.0
+rs4687658	Verbal learning	ITIH4	spatial	3	52862199	rs2072391	3	52860365	rs4687658	1.0	1.0
+rs4687658	Verbal learning	ITIH4	spatial	3	52860935	rs2276817	3	52860365	rs4687658	1.0	1.0
+rs4687658	Verbal learning	ITIH4	spatial	3	52864134	rs4687554	3	52860365	rs4687658	1.0	1.0
+rs4687658	Verbal learning	ITIH4	spatial			rs4687658			rs4687658	1.0	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52862002	rs12488303	3	52861210	rs13072536	1.0	1.0
+rs13072536	Verbal learning	ITIH4	spatial			rs13072536			rs13072536	1.0	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52864859	rs2071040	3	52861210	rs13072536	0.997407	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52864692	rs2071041	3	52861210	rs13072536	0.997413	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52862199	rs2072391	3	52861210	rs13072536	1.0	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52860935	rs2276817	3	52861210	rs13072536	1.0	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52866156	rs3755803	3	52861210	rs13072536	1.0	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52864134	rs4687554	3	52861210	rs13072536	1.0	1.0
+rs13072536	Verbal learning	ITIH4	spatial	3	52860365	rs4687658	3	52861210	rs13072536	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52674666	rs11130310	3	52675054	rs11130312	0.979872	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52675004	rs11130311	3	52675054	rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial			rs11130312			rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52676189	rs11130313	3	52675054	rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52672530	rs11719514	3	52675054	rs11130312	0.993894	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52672741	rs11720432	3	52675054	rs11130312	0.993894	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52672166	rs13068293	3	52675054	rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52674541	rs13081031	3	52675054	rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52678369	rs13085775	3	52675054	rs11130312	0.979872	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52678269	rs13085895	3	52675054	rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52678493	rs13086297	3	52675054	rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52675278	rs13086898	3	52675054	rs11130312	1.0	1.0
+rs11130312	Verbal learning	ITIH4	spatial	3	52672617	rs34959878	3	52675054	rs11130312	0.940836	0.95832
+rs11130312	Verbal learning	ITIH4	spatial	3	52677959	rs7642198	3	52675054	rs11130312	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52674666	rs11130310	3	52678269	rs13085895	0.979872	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52675004	rs11130311	3	52678269	rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52675054	rs11130312	3	52678269	rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52676189	rs11130313	3	52678269	rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52674541	rs13081031	3	52678269	rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52678369	rs13085775	3	52678269	rs13085895	0.979872	1.0
+rs13085895	Verbal learning	ITIH4	spatial			rs13085895			rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52678493	rs13086297	3	52678269	rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52675278	rs13086898	3	52678269	rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52682204	rs34757451	3	52678269	rs13085895	1.0	1.0
+rs13085895	Verbal learning	ITIH4	spatial	3	52677959	rs7642198	3	52678269	rs13085895	1.0	1.0
+rs3755806	Verbal learning	ITIH4	spatial	3	52639256	rs11130308	3	52643684	rs3755806	0.977806	0.995859
+rs3755806	Verbal learning	ITIH4	spatial	3	52642935	rs12487591	3	52643684	rs3755806	0.997963	1.0
+rs3755806	Verbal learning	ITIH4	spatial	3	52644835	rs13065851	3	52643684	rs3755806	0.991869	1.0
+rs3755806	Verbal learning	ITIH4	spatial	3	52643306	rs3733045	3	52643684	rs3755806	0.977806	0.995859
+rs3755806	Verbal learning	ITIH4	spatial	3	52642486	rs3774365	3	52643684	rs3755806	0.997963	1.0
+rs3755806	Verbal learning	ITIH4	spatial	3	52641254	rs3774366	3	52643684	rs3755806	0.977806	0.995859
+rs3755806	Verbal learning	ITIH4	spatial	3	52646902	rs71084197	3	52643684	rs3755806	0.991869	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52697081	rs11130314	3	52692720	rs7611731	0.979872	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52697162	rs11130315	3	52692720	rs7611731	0.979872	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52691111	rs12486847	3	52692720	rs7611731	0.973888	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52690637	rs2336148	3	52692720	rs7611731	0.973888	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52692123	rs2336149	3	52692720	rs7611731	1.0	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52692358	rs2590846	3	52692720	rs7611731	0.979872	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52690943	rs3041438	3	52692720	rs7611731	0.973888	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52696797	rs34168767	3	52692720	rs7611731	0.979872	1.0
+rs7611731	Verbal learning	ITIH4	spatial	3	52694197	rs6804145	3	52692720	rs7611731	1.0	1.0
+rs7611731	Verbal learning	ITIH4	spatial			rs7611731			rs7611731	1.0	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52779590	rs112860674	3	52781538	rs13082208	0.973888	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52779800	rs13074853	3	52781538	rs13082208	0.973888	1.0
+rs13082208	Verbal learning	ITIH4	spatial			rs13082208			rs13082208	1.0	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52785167	rs13082960	3	52781538	rs13082208	0.993894	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52782273	rs13087772	3	52781538	rs13082208	1.0	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52780508	rs2072390	3	52781538	rs13082208	0.973888	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52778346	rs2268026	3	52781538	rs13082208	0.993894	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52778050	rs2286800	3	52781538	rs13082208	1.0	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52782838	rs62255396	3	52781538	rs13082208	0.993894	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52784415	rs6787154	3	52781538	rs13082208	0.973888	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52784799	rs71087014	3	52781538	rs13082208	1.0	1.0
+rs13082208	Verbal learning	ITIH4	spatial	3	52776907	rs7638162	3	52781538	rs13082208	0.973888	1.0
+rs2878628	Verbal learning	ITIH4	spatial	3	52586681	rs1570	3	52584714	rs2878628	0.997973	1.0
+rs2878628	Verbal learning	ITIH4	spatial	3	52584786	rs2251219	3	52584714	rs2878628	0.98185	1.0
+rs2878628	Verbal learning	ITIH4	spatial			rs2878628			rs2878628	1.0	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52781538	rs13082208	3	52785167	rs13082960	0.993894	1.0
+rs13082960	Verbal learning	ITIH4	spatial			rs13082960			rs13082960	1.0	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52782273	rs13087772	3	52785167	rs13082960	0.993894	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52787241	rs13095332	3	52785167	rs13082960	0.993894	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52780508	rs2072390	3	52785167	rs13082960	0.979872	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52787602	rs2336545	3	52785167	rs13082960	1.0	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52782838	rs62255396	3	52785167	rs13082960	1.0	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52788958	rs6414570	3	52785167	rs13082960	0.979872	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52784415	rs6787154	3	52785167	rs13082960	0.979872	1.0
+rs13082960	Verbal learning	ITIH4	spatial	3	52784799	rs71087014	3	52785167	rs13082960	0.993894	1.0
+rs3796353	Verbal learning	ITIH4	spatial	3	52593118	rs17052256	3	52593229	rs3796353	1.0	1.0
+rs3796353	Verbal learning	ITIH4	spatial	3	52593137	rs17052259	3	52593229	rs3796353	1.0	1.0
+rs3796353	Verbal learning	ITIH4	spatial			rs3796353			rs3796353	1.0	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52603351	rs10433550	3	52606291	rs11714565	1.0	1.0
+rs11714565	Verbal learning	ITIH4	spatial			rs11714565			rs11714565	1.0	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52602273	rs13063160	3	52606291	rs11714565	0.997973	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52606856	rs34140775	3	52606291	rs11714565	1.0	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52605942	rs4687546	3	52606291	rs11714565	1.0	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52604860	rs6786043	3	52606291	rs11714565	0.997973	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52605004	rs6788887	3	52606291	rs11714565	1.0	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52605135	rs6788993	3	52606291	rs11714565	0.997973	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52605973	rs7623199	3	52606291	rs11714565	0.97585	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52606365	rs7625743	3	52606291	rs11714565	0.997973	1.0
+rs11714565	Verbal learning	ITIH4	spatial	3	52604179	rs9758945	3	52606291	rs11714565	1.0	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52606291	rs11714565	3	52610414	rs7652191	0.997973	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52612177	rs34115864	3	52610414	rs7652191	0.973872	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52606856	rs34140775	3	52610414	rs7652191	0.997973	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52612158	rs34954168	3	52610414	rs7652191	0.97986	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52605942	rs4687546	3	52610414	rs7652191	0.997973	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52615226	rs4687629	3	52610414	rs7652191	1.0	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52615300	rs4687630	3	52610414	rs7652191	0.97986	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52605973	rs7623199	3	52610414	rs7652191	0.973872	1.0
+rs7652191	Verbal learning	ITIH4	spatial	3	52606365	rs7625743	3	52610414	rs7652191	1.0	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52617801	rs11720159	3	52618017	rs11720243	1.0	1.0
+rs11720243	Verbal learning	ITIH4	spatial			rs11720243			rs11720243	1.0	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52618318	rs12487445	3	52618017	rs11720243	0.973872	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52619791	rs12629699	3	52618017	rs11720243	1.0	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52619835	rs12629701	3	52618017	rs11720243	0.997973	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52616977	rs13078422	3	52618017	rs11720243	0.973872	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52621626	rs3733046	3	52618017	rs11720243	0.997974	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52621838	rs3852066	3	52618017	rs11720243	0.997974	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52615226	rs4687629	3	52618017	rs11720243	1.0	1.0
+rs11720243	Verbal learning	ITIH4	spatial	3	52615300	rs4687630	3	52618017	rs11720243	0.97986	1.0
+rs2268023	Verbal learning	ITIH4	spatial	3	52821010	rs1042779	3	52819326	rs2268023	0.91825	0.982456
+rs2268023	Verbal learning	ITIH4	spatial	3	52816584	rs11267471	3	52819326	rs2268023	0.922144	0.982544
+rs2268023	Verbal learning	ITIH4	spatial	3	52823125	rs2239549	3	52819326	rs2268023	0.950228	1.0
+rs2268023	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52819326	rs2268023	0.948102	0.99571
+rs2268023	Verbal learning	ITIH4	spatial	3	52818578	rs2239551	3	52819326	rs2268023	0.956111	1.0
+rs2268023	Verbal learning	ITIH4	spatial			rs2268023			rs2268023	1.0	1.0
+rs2268023	Verbal learning	ITIH4	spatial	3	52824094	rs2270197	3	52819326	rs2268023	0.919219	1.0
+rs2268023	Verbal learning	ITIH4	spatial	3	52822855	rs2284350	3	52819326	rs2268023	0.945982	0.991442
+rs2268023	Verbal learning	ITIH4	spatial	3	52822788	rs2284351	3	52819326	rs2268023	0.948102	0.99571
+rs2268023	Verbal learning	ITIH4	spatial	3	52821176	rs2286798	3	52819326	rs2268023	0.922571	0.991184
+rs2268023	Verbal learning	ITIH4	spatial	3	52822920	rs2300149	3	52819326	rs2268023	0.948102	0.99571
+rs2268023	Verbal learning	ITIH4	spatial	3	52824283	rs3217089	3	52819326	rs2268023	0.90715	0.991004
+rs2268023	Verbal learning	ITIH4	spatial	3	52817674	rs3774354	3	52819326	rs2268023	0.930776	1.0
+rs2268023	Verbal learning	ITIH4	spatial	3	52817777	rs3774355	3	52819326	rs2268023	0.930776	1.0
+rs2268023	Verbal learning	ITIH4	spatial	3	52823429	rs4687550	3	52819326	rs2268023	0.917028	0.995536
+rs2268023	Verbal learning	ITIH4	spatial	3	52823447	rs4687551	3	52819326	rs2268023	0.917028	0.995536
+rs2268023	Verbal learning	ITIH4	spatial	3	52820980	rs678	3	52819326	rs2268023	0.924987	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52624722	rs11708075	3	52626645	rs2336146	0.973888	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52628815	rs11714419	3	52626645	rs2336146	0.973888	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52627659	rs12498066	3	52626645	rs2336146	0.979872	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52627485	rs13085331	3	52626645	rs2336146	0.979872	1.0
+rs2336146	Verbal learning	ITIH4	spatial			rs2336146			rs2336146	1.0	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52621838	rs3852066	3	52626645	rs2336146	1.0	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52624232	rs4336110	3	52626645	rs2336146	0.973888	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52630547	rs4687633	3	52626645	rs2336146	0.979872	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52625018	rs62253700	3	52626645	rs2336146	0.979872	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52624768	rs68021750	3	52626645	rs2336146	0.979872	1.0
+rs2336146	Verbal learning	ITIH4	spatial	3	52628320	rs7628578	3	52626645	rs2336146	0.983875	1.0
+rs2083180	Verbal learning	ITIH4	spatial	3	52672530	rs11719514	3	52668118	rs2083180	0.95928	0.971092
+rs2083180	Verbal learning	ITIH4	spatial	3	52672741	rs11720432	3	52668118	rs2083180	0.95928	0.971092
+rs2083180	Verbal learning	ITIH4	spatial	3	52672166	rs13068293	3	52668118	rs2083180	0.965377	0.971297
+rs2083180	Verbal learning	ITIH4	spatial	3	52670043	rs13098776	3	52668118	rs2083180	0.98588	1.0
+rs2083180	Verbal learning	ITIH4	spatial			rs2083180			rs2083180	1.0	1.0
+rs2083180	Verbal learning	ITIH4	spatial	3	52672617	rs34959878	3	52668118	rs2083180	0.947156	0.970673
+rs2083180	Verbal learning	ITIH4	spatial	3	52669388	rs6796726	3	52668118	rs2083180	0.98588	1.0
+rs1866268	Verbal learning	ITIH4	spatial	3	52718153	rs10865973	3	52719397	rs1866268	0.973888	1.0
+rs1866268	Verbal learning	ITIH4	spatial	3	52718279	rs10865974	3	52719397	rs1866268	1.0	1.0
+rs1866268	Verbal learning	ITIH4	spatial	3	52721304	rs11177	3	52719397	rs1866268	0.973888	1.0
+rs1866268	Verbal learning	ITIH4	spatial			rs1866268			rs1866268	1.0	1.0
+rs1866268	Verbal learning	ITIH4	spatial	3	52719087	rs3733039	3	52719397	rs1866268	0.997975	1.0
+rs10865974	Verbal learning	ITIH4	spatial	3	52718153	rs10865973	3	52718279	rs10865974	0.973888	1.0
+rs10865974	Verbal learning	ITIH4	spatial			rs10865974			rs10865974	1.0	1.0
+rs10865974	Verbal learning	ITIH4	spatial	3	52721304	rs11177	3	52718279	rs10865974	0.973888	1.0
+rs10865974	Verbal learning	ITIH4	spatial	3	52713305	rs11370862	3	52718279	rs10865974	1.0	1.0
+rs10865974	Verbal learning	ITIH4	spatial	3	52719397	rs1866268	3	52718279	rs10865974	1.0	1.0
+rs10865974	Verbal learning	ITIH4	spatial	3	52719087	rs3733039	3	52718279	rs10865974	0.997975	1.0
+rs17052259	Verbal learning	ITIH4	spatial	3	52593118	rs17052256	3	52593137	rs17052259	1.0	1.0
+rs17052259	Verbal learning	ITIH4	spatial			rs17052259			rs17052259	1.0	1.0
+rs17052259	Verbal learning	ITIH4	spatial	3	52593229	rs3796353	3	52593137	rs17052259	1.0	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52606291	rs11714565	3	52609361	rs6805156	0.997973	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52612177	rs34115864	3	52609361	rs6805156	0.973872	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52606856	rs34140775	3	52609361	rs6805156	0.997973	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52612158	rs34954168	3	52609361	rs6805156	0.97986	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52605942	rs4687546	3	52609361	rs6805156	0.997973	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52604860	rs6786043	3	52609361	rs6805156	1.0	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52605004	rs6788887	3	52609361	rs6805156	0.997973	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52605135	rs6788993	3	52609361	rs6805156	1.0	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52605973	rs7623199	3	52609361	rs6805156	0.973872	1.0
+rs6805156	Verbal learning	ITIH4	spatial	3	52606365	rs7625743	3	52609361	rs6805156	1.0	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52779590	rs112860674	3	52780508	rs2072390	1.0	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52779800	rs13074853	3	52780508	rs2072390	1.0	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52781538	rs13082208	3	52780508	rs2072390	0.973888	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52785167	rs13082960	3	52780508	rs2072390	0.979872	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52782273	rs13087772	3	52780508	rs2072390	0.973888	1.0
+rs2072390	Verbal learning	ITIH4	spatial			rs2072390			rs2072390	1.0	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52778346	rs2268026	3	52780508	rs2072390	0.979872	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52778050	rs2286800	3	52780508	rs2072390	0.973888	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52782838	rs62255396	3	52780508	rs2072390	0.979872	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52784415	rs6787154	3	52780508	rs2072390	1.0	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52784799	rs71087014	3	52780508	rs2072390	0.973888	1.0
+rs2072390	Verbal learning	ITIH4	spatial	3	52776907	rs7638162	3	52780508	rs2072390	1.0	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52617801	rs11720159	3	52615226	rs4687629	1.0	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52618017	rs11720243	3	52615226	rs4687629	1.0	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52618318	rs12487445	3	52615226	rs4687629	0.973872	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52619791	rs12629699	3	52615226	rs4687629	1.0	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52619835	rs12629701	3	52615226	rs4687629	0.997973	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52616977	rs13078422	3	52615226	rs4687629	0.973872	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52612177	rs34115864	3	52615226	rs4687629	0.973872	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52612158	rs34954168	3	52615226	rs4687629	0.97986	1.0
+rs4687629	Verbal learning	ITIH4	spatial			rs4687629			rs4687629	1.0	1.0
+rs4687629	Verbal learning	ITIH4	spatial	3	52615300	rs4687630	3	52615226	rs4687629	0.97986	1.0
+rs11720159	Verbal learning	ITIH4	spatial			rs11720159			rs11720159	1.0	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52618017	rs11720243	3	52617801	rs11720159	1.0	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52618318	rs12487445	3	52617801	rs11720159	0.973872	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52619791	rs12629699	3	52617801	rs11720159	1.0	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52619835	rs12629701	3	52617801	rs11720159	0.997973	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52616977	rs13078422	3	52617801	rs11720159	0.973872	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52621626	rs3733046	3	52617801	rs11720159	0.997974	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52621838	rs3852066	3	52617801	rs11720159	0.997974	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52615226	rs4687629	3	52617801	rs11720159	1.0	1.0
+rs11720159	Verbal learning	ITIH4	spatial	3	52615300	rs4687630	3	52617801	rs11720159	0.97986	1.0
+rs12635140	Verbal learning	ITIH4	spatial	3	52742536	rs12486554	3	52738164	rs12635140	0.989906	1.0
+rs12635140	Verbal learning	ITIH4	spatial			rs12635140			rs12635140	1.0	1.0
+rs12635140	Verbal learning	ITIH4	spatial	3	52742412	rs34017441	3	52738164	rs12635140	0.977888	1.0
+rs12635140	Verbal learning	ITIH4	spatial	3	52741159	rs3755798	3	52738164	rs12635140	0.995954	1.0
+rs12635140	Verbal learning	ITIH4	spatial	3	52740181	rs6617	3	52738164	rs12635140	0.997975	1.0
+rs12635140	Verbal learning	ITIH4	spatial	3	52739519	rs8906	3	52738164	rs12635140	0.971917	1.0
+rs2164885	Verbal learning	ITIH4	spatial	3	52731482	rs11130317	3	52731268	rs2164885	0.979872	1.0
+rs2164885	Verbal learning	ITIH4	spatial			rs2164885			rs2164885	1.0	1.0
+rs2164885	Verbal learning	ITIH4	spatial	3	52727256	rs2289247	3	52731268	rs2164885	0.997974	1.0
+rs2164885	Verbal learning	ITIH4	spatial	3	52731597	rs3733041	3	52731268	rs2164885	1.0	1.0
+rs2164885	Verbal learning	ITIH4	spatial	3	52726694	rs6762813	3	52731268	rs2164885	0.973888	1.0
+rs2164885	Verbal learning	ITIH4	spatial	3	52728803	rs6976	3	52731268	rs2164885	0.971899	1.0
+rs3733041	Verbal learning	ITIH4	spatial	3	52731482	rs11130317	3	52731597	rs3733041	0.979872	1.0
+rs3733041	Verbal learning	ITIH4	spatial	3	52731268	rs2164885	3	52731597	rs3733041	1.0	1.0
+rs3733041	Verbal learning	ITIH4	spatial	3	52727256	rs2289247	3	52731597	rs3733041	0.997974	1.0
+rs3733041	Verbal learning	ITIH4	spatial			rs3733041			rs3733041	1.0	1.0
+rs3733041	Verbal learning	ITIH4	spatial	3	52726694	rs6762813	3	52731597	rs3733041	0.973888	1.0
+rs3733041	Verbal learning	ITIH4	spatial	3	52728803	rs6976	3	52731597	rs3733041	0.971899	1.0
+rs4687625	Verbal learning	ITIH4	spatial	3	52561778	rs11711421	3	52563717	rs4687625	0.990054	1.0
+rs4687625	Verbal learning	ITIH4	spatial	3	52567187	rs28661185	3	52563717	rs4687625	0.998002	1.0
+rs4687625	Verbal learning	ITIH4	spatial	3	52560020	rs4475032	3	52563717	rs4687625	0.998002	1.0
+rs4687625	Verbal learning (visual presentation)	ITIH4	spatial	3	52561778	rs11711421	3	52563717	rs4687625	0.990054	1.0
+rs4687625	Verbal learning (visual presentation)	ITIH4	spatial	3	52567187	rs28661185	3	52563717	rs4687625	0.998002	1.0
+rs4687625	Verbal learning (visual presentation)	ITIH4	spatial	3	52560020	rs4475032	3	52563717	rs4687625	0.998002	1.0
+rs3774354	Verbal learning	ITIH4	spatial	3	52821010	rs1042779	3	52817674	rs3774354	0.983408	0.987498
+rs3774354	Verbal learning	ITIH4	spatial	3	52816584	rs11267471	3	52817674	rs3774354	0.987594	0.995819
+rs3774354	Verbal learning	ITIH4	spatial	3	52822508	rs2239550	3	52817674	rs3774354	0.965109	0.987309
+rs3774354	Verbal learning	ITIH4	spatial	3	52818578	rs2239551	3	52817674	rs3774354	0.973502	1.0
+rs3774354	Verbal learning	ITIH4	spatial	3	52819326	rs2268023	3	52817674	rs3774354	0.930776	1.0
+rs3774354	Verbal learning	ITIH4	spatial	3	52821176	rs2286798	3	52817674	rs3774354	0.987539	0.987539
+rs3774354	Verbal learning	ITIH4	spatial			rs3774354			rs3774354	1.0	1.0
+rs3774354	Verbal learning	ITIH4	spatial	3	52817777	rs3774355	3	52817674	rs3774354	1.0	1.0
+rs3774354	Verbal learning	ITIH4	spatial	3	52820980	rs678	3	52817674	rs3774354	0.993781	1.0
+rs3774354	Verbal learning	ITIH4	spatial	3	52821991	rs68094128	3	52817674	rs3774354	0.910976	0.986683
+rs2276816	Verbal learning	ITIH4	spatial			rs2276816			rs2276816	1.0	1.0
+rs1961958	Verbal learning	ITIH4	spatial	3	52586681	rs1570	3	52585989	rs1961958	0.973872	1.0
+rs1961958	Verbal learning	ITIH4	spatial	3	52584786	rs2251219	3	52585989	rs1961958	0.99389	1.0
+rs1961958	Verbal learning	ITIH4	spatial	3	52584714	rs2878628	3	52585989	rs1961958	0.97585	1.0
+rs11711421	Verbal learning	ITIH4	spatial			rs11711421			rs11711421	1.0	1.0
+rs11711421	Verbal learning	ITIH4	spatial	3	52560020	rs4475032	3	52561778	rs11711421	0.992036	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52598539	rs13059862	3	52596397	rs6778844	0.973872	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52598607	rs13060048	3	52596397	rs6778844	0.97585	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52593118	rs17052256	3	52596397	rs6778844	0.97585	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52593137	rs17052259	3	52596397	rs6778844	0.97585	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52600998	rs1821879	3	52596397	rs6778844	0.973872	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52593229	rs3796353	3	52596397	rs6778844	0.97585	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52599788	rs6786919	3	52596397	rs6778844	0.97585	1.0
+rs6778844	Verbal learning	ITIH4	spatial	3	52599921	rs6798246	3	52596397	rs6778844	1.0	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52617801	rs11720159	3	52618318	rs12487445	0.973872	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52618017	rs11720243	3	52618318	rs12487445	0.973872	1.0
+rs12487445	Verbal learning	ITIH4	spatial			rs12487445			rs12487445	1.0	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52619791	rs12629699	3	52618318	rs12487445	0.973872	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52619835	rs12629701	3	52618318	rs12487445	0.97585	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52616977	rs13078422	3	52618318	rs12487445	1.0	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52621626	rs3733046	3	52618318	rs12487445	0.971899	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52621838	rs3852066	3	52618318	rs12487445	0.971899	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52615226	rs4687629	3	52618318	rs12487445	0.973872	1.0
+rs12487445	Verbal learning	ITIH4	spatial	3	52615300	rs4687630	3	52618318	rs12487445	0.99389	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52598539	rs13059862	3	52597663	rs2289249	0.973872	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52598607	rs13060048	3	52597663	rs2289249	0.97585	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52602273	rs13063160	3	52597663	rs2289249	0.973872	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52593118	rs17052256	3	52597663	rs2289249	0.97585	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52593137	rs17052259	3	52597663	rs2289249	0.97585	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52600998	rs1821879	3	52597663	rs2289249	0.973872	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52593229	rs3796353	3	52597663	rs2289249	0.97585	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52599788	rs6786919	3	52597663	rs2289249	0.97585	1.0
+rs2289249	Verbal learning	ITIH4	spatial	3	52599921	rs6798246	3	52597663	rs2289249	1.0	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52603351	rs10433550	3	52599921	rs6798246	0.97585	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52598539	rs13059862	3	52599921	rs6798246	0.973872	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52598607	rs13060048	3	52599921	rs6798246	0.97585	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52602273	rs13063160	3	52599921	rs6798246	0.973872	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52600998	rs1821879	3	52599921	rs6798246	0.973872	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52604860	rs6786043	3	52599921	rs6798246	0.973872	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52599788	rs6786919	3	52599921	rs6798246	0.97585	1.0
+rs6798246	Verbal learning	ITIH4	spatial			rs6798246			rs6798246	1.0	1.0
+rs6798246	Verbal learning	ITIH4	spatial	3	52604179	rs9758945	3	52599921	rs6798246	0.97585	1.0
+rs1961959	Verbal learning	ITIH4	spatial	3	52586681	rs1570	3	52585759	rs1961959	0.973872	1.0
+rs1961959	Verbal learning	ITIH4	spatial	3	52584786	rs2251219	3	52585759	rs1961959	0.99389	1.0
+rs1961959	Verbal learning	ITIH4	spatial	3	52584714	rs2878628	3	52585759	rs1961959	0.97585	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52606291	rs11714565	3	52610650	rs17264436	0.97585	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52612177	rs34115864	3	52610650	rs17264436	1.0	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52606856	rs34140775	3	52610650	rs17264436	0.97585	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52612158	rs34954168	3	52610650	rs17264436	0.99389	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52605942	rs4687546	3	52610650	rs17264436	0.97585	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52615226	rs4687629	3	52610650	rs17264436	0.973872	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52615300	rs4687630	3	52610650	rs17264436	0.99389	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52605973	rs7623199	3	52610650	rs17264436	1.0	1.0
+rs17264436	Verbal learning	ITIH4	spatial	3	52606365	rs7625743	3	52610650	rs17264436	0.973872	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52624722	rs11708075	3	52629385	rs2118540	1.0	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52628815	rs11714419	3	52629385	rs2118540	1.0	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52627659	rs12498066	3	52629385	rs2118540	0.993894	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52627485	rs13085331	3	52629385	rs2118540	0.993894	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52626645	rs2336146	3	52629385	rs2118540	0.973888	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52630547	rs4687633	3	52629385	rs2118540	0.993894	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52625018	rs62253700	3	52629385	rs2118540	0.993894	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52632356	rs62253703	3	52629385	rs2118540	0.993894	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52624768	rs68021750	3	52629385	rs2118540	0.993894	1.0
+rs2118540	Verbal learning	ITIH4	spatial	3	52628320	rs7628578	3	52629385	rs2118540	0.98985	1.0
+rs6762813	Verbal learning	ITIH4	spatial	3	52731482	rs11130317	3	52726694	rs6762813	0.993894	1.0
+rs6762813	Verbal learning	ITIH4	spatial	3	52725960	rs13076193	3	52726694	rs6762813	1.0	1.0
+rs6762813	Verbal learning	ITIH4	spatial	3	52731268	rs2164885	3	52726694	rs6762813	0.973888	1.0
+rs6762813	Verbal learning	ITIH4	spatial	3	52727256	rs2289247	3	52726694	rs6762813	0.971793	0.995827
+rs6762813	Verbal learning	ITIH4	spatial	3	52731597	rs3733041	3	52726694	rs6762813	0.973888	1.0
+rs6762813	Verbal learning	ITIH4	spatial			rs6762813			rs6762813	1.0	1.0
+rs6762813	Verbal learning	ITIH4	spatial	3	52728803	rs6976	3	52726694	rs6762813	0.997958	1.0
+rs140522	5,6-dihydrothymine levels	TYMP	spatial			rs140522			rs140522	1.0	1.0
+rs140522	5,6-dihydrothymine levels	TYMP	spatial	22	50971046	rs361725	22	50971265	rs140522	0.905352	1.0
+rs131787	5,6-dihydrothymine levels	CHKB	spatial			rs131787			rs131787	1.0	1.0
+rs131787	5,6-dihydrothymine levels	TYMP	spatial			rs131787			rs131787	1.0	1.0
+rs131785	Uridine levels	TYMP	spatial	22	50981435	rs131784	22	50980070	rs131785	0.964128	1.0
+rs131785	Uridine levels	TYMP	spatial			rs131785			rs131785	1.0	1.0
+rs131785	Uridine levels	TYMP	spatial	22	50976753	rs131788	22	50980070	rs131785	0.920481	0.973991
+rs131785	Uridine levels	TYMP	spatial	22	50978023	rs140521	22	50980070	rs131785	0.992852	1.0
+rs131785	Uridine levels	TYMP	spatial	22	50977737	rs470118	22	50980070	rs131785	0.974237	1.0
+rs3091397	Uridine levels	TYMP	spatial	22	50961168	rs131813	22	50957519	rs3091397	0.969634	0.99428
+rs3091397	Uridine levels	TYMP	spatial	22	50957461	rs131816	22	50957519	rs3091397	0.994468	1.0
+rs3091397	Uridine levels	TYMP	spatial			rs3091397			rs3091397	1.0	1.0
+rs131761	2'-deoxyuridine levels	CHKB	spatial			rs131761			rs131761	1.0	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21162785	rs147012496	22	21165674	rs165902	0.998009	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21168783	rs165590	22	21165674	rs165902	0.998009	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21169874	rs165634	22	21165674	rs165902	0.998009	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21166127	rs165689	22	21165674	rs165902	1.0	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21164693	rs165718	22	21165674	rs165902	0.998009	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21168454	rs165837	22	21165674	rs165902	1.0	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21169293	rs165898	22	21165674	rs165902	0.998009	1.0
+rs165902	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial			rs165902			rs165902	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21176673	rs10610918	22	21177244	rs178052	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21176256	rs165603	22	21177244	rs178052	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21173307	rs165616	22	21177244	rs178052	0.990077	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21174398	rs165665	22	21177244	rs178052	0.998009	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21174311	rs165691	22	21177244	rs178052	0.998009	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21178483	rs165733	22	21177244	rs178052	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21177334	rs165871	22	21177244	rs178052	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21181523	rs165882	22	21177244	rs178052	1.0	1.0
+rs178052	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial			rs178052			rs178052	1.0	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21162785	rs147012496	22	21164693	rs165718	1.0	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21168783	rs165590	22	21164693	rs165718	1.0	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21166127	rs165689	22	21164693	rs165718	0.998009	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial			rs165718			rs165718	1.0	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21168454	rs165837	22	21164693	rs165718	0.998009	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21169293	rs165898	22	21164693	rs165718	1.0	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21165674	rs165902	22	21164693	rs165718	0.998009	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21160092	rs178046	22	21164693	rs165718	0.998009	1.0
+rs165718	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21160583	rs178047	22	21164693	rs165718	1.0	1.0
+rs178046	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21162785	rs147012496	22	21160092	rs178046	0.998009	1.0
+rs178046	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21164693	rs165718	22	21160092	rs178046	0.998009	1.0
+rs178046	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21156870	rs178043	22	21160092	rs178046	1.0	1.0
+rs178046	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial			rs178046			rs178046	1.0	1.0
+rs178046	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21160583	rs178047	22	21160092	rs178046	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21198879	rs104658	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21205476	rs139722293	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21207565	rs165641	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21200314	rs165714	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21203878	rs165781	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21203329	rs165794	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial			rs165850			rs165850	1.0	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21204009	rs165878	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21197828	rs178060	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21205920	rs178062	22	21202746	rs165850	0.998009	1.0
+rs165850	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21206661	rs178063	22	21202746	rs165850	0.998009	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21168783	rs165590	22	21169293	rs165898	1.0	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21173307	rs165616	22	21169293	rs165898	0.988106	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21169874	rs165634	22	21169293	rs165898	1.0	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21171068	rs165640	22	21169293	rs165898	0.998009	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21166127	rs165689	22	21169293	rs165898	0.998009	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21164693	rs165718	22	21169293	rs165898	1.0	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21171114	rs165763	22	21169293	rs165898	0.998009	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21171591	rs165789	22	21169293	rs165898	0.998009	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21168454	rs165837	22	21169293	rs165898	0.998009	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial			rs165898			rs165898	1.0	1.0
+rs165898	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21165674	rs165902	22	21169293	rs165898	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21176673	rs10610918	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21176256	rs165603	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21173307	rs165616	22	21174311	rs165691	0.988106	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21169874	rs165634	22	21174311	rs165691	1.0	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21171068	rs165640	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21174398	rs165665	22	21174311	rs165691	1.0	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial			rs165691			rs165691	1.0	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21178483	rs165733	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21171114	rs165763	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21171591	rs165789	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21177334	rs165871	22	21174311	rs165691	0.998009	1.0
+rs165691	Resistance to COVID-19 infection (Exposed negative vs positive)	SNAP29	spatial	22	21177244	rs178052	22	21174311	rs165691	0.998009	1.0
+rs7594223	Drinks per week	PSMD1	spatial	2	225475559	rs56337305	2	225472984	rs7594223	0.99366	1.0
+rs6493274	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47676488	rs6493274	0.987865	1.0
+rs6493274	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47676488	rs6493274	0.987865	1.0
+rs6493274	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47676488	rs6493274	0.987865	1.0
+rs8040191	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47676715	rs8040191	0.987865	1.0
+rs8040191	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47676715	rs8040191	0.987865	1.0
+rs8040191	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47676715	rs8040191	0.987865	1.0
+rs7166534	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47678131	rs7166534	0.987865	1.0
+rs7166534	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47678131	rs7166534	0.987865	1.0
+rs7166534	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47678131	rs7166534	0.987865	1.0
+rs2132661	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47679725	rs2132661	0.987865	1.0
+rs2132661	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47679725	rs2132661	0.987865	1.0
+rs2132661	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47679725	rs2132661	0.987865	1.0
+rs8032333	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47680566	rs8032333	0.987865	1.0
+rs8032333	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47680566	rs8032333	0.987865	1.0
+rs8032333	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47680566	rs8032333	0.987865	1.0
+rs35473814	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47680661	rs35473814	0.987865	1.0
+rs35473814	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47680661	rs35473814	0.987865	1.0
+rs35473814	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47680661	rs35473814	0.987865	1.0
+rs34794623	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47680800	rs34794623	0.987865	1.0
+rs34794623	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47680800	rs34794623	0.987865	1.0
+rs34794623	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47680800	rs34794623	0.987865	1.0
+rs35175834	Drinks per week	GNB5	spatial	15	47681389	rs12910487	15	47680814	rs35175834	0.987865	1.0
+rs35175834	Drinks per week	GNB5	spatial	15	47681383	rs8033799	15	47680814	rs35175834	0.987865	1.0
+rs35175834	Drinks per week	GNB5	spatial	15	47681366	rs8034190	15	47680814	rs35175834	0.987865	1.0
+rs7580488	Drinks per week	PSMD1	spatial	2	225475559	rs56337305	2	225473262	rs7580488	0.995771	1.0
+rs131758	Metabolite levels (5-methyluridine (ribothymidine); ribothymidine)	CHKB	spatial			rs131758			rs131758	1.0	1.0
+rs783	Bone mineral density mean	KREMEN1	spatial	22	29461149	rs134561	22	29461621	rs783	0.997776	1.0
+rs783	Bone mineral density mean	KREMEN1	spatial	22	29463220	rs134567	22	29461621	rs783	0.975531	0.995423
+rs783	Bone mineral density mean	KREMEN1	spatial	22	29464514	rs134579	22	29461621	rs783	0.975531	0.995423
+rs783	Bone mineral density mean	KREMEN1	spatial	22	29464044	rs139925639	22	29461621	rs783	0.975531	0.995423
+rs783	Bone mineral density mean	KREMEN1	spatial			rs783			rs783	1.0	1.0
+rs134561	Bone mineral density mean	KREMEN1	spatial			rs134561			rs134561	1.0	1.0
+rs134561	Bone mineral density mean	KREMEN1	spatial	22	29463220	rs134567	22	29461149	rs134561	0.977837	1.0
+rs134561	Bone mineral density mean	KREMEN1	spatial	22	29464514	rs134579	22	29461149	rs134561	0.977837	1.0
+rs134561	Bone mineral density mean	KREMEN1	spatial	22	29464044	rs139925639	22	29461149	rs134561	0.977837	1.0
+rs134561	Bone mineral density mean	KREMEN1	spatial	22	29461621	rs783	22	29461149	rs134561	0.997776	1.0
+rs134567	Bone mineral density mean	KREMEN1	spatial	22	29461149	rs134561	22	29463220	rs134567	0.977837	1.0
+rs134567	Bone mineral density mean	KREMEN1	spatial			rs134567			rs134567	1.0	1.0
+rs134567	Bone mineral density mean	KREMEN1	spatial	22	29464514	rs134579	22	29463220	rs134567	1.0	1.0
+rs134567	Bone mineral density mean	KREMEN1	spatial	22	29464044	rs139925639	22	29463220	rs134567	1.0	1.0
+rs134567	Bone mineral density mean	KREMEN1	spatial	22	29461621	rs783	22	29463220	rs134567	0.975531	0.995423
+rs134579	Bone mineral density mean	KREMEN1	spatial	22	29461149	rs134561	22	29464514	rs134579	0.977837	1.0
+rs134579	Bone mineral density mean	KREMEN1	spatial	22	29463220	rs134567	22	29464514	rs134579	1.0	1.0
+rs134579	Bone mineral density mean	KREMEN1	spatial			rs134579			rs134579	1.0	1.0
+rs134579	Bone mineral density mean	KREMEN1	spatial	22	29468455	rs134594	22	29464514	rs134579	0.995501	1.0
+rs134579	Bone mineral density mean	KREMEN1	spatial	22	29464044	rs139925639	22	29464514	rs134579	1.0	1.0
+rs134579	Bone mineral density mean	KREMEN1	spatial	22	29461621	rs783	22	29464514	rs134579	0.975531	0.995423
+rs134569	Bone mineral density mean	KREMEN1	spatial	22	29461149	rs134561	22	29463380	rs134569	0.977837	1.0
+rs134569	Bone mineral density mean	KREMEN1	spatial	22	29463220	rs134567	22	29463380	rs134569	1.0	1.0
+rs134569	Bone mineral density mean	KREMEN1	spatial	22	29464514	rs134579	22	29463380	rs134569	1.0	1.0
+rs134569	Bone mineral density mean	KREMEN1	spatial	22	29464044	rs139925639	22	29463380	rs134569	1.0	1.0
+rs134569	Bone mineral density mean	KREMEN1	spatial	22	29461621	rs783	22	29463380	rs134569	0.975531	0.995423
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29474481	rs377326799	0.988875	0.995511
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29474481	rs377326799	0.991115	1.0
+rs377326799	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29474481	rs377326799	0.991115	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial	22	29480945	rs134631	22	29485793	rs713861	1.0	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial	22	29482220	rs134636	22	29485793	rs713861	1.0	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial	22	29483582	rs134641	22	29485793	rs713861	0.96557	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial	22	29484424	rs134644	22	29485793	rs713861	0.96557	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial	22	29486778	rs134653	22	29485793	rs713861	0.997542	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial	22	29490496	rs134657	22	29485793	rs713861	1.0	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial	22	29484347	rs5752864	22	29485793	rs713861	1.0	1.0
+rs713861	Bone mineral density mean	KREMEN1	spatial			rs713861			rs713861	1.0	1.0
+rs7292708	Bone mineral density mean	KREMEN1	spatial	22	29464222	rs134577	22	29469129	rs7292708	0.972818	1.0
+rs7292708	Bone mineral density mean	KREMEN1	spatial	22	29466200	rs134588	22	29469129	rs7292708	0.972818	1.0
+rs7292708	Bone mineral density mean	KREMEN1	spatial	22	29467220	rs134592	22	29469129	rs7292708	0.972818	1.0
+rs7292708	Bone mineral density mean	KREMEN1	spatial	22	29470114	rs134596	22	29469129	rs7292708	1.0	1.0
+rs7292708	Bone mineral density mean	KREMEN1	spatial	22	29472708	rs134598	22	29469129	rs7292708	0.997526	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29476463	rs134610	22	29480945	rs134631	1.0	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29479089	rs134622	22	29480945	rs134631	1.0	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29480316	rs134628	22	29480945	rs134631	1.0	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial			rs134631			rs134631	1.0	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29482220	rs134636	22	29480945	rs134631	1.0	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29483582	rs134641	22	29480945	rs134631	0.96557	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29484424	rs134644	22	29480945	rs134631	0.96557	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29484347	rs5752864	22	29480945	rs134631	1.0	1.0
+rs134631	Bone mineral density mean	KREMEN1	spatial	22	29485793	rs713861	22	29480945	rs134631	1.0	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29479089	rs134622	22	29482220	rs134636	1.0	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29480316	rs134628	22	29482220	rs134636	1.0	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29480945	rs134631	22	29482220	rs134636	1.0	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial			rs134636			rs134636	1.0	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29483582	rs134641	22	29482220	rs134636	0.96557	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29484424	rs134644	22	29482220	rs134636	0.96557	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29486778	rs134653	22	29482220	rs134636	0.997542	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29484347	rs5752864	22	29482220	rs134636	1.0	1.0
+rs134636	Bone mineral density mean	KREMEN1	spatial	22	29485793	rs713861	22	29482220	rs134636	1.0	1.0
+rs134608	Bone mineral density mean	KREMEN1	spatial	22	29472708	rs134598	22	29475208	rs134608	0.992612	1.0
+rs134608	Bone mineral density mean	KREMEN1	spatial			rs134608			rs134608	1.0	1.0
+rs134608	Bone mineral density mean	KREMEN1	spatial	22	29476463	rs134610	22	29475208	rs134608	1.0	1.0
+rs134608	Bone mineral density mean	KREMEN1	spatial	22	29479089	rs134622	22	29475208	rs134608	1.0	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial	22	29480316	rs134628	22	29484347	rs5752864	1.0	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial	22	29480945	rs134631	22	29484347	rs5752864	1.0	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial	22	29482220	rs134636	22	29484347	rs5752864	1.0	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial	22	29483582	rs134641	22	29484347	rs5752864	0.96557	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial	22	29484424	rs134644	22	29484347	rs5752864	0.96557	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial	22	29486778	rs134653	22	29484347	rs5752864	0.997542	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial			rs5752864			rs5752864	1.0	1.0
+rs5752864	Bone mineral density mean	KREMEN1	spatial	22	29485793	rs713861	22	29484347	rs5752864	1.0	1.0
+rs134622	Bone mineral density mean	KREMEN1	spatial	22	29475208	rs134608	22	29479089	rs134622	1.0	1.0
+rs134622	Bone mineral density mean	KREMEN1	spatial	22	29476463	rs134610	22	29479089	rs134622	1.0	1.0
+rs134622	Bone mineral density mean	KREMEN1	spatial			rs134622			rs134622	1.0	1.0
+rs134622	Bone mineral density mean	KREMEN1	spatial	22	29480316	rs134628	22	29479089	rs134622	1.0	1.0
+rs134622	Bone mineral density mean	KREMEN1	spatial	22	29480945	rs134631	22	29479089	rs134622	1.0	1.0
+rs134622	Bone mineral density mean	KREMEN1	spatial	22	29482220	rs134636	22	29479089	rs134622	1.0	1.0
+rs134622	Bone mineral density mean	KREMEN1	spatial	22	29483582	rs134641	22	29479089	rs134622	0.96557	1.0
+rs134598	Bone mineral density mean	KREMEN1	spatial	22	29470114	rs134596	22	29472708	rs134598	0.997526	1.0
+rs134598	Bone mineral density mean	KREMEN1	spatial			rs134598			rs134598	1.0	1.0
+rs134598	Bone mineral density mean	KREMEN1	spatial	22	29475208	rs134608	22	29472708	rs134598	0.992612	1.0
+rs134598	Bone mineral density mean	KREMEN1	spatial	22	29476463	rs134610	22	29472708	rs134598	0.992612	1.0
+rs134596	Bone mineral density mean	KREMEN1	spatial	22	29466200	rs134588	22	29470114	rs134596	0.972818	1.0
+rs134596	Bone mineral density mean	KREMEN1	spatial	22	29467220	rs134592	22	29470114	rs134596	0.972818	1.0
+rs134596	Bone mineral density mean	KREMEN1	spatial			rs134596			rs134596	1.0	1.0
+rs134596	Bone mineral density mean	KREMEN1	spatial	22	29472708	rs134598	22	29470114	rs134596	0.997526	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial	22	29482220	rs134636	22	29486778	rs134653	0.997542	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial	22	29483582	rs134641	22	29486778	rs134653	0.963197	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial	22	29484424	rs134644	22	29486778	rs134653	0.963197	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial			rs134653			rs134653	1.0	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial	22	29490496	rs134657	22	29486778	rs134653	0.997542	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial	22	29490955	rs134660	22	29486778	rs134653	0.997542	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial	22	29484347	rs5752864	22	29486778	rs134653	0.997542	1.0
+rs134653	Bone mineral density mean	KREMEN1	spatial	22	29485793	rs713861	22	29486778	rs134653	0.997542	1.0
+rs134594	Bone mineral density mean	KREMEN1	spatial	22	29464514	rs134579	22	29468455	rs134594	0.995501	1.0
+rs134594	Bone mineral density mean	KREMEN1	spatial			rs134594			rs134594	1.0	1.0
+rs134594	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29468455	rs134594	0.950661	0.959235
+rs134594	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29468455	rs134594	0.950661	0.959235
+rs134594	Bone mineral density mean	KREMEN1	spatial	22	29464044	rs139925639	22	29468455	rs134594	0.995501	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29477840	rs20037	0.997766	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29477840	rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29477840	rs20037	0.997766	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29477840	rs20037	0.997766	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29477840	rs20037	0.997766	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29477840	rs20037	0.997766	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial			rs20037			rs20037	1.0	1.0
+rs20037	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29477840	rs20037	0.997766	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29475123	rs134607	0.997766	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial			rs134607			rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29475123	rs134607	1.0	1.0
+rs134607	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29475123	rs134607	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29475582	rs134609	0.997766	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial			rs134609			rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29475582	rs134609	1.0	1.0
+rs134609	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29475582	rs134609	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29483919	rs2049939	0.997766	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29483919	rs2049939	0.997766	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29483919	rs2049939	0.997766	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29483919	rs2049939	0.997766	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29483919	rs2049939	0.997766	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29483919	rs2049939	0.997766	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29483919	rs2049939	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29483919	rs2049939	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29483919	rs2049939	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29483919	rs2049939	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29483919	rs2049939	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29483919	rs2049939	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial			rs2049939			rs2049939	1.0	1.0
+rs2049939	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29483919	rs2049939	0.995531	0.995531
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29484609	rs134645	0.997766	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29484609	rs134645	0.997766	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29484609	rs134645	0.997766	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29484609	rs134645	0.997766	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29484609	rs134645	1.0	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29484609	rs134645	1.0	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29484609	rs134645	1.0	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29484609	rs134645	1.0	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29484609	rs134645	1.0	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial			rs134645			rs134645	1.0	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29484609	rs134645	1.0	1.0
+rs134645	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29484609	rs134645	0.995531	0.995531
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial			rs134632			rs134632	1.0	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29481877	rs134632	1.0	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29481877	rs134632	1.0	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29481877	rs134632	1.0	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29481877	rs134632	1.0	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29481877	rs134632	1.0	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29481877	rs134632	0.997766	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29481877	rs134632	1.0	1.0
+rs134632	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29481877	rs134632	0.995531	0.995531
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29482013	rs10696373	0.982386	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29482013	rs10696373	0.982386	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29482013	rs10696373	0.982386	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29482013	rs10696373	0.982386	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29482013	rs10696373	0.982386	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29482013	rs10696373	0.982386	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29482013	rs10696373	0.980191	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29482013	rs10696373	0.982386	1.0
+rs10696373	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29482013	rs10696373	0.977943	0.995477
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial			rs134624			rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29479230	rs134624	0.997766	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29479230	rs134624	0.997766	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29479230	rs134624	0.997766	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29479230	rs134624	0.997766	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29479230	rs134624	0.997766	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29479230	rs134624	1.0	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29479230	rs134624	0.997766	1.0
+rs134624	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29479230	rs134624	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial			rs134626			rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29479889	rs134626	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29479889	rs134626	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29479889	rs134626	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29479889	rs134626	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29479889	rs134626	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29479889	rs134626	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29479889	rs134626	1.0	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29479889	rs134626	0.997766	1.0
+rs134626	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29479889	rs134626	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial			rs134630			rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29480741	rs134630	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29480741	rs134630	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29480741	rs134630	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29480741	rs134630	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29480741	rs134630	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29480741	rs134630	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29480741	rs134630	1.0	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29480741	rs134630	0.997766	1.0
+rs134630	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29480741	rs134630	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial			rs134629			rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29480399	rs134629	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29480399	rs134629	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29480399	rs134629	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29480399	rs134629	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29480399	rs134629	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29480399	rs134629	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29480399	rs134629	1.0	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29480399	rs134629	0.997766	1.0
+rs134629	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29480399	rs134629	0.997766	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29473895	rs134603	0.997766	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29473895	rs134603	1.0	1.0
+rs134603	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29473895	rs134603	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29474076	rs134604	0.997766	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial			rs134604			rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29474076	rs134604	1.0	1.0
+rs134604	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29474076	rs134604	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29468455	rs134594	22	29472883	rs134600	0.950661	0.959235
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29472883	rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial			rs134600			rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29472883	rs134600	0.997766	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29472883	rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29472883	rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29472883	rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29472883	rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29472883	rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29472883	rs134600	1.0	1.0
+rs134600	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29472883	rs134600	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29468455	rs134594	22	29472862	rs134599	0.950661	0.959235
+rs134599	Bone mineral density mean	KREMEN1	spatial			rs134599			rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29472862	rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29472862	rs134599	0.997766	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29472862	rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29472862	rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29472862	rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29472862	rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29472862	rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29472862	rs134599	1.0	1.0
+rs134599	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29472862	rs134599	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29474276	rs134605	0.997766	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial			rs134605			rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29474276	rs134605	1.0	1.0
+rs134605	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29474276	rs134605	1.0	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial			rs134601			rs134601	1.0	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29473494	rs134601	0.997766	1.0
+rs134601	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29473494	rs134601	0.997766	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29473883	rs134602	0.997766	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial			rs134602			rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29473883	rs134602	1.0	1.0
+rs134602	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29473883	rs134602	1.0	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29480904	rs5762980	0.995531	0.995531
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29480904	rs5762980	0.995531	0.995531
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29480904	rs5762980	0.995531	0.995531
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29480904	rs5762980	0.995531	0.995531
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29480904	rs5762980	0.995531	0.995531
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29480904	rs5762980	0.995531	0.995531
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29480904	rs5762980	0.997766	1.0
+rs5762980	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29480904	rs5762980	0.995531	0.995531
+rs5762980	Bone mineral density mean	KREMEN1	spatial			rs5762980			rs5762980	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29472862	rs134599	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29472883	rs134600	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29477383	rs134613	0.997766	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial			rs134613			rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29477383	rs134613	0.997766	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29477383	rs134613	0.997766	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29477383	rs134613	1.0	1.0
+rs134613	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29477383	rs134613	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29482675	rs134637	1.0	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29482675	rs134637	1.0	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial			rs134637			rs134637	1.0	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29482675	rs134637	1.0	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29482675	rs134637	1.0	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29482675	rs134637	1.0	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29482675	rs134637	0.997766	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29482675	rs134637	1.0	1.0
+rs134637	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29482675	rs134637	0.995531	0.995531
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29473494	rs134601	22	29478373	rs134619	0.997766	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial			rs134619			rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29478373	rs134619	0.997766	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29478373	rs134619	0.997766	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29478373	rs134619	0.997766	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29478373	rs134619	0.997766	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29478373	rs134619	0.997766	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29478373	rs134619	1.0	1.0
+rs134619	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29478373	rs134619	0.997766	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial			rs134621			rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29478830	rs134621	0.997766	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29478830	rs134621	0.997766	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29478830	rs134621	0.997766	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29478830	rs134621	0.997766	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29478830	rs134621	0.997766	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29478830	rs134621	1.0	1.0
+rs134621	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29478830	rs134621	0.997766	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial			rs134623			rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29479192	rs134623	0.997766	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29479192	rs134623	0.997766	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29479192	rs134623	0.997766	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29479192	rs134623	0.997766	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29479192	rs134623	0.997766	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29479192	rs134623	1.0	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29479192	rs134623	0.997766	1.0
+rs134623	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29479192	rs134623	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial			rs134625			rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29479883	rs134625	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29479883	rs134625	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29479883	rs134625	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29479883	rs134625	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29479883	rs134625	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29479883	rs134625	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29479883	rs134625	1.0	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29479883	rs134625	0.997766	1.0
+rs134625	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29479883	rs134625	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29482154	rs134635	1.0	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial			rs134635			rs134635	1.0	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29482154	rs134635	1.0	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29482154	rs134635	1.0	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29482154	rs134635	1.0	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29482154	rs134635	1.0	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29482154	rs134635	0.997766	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29482154	rs134635	1.0	1.0
+rs134635	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29482154	rs134635	0.995531	0.995531
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29483059	rs134639	0.997766	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29483059	rs134639	1.0	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29483059	rs134639	1.0	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29483059	rs134639	1.0	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29483059	rs134639	1.0	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial			rs134639			rs134639	1.0	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29483059	rs134639	1.0	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29483059	rs134639	1.0	1.0
+rs134639	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29483059	rs134639	0.995531	0.995531
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29473883	rs134602	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29474076	rs134604	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29474276	rs134605	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29475123	rs134607	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29475582	rs134609	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29477383	rs134613	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial			rs134620			rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29478759	rs134620	0.997766	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29478759	rs134620	0.997766	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29478759	rs134620	0.997766	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29482724	rs134638	22	29478759	rs134620	0.997766	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29478759	rs134620	0.997766	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29478759	rs134620	1.0	1.0
+rs134620	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29478759	rs134620	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29478084	rs11272976	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29478078	rs112991290	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29478373	rs134619	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29478759	rs134620	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29478830	rs134621	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29479192	rs134623	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29479230	rs134624	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29479883	rs134625	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29479889	rs134626	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29480399	rs134629	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29480741	rs134630	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29481877	rs134632	22	29482724	rs134638	1.0	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29482154	rs134635	22	29482724	rs134638	1.0	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29482675	rs134637	22	29482724	rs134638	1.0	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial			rs134638			rs134638	1.0	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29483059	rs134639	22	29482724	rs134638	1.0	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29484609	rs134645	22	29482724	rs134638	1.0	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29477840	rs20037	22	29482724	rs134638	0.997766	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29483919	rs2049939	22	29482724	rs134638	1.0	1.0
+rs134638	Bone mineral density mean	KREMEN1	spatial	22	29480904	rs5762980	22	29482724	rs134638	0.995531	0.995531
+rs131752	Metabolite levels (2'-deoxyuridine; __deoxyuridine)	CHKB	spatial	22	51025598	rs131745	22	51023423	rs131752	0.939998	1.0
+rs131752	Metabolite levels (2'-deoxyuridine; __deoxyuridine)	CHKB	spatial	22	51025594	rs131746	22	51023423	rs131752	0.939998	1.0
+rs131752	Metabolite levels (2'-deoxyuridine; __deoxyuridine)	CHKB	spatial	22	51024836	rs131748	22	51023423	rs131752	0.923857	0.995637
+rs131752	Metabolite levels (2'-deoxyuridine; __deoxyuridine)	CHKB	spatial			rs131752			rs131752	1.0	1.0
+rs131752	Metabolite levels (2'-deoxyuridine; __deoxyuridine)	CHKB	spatial	22	51021598	rs131756	22	51023423	rs131752	0.960817	1.0

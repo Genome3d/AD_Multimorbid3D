@@ -1,0 +1,298 @@
+snp	trait	gene	eqtl_type	chromq	posq	rsidq	chromt	post	rsidt	corr	dprime
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29921541	rs111867975	6	29918098	rs2517713	0.970798	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29914705	rs1961135	6	29918098	rs2517713	0.995735	0.995735
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29918435	rs2508037	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919658	rs2517706	6	29918098	rs2517713	0.983075	0.995694
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919420	rs2517709	6	29918098	rs2517713	0.976835	0.995673
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29918295	rs2517710	6	29918098	rs2517713	0.991524	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial			rs2517713			rs2517713	1.0	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29917259	rs2517716	6	29918098	rs2517713	0.972842	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29915886	rs2517720	6	29918098	rs2517713	0.950008	0.98683
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29915329	rs2517722	6	29918098	rs2517713	0.995735	0.995735
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29915267	rs2517723	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29914033	rs2523954	6	29918098	rs2517713	0.991488	0.995721
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29914949	rs2524037	6	29918098	rs2517713	1.0	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29914314	rs2571383	6	29918098	rs2517713	0.997868	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29917359	rs2735094	6	29918098	rs2517713	0.983155	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29918683	rs2916806	6	29918098	rs2517713	0.995735	0.995735
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29918769	rs2916807	6	29918098	rs2517713	0.995735	0.995735
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29920548	rs2916809	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29920535	rs2975042	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29918733	rs2975043	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29914376	rs376646	6	29918098	rs2517713	0.995735	0.995735
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29914499	rs396379	6	29918098	rs2517713	0.997868	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29916504	rs417162	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29922072	rs5027910	6	29918098	rs2517713	0.968761	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29922176	rs5027912	6	29918098	rs2517713	0.972842	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29922198	rs5027913	6	29918098	rs2517713	0.970798	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919773	rs7747114	6	29918098	rs2517713	0.991469	0.991469
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29922886	rs7763507	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29913753	rs9260217	6	29918098	rs2517713	0.987198	0.991423
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29913757	rs9260218	6	29918098	rs2517713	0.987198	0.991423
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29913758	rs9260219	6	29918098	rs2517713	0.917458	0.995455
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29913759	rs9260220	6	29918098	rs2517713	0.987198	0.991423
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29913943	rs9260223	6	29918098	rs2517713	0.997868	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29913947	rs9260224	6	29918098	rs2517713	0.997868	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29916793	rs9260309	6	29918098	rs2517713	0.979011	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29916913	rs9260316	6	29918098	rs2517713	0.983155	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29917027	rs9260321	6	29918098	rs2517713	0.974892	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29918860	rs9260403	6	29918098	rs2517713	0.993608	0.995728
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29918916	rs9260408	6	29918098	rs2517713	0.993608	0.995728
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919009	rs9260413	6	29918098	rs2517713	0.995748	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919019	rs9260414	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919097	rs9260424	6	29918098	rs2517713	0.997871	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919861	rs9260463	6	29918098	rs2517713	0.991469	0.991469
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919863	rs9260464	6	29918098	rs2517713	0.989345	0.991456
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29919999	rs9260468	6	29918098	rs2517713	0.976739	0.991374
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29920237	rs9260483	6	29918098	rs2517713	0.989345	0.991456
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29920280	rs9260486	6	29918098	rs2517713	0.991469	0.991469
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29920331	rs9260489	6	29918098	rs2517713	0.987268	0.995707
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29920882	rs9260512	6	29918098	rs2517713	0.968761	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29921134	rs9260521	6	29918098	rs2517713	0.96233	0.991276
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29921157	rs9260524	6	29918098	rs2517713	0.964705	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29921219	rs9260530	6	29918098	rs2517713	0.954673	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29921772	rs9260555	6	29918098	rs2517713	0.970798	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29921821	rs9260559	6	29918098	rs2517713	0.968605	0.995645
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29921879	rs9260565	6	29918098	rs2517713	0.968605	0.995645
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29922390	rs9260579	6	29918098	rs2517713	0.98108	1.0
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29922652	rs9260599	6	29918098	rs2517713	0.993601	0.995723
+rs2517713	Nasopharyngeal carcinoma	HLA-A	spatial	6	29922994	rs9260614	6	29918098	rs2517713	0.991469	0.995711
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial			rs2860580			rs2860580	1.0	1.0
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907754	rs366907	6	29906690	rs2860580	0.909494	0.990879
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29906563	rs367077	6	29906690	rs2860580	0.901661	0.99078
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907695	rs387850	6	29906690	rs2860580	0.909494	0.990879
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29906771	rs414215	6	29906690	rs2860580	0.909494	0.990879
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29906511	rs428081	6	29906690	rs2860580	0.909494	0.990879
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907242	rs9260029	6	29906690	rs2860580	0.907533	0.990855
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907285	rs9260032	6	29906690	rs2860580	0.907533	0.990855
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907297	rs9260033	6	29906690	rs2860580	0.907533	0.990855
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907493	rs9260036	6	29906690	rs2860580	0.91368	0.99544
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907543	rs9260038	6	29906690	rs2860580	0.909494	0.990879
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29907597	rs9260040	6	29906690	rs2860580	0.909494	0.990879
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29908043	rs9260046	6	29906690	rs2860580	0.907533	0.990855
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29908543	rs9260063	6	29906690	rs2860580	0.90506	0.981856
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29908588	rs9260064	6	29906690	rs2860580	0.907274	0.986356
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29908589	rs9260065	6	29906690	rs2860580	0.907274	0.986356
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29908648	rs9260067	6	29906690	rs2860580	0.905856	0.99539
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29908837	rs9260072	6	29906690	rs2860580	0.911721	0.995427
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29908953	rs9260077	6	29906690	rs2860580	0.907809	0.995403
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909152	rs9260081	6	29906690	rs2860580	0.907809	0.995403
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909375	rs9260087	6	29906690	rs2860580	0.905856	0.99539
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909471	rs9260094	6	29906690	rs2860580	0.905856	0.99539
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909509	rs9260096	6	29906690	rs2860580	0.903616	0.990805
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909519	rs9260097	6	29906690	rs2860580	0.903616	0.990805
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909592	rs9260103	6	29906690	rs2860580	0.905799	0.995387
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909615	rs9260104	6	29906690	rs2860580	0.905856	0.99539
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909744	rs9260107	6	29906690	rs2860580	0.907809	0.995403
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909915	rs9260111	6	29906690	rs2860580	0.91368	0.99544
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29909917	rs9260112	6	29906690	rs2860580	0.91368	0.99544
+rs2860580	Nasopharyngeal carcinoma	HLA-A	spatial	6	29910026	rs9260115	6	29906690	rs2860580	0.911457	0.990904
+rs4665238	Neuroticism	UBXN2A	spatial	2	23943728	rs13387530	2	23942445	rs4665238	0.977684	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23945354	rs2081302	2	23942445	rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23939006	rs2113422	2	23942445	rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23942286	rs2113423	2	23942445	rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial			rs4665238			rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23943863	rs531948635	2	23942445	rs4665238	1.0	1.0
+rs7422667	Neuroticism	UBXN2A	spatial			rs7422667			rs7422667	1.0	1.0
+rs4665244	Neuroticism	UBXN2A	spatial			rs4665244			rs4665244	1.0	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44058110	rs2435206	17	44058927	rs2435207	0.979605	1.0
+rs2435207	Neuroticism	KANSL1	spatial			rs2435207			rs2435207	1.0	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44061892	rs2435209	17	44058927	rs2435207	0.966069	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44061893	rs2435210	17	44058927	rs2435207	0.966069	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44063243	rs2435211	17	44058927	rs2435207	0.954523	0.98575
+rs2016034	Neuroticism	KANSL1	spatial			rs2016034			rs2016034	1.0	1.0
+rs2016034	Neuroticism	KANSL1	spatial	17	44186951	rs9904766	17	44189597	rs2016034	0.99796	1.0
+rs17692129	Neuroticism	KANSL1	spatial			rs17692129			rs17692129	1.0	1.0
+rs60521849	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs60521849			rs60521849	1.0	1.0
+rs60521849	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial	17	44175488	rs8065825	17	44172811	rs60521849	0.985049	0.99139
+rs10514889	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs10514889			rs10514889	1.0	1.0
+rs10514889	Waist-hip index	KANSL1	spatial			rs10514889			rs10514889	1.0	1.0
+rs12051901	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs12051901			rs12051901	1.0	1.0
+rs12051901	Waist-hip index	KANSL1	spatial			rs12051901			rs12051901	1.0	1.0
+rs9904766	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial	17	44182266	rs11652924	17	44186951	rs9904766	1.0	1.0
+rs9904766	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial	17	44189597	rs2016034	17	44186951	rs9904766	0.99796	1.0
+rs9904766	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs9904766			rs9904766	1.0	1.0
+rs9904766	Waist-hip index	KANSL1	spatial	17	44182266	rs11652924	17	44186951	rs9904766	1.0	1.0
+rs9904766	Waist-hip index	KANSL1	spatial	17	44189597	rs2016034	17	44186951	rs9904766	0.99796	1.0
+rs9904766	Waist-hip index	KANSL1	spatial			rs9904766			rs9904766	1.0	1.0
+rs62074125	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs62074125			rs62074125	1.0	1.0
+rs62074125	Waist-hip index	KANSL1	spatial			rs62074125			rs62074125	1.0	1.0
+rs62074125	Reaction time	KANSL1	spatial			rs62074125			rs62074125	1.0	1.0
+rs11653367	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs11653367			rs11653367	1.0	1.0
+rs11653367	Waist-hip index	KANSL1	spatial			rs11653367			rs11653367	1.0	1.0
+rs2517827	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial			rs2517827			rs2517827	1.0	1.0
+rs2517827	Waist-hip index	HLA-A	spatial			rs2517827			rs2517827	1.0	1.0
+rs2248162	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial			rs2248162			rs2248162	1.0	1.0
+rs2189373	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial			rs2189373			rs2189373	1.0	1.0
+rs11656151	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs11656151			rs11656151	1.0	1.0
+rs11656151	Waist-hip index	KANSL1	spatial			rs11656151			rs11656151	1.0	1.0
+rs62063286	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial			rs62063286			rs62063286	1.0	1.0
+rs62063286	Waist-to-hip ratio adjusted for BMI	KANSL1	spatial	17	44041991	rs62063287	17	44041986	rs62063286	1.0	1.0
+rs1611284	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial	6	29730001	rs1611282	6	29730847	rs1611284	1.0	1.0
+rs1611284	Waist-hip index	HLA-A	spatial	6	29730001	rs1611282	6	29730847	rs1611284	1.0	1.0
+rs9260603	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial	6	29917880	rs2517714	6	29922753	rs9260603	0.932196	1.0
+rs9260603	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial	6	29924385	rs2571393	6	29922753	rs9260603	0.921599	0.978705
+rs9260603	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial	6	29924358	rs2735089	6	29922753	rs9260603	0.919494	0.974504
+rs9260603	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial			rs9260603			rs9260603	1.0	1.0
+rs9260603	Waist-hip index	HLA-A	spatial	6	29917880	rs2517714	6	29922753	rs9260603	0.932196	1.0
+rs9260603	Waist-hip index	HLA-A	spatial	6	29924385	rs2571393	6	29922753	rs9260603	0.921599	0.978705
+rs9260603	Waist-hip index	HLA-A	spatial	6	29924358	rs2735089	6	29922753	rs9260603	0.919494	0.974504
+rs9260603	Waist-hip index	HLA-A	spatial			rs9260603			rs9260603	1.0	1.0
+rs407238	Waist-to-hip ratio adjusted for BMI	HLA-A	spatial			rs407238			rs407238	1.0	1.0
+rs407238	Waist-hip index	HLA-A	spatial			rs407238			rs407238	1.0	1.0
+rs2428503	Waist-hip index	HLA-A	spatial	6	30170969	rs1117487	6	30167834	rs2428503	0.97999	1.0
+rs2428503	Waist-hip index	HLA-A	spatial	6	30171416	rs2517608	6	30167834	rs2428503	0.986558	1.0
+rs2428503	Waist-hip index	HLA-A	spatial	6	30171368	rs2523714	6	30167834	rs2428503	0.97999	1.0
+rs2428503	Waist-hip index	HLA-A	spatial	6	30166265	rs2523721	6	30167834	rs2428503	0.97999	1.0
+rs9261259	Waist-hip index	HLA-A	spatial			rs9261259			rs9261259	1.0	1.0
+rs9896485	Waist-hip index	KANSL1	spatial	17	44051403	rs10514889	17	44050827	rs9896485	1.0	1.0
+rs2532345	Reaction time	KANSL1	spatial	17	44345427	rs2532341	17	44343901	rs2532345	-0.969181	-0.976104
+rs2532345	Reaction time	KANSL1	spatial			rs2532345			rs2532345	1.0	1.0
+rs35937770	Reaction time	KANSL1	spatial			rs35937770			rs35937770	1.0	1.0
+rs925229	Reaction time	UBXN2A	spatial			rs925229			rs925229	1.0	1.0
+rs242562	Reaction time	KANSL1	spatial			rs242562			rs242562	1.0	1.0
+rs6503453	Reaction time	KANSL1	spatial			rs6503453			rs6503453	1.0	1.0
+rs8079215	Reaction time	KANSL1	spatial			rs8079215			rs8079215	1.0	1.0
+rs2471738	Reaction time	KANSL1	spatial			rs2471738			rs2471738	1.0	1.0
+rs4988900	Reaction time	KANSL1	spatial			rs4988900			rs4988900	1.0	1.0
+rs34336178	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial			rs34336178			rs34336178	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45604339	rs10452026	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45604502	rs10452027	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial			rs13075111			rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45604158	rs13075121	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45603810	rs1600905	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45603943	rs1600906	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45609074	rs2003879	3	45604130	rs13075111	0.934592	0.9741
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45604689	rs2083242	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45602835	rs35345735	3	45604130	rs13075111	0.977402	0.983449
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45606723	rs35869597	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45603879	rs36072568	3	45604130	rs13075111	1.0	1.0
+rs13075111	Tanner 3 to Tanner 4 pubertal stage transition (joint longitudinal BMI and survival model)	LARS2	spatial	3	45603309	rs71617895	3	45604130	rs13075111	0.997948	1.0
+rs4937459	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial			rs4937459			rs4937459	1.0	1.0
+rs4937459	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129657980	rs4937460	11	129653100	rs4937459	0.99573	0.99573
+rs4937460	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129660014	rs36004029	11	129657980	rs4937460	0.997868	1.0
+rs4937460	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129653100	rs4937459	11	129657980	rs4937460	0.99573	0.99573
+rs4937460	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial			rs4937460			rs4937460	1.0	1.0
+rs12964	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial			rs12964			rs12964	1.0	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6561602	rs151118790	12	6564209	rs2532497	0.978548	0.985579
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6562284	rs2041384	12	6564209	rs2532497	0.997607	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6562292	rs2041385	12	6564209	rs2532497	0.997607	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6562822	rs2041387	12	6564209	rs2532497	0.971832	0.995145
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6562835	rs2041388	12	6564209	rs2532497	0.997607	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6563847	rs2079866	12	6564209	rs2532497	1.0	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6567786	rs2243750	12	6564209	rs2532497	0.974285	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6564447	rs2532496	12	6564209	rs2532497	0.974285	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial			rs2532497			rs2532497	1.0	1.0
+rs2532497	Tapasin-related protein levels (TAPBPL.6364.7.3)	VAMP1	spatial	12	6568571	rs2534709	12	6564209	rs2532497	0.974285	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29921541	rs111867975	6	29918733	rs2975043	0.97287	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29914705	rs1961135	6	29918733	rs2975043	0.997871	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29918435	rs2508037	6	29918733	rs2975043	1.0	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919658	rs2517706	6	29918733	rs2975043	0.985184	0.995705
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919420	rs2517709	6	29918733	rs2975043	0.978931	0.995685
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29918295	rs2517710	6	29918733	rs2975043	0.99364	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29918098	rs2517713	6	29918733	rs2975043	0.997871	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29917259	rs2517716	6	29918733	rs2975043	0.970684	0.995657
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29915886	rs2517720	6	29918733	rs2975043	0.952069	0.986865
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29915329	rs2517722	6	29918733	rs2975043	0.997871	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29915267	rs2517723	6	29918733	rs2975043	1.0	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29914033	rs2523954	6	29918733	rs2975043	0.993615	0.995733
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29914949	rs2524037	6	29918733	rs2975043	0.997871	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29914314	rs2571383	6	29918733	rs2975043	0.995744	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29917359	rs2735094	6	29918733	rs2975043	0.981009	0.995692
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29923579	rs2844810	6	29918733	rs2975043	0.997873	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29918683	rs2916806	6	29918733	rs2975043	0.997871	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29918769	rs2916807	6	29918733	rs2975043	0.997871	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29920548	rs2916809	6	29918733	rs2975043	0.995739	0.995739
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29920535	rs2975042	6	29918733	rs2975043	0.995739	0.995739
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial			rs2975043			rs2975043	1.0	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29914376	rs376646	6	29918733	rs2975043	0.997871	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29914499	rs396379	6	29918733	rs2975043	0.995744	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29916504	rs417162	6	29918733	rs2975043	1.0	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29922072	rs5027910	6	29918733	rs2975043	0.970828	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29922176	rs5027912	6	29918733	rs2975043	0.970684	0.995657
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29922198	rs5027913	6	29918733	rs2975043	0.97287	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919773	rs7747114	6	29918733	rs2975043	0.993608	0.995728
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29922886	rs7763507	6	29918733	rs2975043	0.995739	0.995739
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29913753	rs9260217	6	29918733	rs2975043	0.985083	0.991409
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29913757	rs9260218	6	29918733	rs2975043	0.985083	0.991409
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29913758	rs9260219	6	29918733	rs2975043	0.91524	0.990934
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29913759	rs9260220	6	29918733	rs2975043	0.985083	0.991409
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29913943	rs9260223	6	29918733	rs2975043	0.995744	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29913947	rs9260224	6	29918733	rs2975043	0.995744	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29916793	rs9260309	6	29918733	rs2975043	0.976859	0.995678
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29916913	rs9260316	6	29918733	rs2975043	0.985253	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29917027	rs9260321	6	29918733	rs2975043	0.972736	0.995664
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29918860	rs9260403	6	29918733	rs2975043	0.995739	0.995739
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29918916	rs9260408	6	29918733	rs2975043	0.995739	0.995739
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919009	rs9260413	6	29918733	rs2975043	0.997873	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919019	rs9260414	6	29918733	rs2975043	0.995739	0.995739
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919097	rs9260424	6	29918733	rs2975043	1.0	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919861	rs9260463	6	29918733	rs2975043	0.989345	0.991456
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919863	rs9260464	6	29918733	rs2975043	0.991479	0.991479
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29919999	rs9260468	6	29918733	rs2975043	0.974599	0.987095
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29920237	rs9260483	6	29918733	rs2975043	0.991479	0.991479
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29920280	rs9260486	6	29918733	rs2975043	0.989345	0.991456
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29920331	rs9260489	6	29918733	rs2975043	0.989386	0.995719
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29920882	rs9260512	6	29918733	rs2975043	0.970828	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29921134	rs9260521	6	29918733	rs2975043	0.964406	0.9913
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29921157	rs9260524	6	29918733	rs2975043	0.966764	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29921219	rs9260530	6	29918733	rs2975043	0.95671	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29921772	rs9260555	6	29918733	rs2975043	0.968638	0.99565
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29921821	rs9260559	6	29918733	rs2975043	0.970684	0.995657
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29921879	rs9260565	6	29918733	rs2975043	0.96645	0.991314
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29922390	rs9260579	6	29918733	rs2975043	0.983173	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29922652	rs9260599	6	29918733	rs2975043	0.995744	1.0
+rs2975043	Rheumatoid arthritis or multiple sclerosis	HLA-A	spatial	6	29922994	rs9260614	6	29918733	rs2975043	0.993619	1.0
+rs213204	Rheumatoid arthritis or multiple sclerosis	TAPBP	spatial			rs213204			rs213204	1.0	1.0
+rs213204	Rheumatoid arthritis or multiple sclerosis	TAPBP	spatial	6	33241142	rs213206	6	33241075	rs213204	0.993711	1.0
+rs9461856	Rheumatoid arthritis or multiple sclerosis	TAPBP	spatial			rs9461856			rs9461856	1.0	1.0
+rs1655901	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial			rs1655901			rs1655901	1.0	1.0
+rs1611637	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29833663	rs2844824	6	29836740	rs1611637	0.908392	1.0
+rs17185992	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29923187	rs9260625	6	29918635	rs17185992	0.994969	1.0
+rs17185992	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29923188	rs9260626	6	29918635	rs17185992	0.994969	1.0
+rs1611739	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29831797	rs1611739	0.899859	1.0
+rs1737077	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29728569	rs1610629	6	29725294	rs1737077	0.993537	0.993537
+rs1737077	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29730184	rs1610633	6	29725294	rs1737077	0.993537	0.993537
+rs1737077	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29729923	rs1610729	6	29725294	rs1737077	0.993537	0.993537
+rs1737077	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29726045	rs1633063	6	29725294	rs1737077	1.0	1.0
+rs1633063	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29728569	rs1610629	6	29726045	rs1633063	0.993537	0.993537
+rs1633063	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29730184	rs1610633	6	29726045	rs1633063	0.993537	0.993537
+rs1633063	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29729923	rs1610729	6	29726045	rs1633063	0.993537	0.993537
+rs1633063	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial			rs1633063			rs1633063	1.0	1.0
+rs1610629	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial			rs1610629			rs1610629	1.0	1.0
+rs1610629	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29730184	rs1610633	6	29728569	rs1610629	1.0	1.0
+rs1610629	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29729923	rs1610729	6	29728569	rs1610629	1.0	1.0
+rs1610629	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29726045	rs1633063	6	29728569	rs1610629	0.993537	0.993537
+rs1610729	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29728569	rs1610629	6	29729923	rs1610729	1.0	1.0
+rs1610729	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29730184	rs1610633	6	29729923	rs1610729	1.0	1.0
+rs1610729	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial			rs1610729			rs1610729	1.0	1.0
+rs1610729	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29726045	rs1633063	6	29729923	rs1610729	0.993537	0.993537
+rs1610633	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29728569	rs1610629	6	29730184	rs1610633	1.0	1.0
+rs1610633	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial			rs1610633			rs1610633	1.0	1.0
+rs1610633	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29729923	rs1610729	6	29730184	rs1610633	1.0	1.0
+rs1610633	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29726045	rs1633063	6	29730184	rs1610633	0.993537	0.993537
+rs17188226	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	30171299	rs28360014	6	30168495	rs17188226	1.0	1.0
+rs1611747	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial			rs1611747			rs1611747	1.0	1.0
+rs1611700	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29827787	rs1611700	0.899859	1.0
+rs1611699	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29827752	rs1611699	0.899859	1.0
+rs1611710	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29828915	rs1611710	0.901717	1.0
+rs1611742	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29832042	rs1611742	0.898007	1.0
+rs1611709	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29828885	rs1611709	0.901717	1.0
+rs1611707	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29828668	rs1611707	0.901717	1.0
+rs1611708	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29828743	rs1611708	0.901717	1.0
+rs1611705	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29828492	rs1611705	0.901717	1.0
+rs1611743	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29832045	rs1611743	0.898007	1.0
+rs1611711	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29829107	rs1611711	0.901717	1.0
+rs1611717	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29829576	rs1611717	0.901717	1.0
+rs1611720	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29829993	rs1611720	0.901717	1.0
+rs1611737	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29831570	rs1611737	0.901717	1.0
+rs1611732	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29831007	rs1611732	0.901717	1.0
+rs1611724	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29830569	rs1611724	0.901717	1.0
+rs1611729	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29830822	rs1611729	0.901717	1.0
+rs1611728	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29832694	rs1611747	6	29830799	rs1611728	0.901717	1.0
+rs1610601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial			rs1610601			rs1610601	1.0	1.0
+rs1610601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29697756	rs1633106	6	29700182	rs1610601	0.94027	0.973691
+rs1610601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29697472	rs1633107	6	29700182	rs1610601	0.947057	0.986813
+rs1610601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29696851	rs885945	6	29700182	rs1610601	0.993506	1.0
+rs1610601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29696656	rs885946	6	29700182	rs1610601	0.993506	1.0
+rs1610601	Hypothyroidism or rheumatoid arthritis (pleiotropy)	HLA-A	spatial	6	29696655	rs885947	6	29700182	rs1610601	0.944129	0.986796
