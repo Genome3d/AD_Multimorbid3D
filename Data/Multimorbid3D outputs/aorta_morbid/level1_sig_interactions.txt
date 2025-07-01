@@ -1,0 +1,222 @@
+snp	trait	gene	eqtl_type	chromq	posq	rsidq	chromt	post	rsidt	corr	dprime
+rs7587476	Neuroblastoma	BARD1	spatial	2	215648984	rs147923087	2	215653886	rs7587476	-0.953304	-1.0
+rs7587476	Neuroblastoma	BARD1	spatial	2	215657559	rs1542173	2	215653886	rs7587476	0.996902	1.0
+rs7587476	Neuroblastoma	BARD1	spatial	2	215651749	rs17488049	2	215653886	rs7587476	-0.953304	-1.0
+rs7587476	Neuroblastoma	BARD1	spatial	2	215656167	rs2121285	2	215653886	rs7587476	1.0	1.0
+rs7587476	Neuroblastoma	BARD1	spatial	2	215658846	rs2734675	2	215653886	rs7587476	0.987676	0.99379
+rs7587476	Neuroblastoma	BARD1	spatial	2	215658637	rs62201985	2	215653886	rs7587476	-0.940502	-0.980139
+rs7587476	Neuroblastoma	BARD1	spatial			rs7587476			rs7587476	1.0	1.0
+rs3768716	Neuroblastoma	BARD1	spatial	2	215637504	rs3768713	2	215635793	rs3768716	1.0	1.0
+rs3768716	Neuroblastoma	BARD1	spatial			rs3768716			rs3768716	1.0	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215672460	rs11281926	2	215674089	rs35933323	0.961408	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215674322	rs1129804	2	215674089	rs35933323	0.994852	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215673217	rs11463562	2	215674089	rs35933323	0.997432	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215673936	rs13021937	2	215674089	rs35933323	1.0	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215673738	rs17489231	2	215674089	rs35933323	0.992335	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215674340	rs17489363	2	215674089	rs35933323	0.994852	1.0
+rs35933323	Neuroblastoma	BARD1	spatial			rs35933323			rs35933323	1.0	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215672545	rs6435862	2	215674089	rs35933323	0.961408	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215673439	rs6715570	2	215674089	rs35933323	1.0	1.0
+rs35933323	Neuroblastoma	BARD1	spatial	2	215671316	rs6720708	2	215674089	rs35933323	0.958836	1.0
+rs61463699	Sitting height ratio	UBXN2A	spatial	2	23951107	rs56917371	2	23950972	rs61463699	0.995958	1.0
+rs61463699	Sitting height ratio	UBXN2A	spatial			rs61463699			rs61463699	1.0	1.0
+rs61463699	Sitting height ratio	UBXN2A	spatial	2	23948585	rs7608282	2	23950972	rs61463699	0.932938	0.983034
+rs61463699	Sitting height ratio	UBXN2A	spatial	2	23953832	rs9798012	2	23950972	rs61463699	0.995958	1.0
+rs60490158	Sitting height ratio	UBXN2A	spatial	2	24173166	rs13009856	2	24168187	rs60490158	0.997972	1.0
+rs60490158	Sitting height ratio	UBXN2A	spatial	2	24163299	rs138426303	2	24168187	rs60490158	0.997972	1.0
+rs60490158	Sitting height ratio	UBXN2A	spatial	2	24164128	rs4488614	2	24168187	rs60490158	0.997972	1.0
+rs60490158	Sitting height ratio	UBXN2A	spatial			rs60490158			rs60490158	1.0	1.0
+rs60490158	Sitting height ratio	UBXN2A	spatial	2	24167267	rs7558300	2	24168187	rs60490158	0.997972	1.0
+rs35832626	Sitting height ratio	UBXN2A	spatial			rs35832626			rs35832626	1.0	1.0
+rs35832626	Sitting height ratio	UBXN2A	spatial	2	24054631	rs6734395	2	24054646	rs35832626	0.934111	0.995612
+rs4665238	Neuroticism	UBXN2A	spatial	2	23943728	rs13387530	2	23942445	rs4665238	0.977684	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23945354	rs2081302	2	23942445	rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23939006	rs2113422	2	23942445	rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23942286	rs2113423	2	23942445	rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial			rs4665238			rs4665238	1.0	1.0
+rs4665238	Neuroticism	UBXN2A	spatial	2	23943863	rs531948635	2	23942445	rs4665238	1.0	1.0
+rs7422667	Neuroticism	UBXN2A	spatial			rs7422667			rs7422667	1.0	1.0
+rs4665244	Neuroticism	UBXN2A	spatial			rs4665244			rs4665244	1.0	1.0
+rs6795372	Neuroticism	MSL2	spatial			rs6795372			rs6795372	1.0	1.0
+rs6795372	Neuroticism	MSL2	spatial	3	136487988	rs9853960	3	136483889	rs6795372	0.968529	1.0
+rs17698176	Neuroticism	KANSL1	spatial			rs17698176			rs17698176	1.0	1.0
+rs17698176	Occipital area (unadjusted for global measures)	KANSL1	spatial			rs17698176			rs17698176	1.0	1.0
+rs35909029	Neuroticism	KANSL1	spatial	17	43855155	rs4074461	17	43851497	rs35909029	-0.91219	-0.995651
+rs3785879	Neuroticism	KANSL1	spatial			rs3785879			rs3785879	1.0	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44058110	rs2435206	17	44058927	rs2435207	0.979605	1.0
+rs2435207	Neuroticism	KANSL1	spatial			rs2435207			rs2435207	1.0	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44061892	rs2435209	17	44058927	rs2435207	0.966069	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44061893	rs2435210	17	44058927	rs2435207	0.966069	1.0
+rs2435207	Neuroticism	KANSL1	spatial	17	44063243	rs2435211	17	44058927	rs2435207	0.954523	0.98575
+rs2016034	Neuroticism	KANSL1	spatial			rs2016034			rs2016034	1.0	1.0
+rs2016034	Neuroticism	KANSL1	spatial	17	44186951	rs9904766	17	44189597	rs2016034	0.99796	1.0
+rs17692129	Neuroticism	KANSL1	spatial			rs17692129			rs17692129	1.0	1.0
+rs7209589	Reaction time	KANSL1	spatial			rs7209589			rs7209589	1.0	1.0
+rs10775404	Reaction time	KANSL1	spatial			rs10775404			rs10775404	1.0	1.0
+rs2532345	Reaction time	KANSL1	spatial	17	44345427	rs2532341	17	44343901	rs2532345	-0.969181	-0.976104
+rs2532345	Reaction time	KANSL1	spatial			rs2532345			rs2532345	1.0	1.0
+rs35937770	Reaction time	KANSL1	spatial			rs35937770			rs35937770	1.0	1.0
+rs925229	Reaction time	UBXN2A	spatial			rs925229			rs925229	1.0	1.0
+rs11079727	Reaction time	KANSL1	spatial	17	43974146	rs3785878	17	43976812	rs11079727	0.907823	1.0
+rs242562	Reaction time	KANSL1	spatial			rs242562			rs242562	1.0	1.0
+rs6503453	Reaction time	KANSL1	spatial			rs6503453			rs6503453	1.0	1.0
+rs8079215	Reaction time	KANSL1	spatial			rs8079215			rs8079215	1.0	1.0
+rs2471738	Reaction time	KANSL1	spatial			rs2471738			rs2471738	1.0	1.0
+rs2471738	Occipital area (unadjusted for global measures)	KANSL1	spatial			rs2471738			rs2471738	1.0	1.0
+rs4988900	Reaction time	KANSL1	spatial			rs4988900			rs4988900	1.0	1.0
+rs3874943	Reaction time	KANSL1	spatial	17	44572072	rs3874942	17	44572067	rs3874943	1.0	1.0
+rs3874943	Reaction time	KANSL1	spatial			rs3874943			rs3874943	1.0	1.0
+rs62074125	Reaction time	KANSL1	spatial			rs62074125			rs62074125	1.0	1.0
+rs6751857	Reaction time	UBXN2A	spatial			rs6751857			rs6751857	1.0	1.0
+rs7566727	Reaction time	UBXN2A	spatial	2	24093474	rs11125284	2	24097388	rs7566727	0.997969	1.0
+rs7566727	Reaction time	UBXN2A	spatial	2	24093499	rs140611649	2	24097388	rs7566727	0.997969	1.0
+rs7566727	Reaction time	UBXN2A	spatial	2	24093305	rs2339883	2	24097388	rs7566727	0.997969	1.0
+rs7566727	Reaction time	UBXN2A	spatial			rs7566727			rs7566727	1.0	1.0
+rs12613951	Reaction time	UBXN2A	spatial			rs12613951			rs12613951	1.0	1.0
+rs12613951	Reaction time	UBXN2A	spatial	2	24364008	rs13020405	2	24361961	rs12613951	0.996011	1.0
+rs12613951	Reaction time	UBXN2A	spatial	2	24358651	rs13035774	2	24361961	rs12613951	1.0	1.0
+rs4937460	GM3 ganglioside (d18:1/22:0) levels	NFRKB	spatial	11	129660014	rs36004029	11	129657980	rs4937460	0.997868	1.0
+rs4937460	GM3 ganglioside (d18:1/22:0) levels	NFRKB	spatial	11	129653100	rs4937459	11	129657980	rs4937460	0.99573	0.99573
+rs4937460	GM3 ganglioside (d18:1/22:0) levels	NFRKB	spatial			rs4937460			rs4937460	1.0	1.0
+rs4937460	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129660014	rs36004029	11	129657980	rs4937460	0.997868	1.0
+rs4937460	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129653100	rs4937459	11	129657980	rs4937460	0.99573	0.99573
+rs4937460	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial			rs4937460			rs4937460	1.0	1.0
+rs2562249	GM3 ganglioside (d18:1/22:0) levels	NFRKB	spatial	11	129718194	rs2266105	11	129723105	rs2562249	0.992785	0.992785
+rs2562249	GM3 ganglioside (d18:1/22:0) levels	NFRKB	spatial			rs2562249			rs2562249	1.0	1.0
+rs2562249	GM3 ganglioside (d18:1/22:0) levels	NFRKB	spatial	11	129722552	rs558813	11	129723105	rs2562249	1.0	1.0
+rs2562249	GM3 ganglioside (d18:1/22:0) levels	NFRKB	spatial	11	129723020	rs692311	11	129723105	rs2562249	0.989313	1.0
+rs2562249	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129718194	rs2266105	11	129723105	rs2562249	0.992785	0.992785
+rs2562249	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial			rs2562249			rs2562249	1.0	1.0
+rs2562249	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129722552	rs558813	11	129723105	rs2562249	1.0	1.0
+rs2562249	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129723020	rs692311	11	129723105	rs2562249	0.989313	1.0
+rs2562249	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial	11	129718194	rs2266105	11	129723105	rs2562249	0.992785	0.992785
+rs2562249	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial			rs2562249			rs2562249	1.0	1.0
+rs2562249	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial	11	129722552	rs558813	11	129723105	rs2562249	1.0	1.0
+rs2562249	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial	11	129723020	rs692311	11	129723105	rs2562249	0.989313	1.0
+rs4937459	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial			rs4937459			rs4937459	1.0	1.0
+rs4937459	GM3 ganglioside (d18:1/24:0) levels	NFRKB	spatial	11	129657980	rs4937460	11	129653100	rs4937459	0.99573	0.99573
+rs261298	Phosphatidylethanolamine(36:4)_[M+H]1+ levels	INO80	spatial			rs261298			rs261298	1.0	1.0
+rs261298	Phosphatidylethanolamine(36:4)_[M+H]1+ levels	INO80	spatial	15	58686251	rs261299	15	58686156	rs261298	0.99403	1.0
+rs261298	Phosphatidylethanolamine(36:4)_[M-H]1- levels	INO80	spatial			rs261298			rs261298	1.0	1.0
+rs261298	Phosphatidylethanolamine(36:4)_[M-H]1- levels	INO80	spatial	15	58686251	rs261299	15	58686156	rs261298	0.99403	1.0
+rs261298	Phosphatidylcholine(33:2)_[M+H]1+/Phosphatidylethanolamine(36:2)_[M+H]1+/Phosphatidate(38:3)_[M+NH4]1+ levels	INO80	spatial			rs261298			rs261298	1.0	1.0
+rs261298	Phosphatidylcholine(33:2)_[M+H]1+/Phosphatidylethanolamine(36:2)_[M+H]1+/Phosphatidate(38:3)_[M+NH4]1+ levels	INO80	spatial	15	58686251	rs261299	15	58686156	rs261298	0.99403	1.0
+rs261299	Phosphatidylethanolamine(36:4)_[M+H]1+ levels	INO80	spatial	15	58686156	rs261298	15	58686251	rs261299	0.99403	1.0
+rs261299	Phosphatidylethanolamine(36:4)_[M+H]1+ levels	INO80	spatial			rs261299			rs261299	1.0	1.0
+rs261299	Phosphatidylethanolamine(36:4)_[M-H]1- levels	INO80	spatial	15	58686156	rs261298	15	58686251	rs261299	0.99403	1.0
+rs261299	Phosphatidylethanolamine(36:4)_[M-H]1- levels	INO80	spatial			rs261299			rs261299	1.0	1.0
+rs261299	Phosphatidylcholine(33:2)_[M+H]1+/Phosphatidylethanolamine(36:2)_[M+H]1+/Phosphatidate(38:3)_[M+NH4]1+ levels	INO80	spatial	15	58686156	rs261298	15	58686251	rs261299	0.99403	1.0
+rs261299	Phosphatidylcholine(33:2)_[M+H]1+/Phosphatidylethanolamine(36:2)_[M+H]1+/Phosphatidate(38:3)_[M+NH4]1+ levels	INO80	spatial			rs261299			rs261299	1.0	1.0
+rs415799	Phosphatidylethanolamine(36:4)_[M+H]1+ levels	INO80	spatial	15	58686156	rs261298	15	58690753	rs415799	0.924253	0.935383
+rs415799	Phosphatidylethanolamine(36:4)_[M+H]1+ levels	INO80	spatial	15	58686251	rs261299	15	58690753	rs415799	0.918244	0.923754
+rs415799	Phosphatidylethanolamine(36:4)_[M-H]1- levels	INO80	spatial	15	58686156	rs261298	15	58690753	rs415799	0.924253	0.935383
+rs415799	Phosphatidylethanolamine(36:4)_[M-H]1- levels	INO80	spatial	15	58686251	rs261299	15	58690753	rs415799	0.918244	0.923754
+rs415799	Phosphatidylcholine(33:2)_[M+H]1+/Phosphatidylethanolamine(36:2)_[M+H]1+/Phosphatidate(38:3)_[M+NH4]1+ levels	INO80	spatial	15	58686156	rs261298	15	58690753	rs415799	0.924253	0.935383
+rs415799	Phosphatidylcholine(33:2)_[M+H]1+/Phosphatidylethanolamine(36:2)_[M+H]1+/Phosphatidate(38:3)_[M+NH4]1+ levels	INO80	spatial	15	58686251	rs261299	15	58690753	rs415799	0.918244	0.923754
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54631377	rs171703	-0.945073	-0.990218
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54631377	rs171703	-0.949788	-1.0
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial			rs171703			rs171703	1.0	1.0
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54631377	rs171703	0.952632	0.990895
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54631377	rs171703	-0.972822	-0.981688
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54631377	rs171703	1.0	1.0
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54631377	rs171703	0.995489	1.0
+rs171703	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54631377	rs171703	-0.949788	-1.0
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54631377	rs171703	-0.945073	-0.990218
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54631377	rs171703	-0.949788	-1.0
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial			rs171703			rs171703	1.0	1.0
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54631377	rs171703	0.952632	0.990895
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54631377	rs171703	-0.972822	-0.981688
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54631377	rs171703	1.0	1.0
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54631377	rs171703	0.995489	1.0
+rs171703	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54631377	rs171703	-0.949788	-1.0
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54632351	rs608608	-0.945073	-0.990218
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54632351	rs608608	-0.949788	-1.0
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54632351	rs608608	1.0	1.0
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54632351	rs608608	0.952632	0.990895
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54632351	rs608608	-0.972822	-0.981688
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial			rs608608			rs608608	1.0	1.0
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54632351	rs608608	0.995489	1.0
+rs608608	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54632351	rs608608	-0.949788	-1.0
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54632351	rs608608	-0.945073	-0.990218
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54632351	rs608608	-0.949788	-1.0
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54632351	rs608608	1.0	1.0
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54632351	rs608608	0.952632	0.990895
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54632351	rs608608	-0.972822	-0.981688
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial			rs608608			rs608608	1.0	1.0
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54632351	rs608608	0.995489	1.0
+rs608608	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54632351	rs608608	-0.949788	-1.0
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54632422	rs655240	-0.939999	-0.980458
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54632422	rs655240	-0.944689	-0.990145
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54632422	rs655240	0.995489	1.0
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54632422	rs655240	0.948266	0.990823
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54632422	rs655240	-0.968147	-0.972564
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54632422	rs655240	0.995489	1.0
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial			rs655240			rs655240	1.0	1.0
+rs655240	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54632422	rs655240	-0.944689	-0.990145
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54632422	rs655240	-0.939999	-0.980458
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54632422	rs655240	-0.944689	-0.990145
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54632422	rs655240	0.995489	1.0
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54632422	rs655240	0.948266	0.990823
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54632422	rs655240	-0.968147	-0.972564
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54632422	rs655240	0.995489	1.0
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial			rs655240			rs655240	1.0	1.0
+rs655240	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54632422	rs655240	-0.944689	-0.990145
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54631879	rs74716353	-0.945073	-0.990218
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54631879	rs74716353	-0.949788	-1.0
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54631879	rs74716353	1.0	1.0
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54631879	rs74716353	0.952632	0.990895
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54631879	rs74716353	-0.972822	-0.981688
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54631879	rs74716353	1.0	1.0
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54631879	rs74716353	0.995489	1.0
+rs74716353	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54631879	rs74716353	-0.949788	-1.0
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54631879	rs74716353	-0.945073	-0.990218
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54631879	rs74716353	-0.949788	-1.0
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54631879	rs74716353	1.0	1.0
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628939	rs254274	19	54631879	rs74716353	0.952632	0.990895
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54634004	rs57999922	19	54631879	rs74716353	-0.972822	-0.981688
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54631879	rs74716353	1.0	1.0
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54631879	rs74716353	0.995489	1.0
+rs74716353	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54631879	rs74716353	-0.949788	-1.0
+rs254274	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54628939	rs254274	-0.908487	-0.990117
+rs254274	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54628939	rs254274	-0.913112	-1.0
+rs254274	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54628939	rs254274	0.952632	0.990895
+rs254274	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial			rs254274			rs254274	1.0	1.0
+rs254274	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54628939	rs254274	0.952632	0.990895
+rs254274	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54628939	rs254274	0.948266	0.990823
+rs254274	Phosphatidylinositol(34:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54628939	rs254274	-0.913112	-1.0
+rs254274	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54628297	rs11084311	19	54628939	rs254274	-0.908487	-0.990117
+rs254274	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54627624	rs11670086	19	54628939	rs254274	-0.913112	-1.0
+rs254274	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54631377	rs171703	19	54628939	rs254274	0.952632	0.990895
+rs254274	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial			rs254274			rs254274	1.0	1.0
+rs254274	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632351	rs608608	19	54628939	rs254274	0.952632	0.990895
+rs254274	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632422	rs655240	19	54628939	rs254274	0.948266	0.990823
+rs254274	Phosphatidylinositol(36:2)_[M-H]1- levels	TFPT	spatial	19	54632065	rs8107970	19	54628939	rs254274	-0.913112	-1.0
+rs11200629	Age-related macular degeneration or COVID-19 hospitalization (MTAG)	ARMS2	spatial			rs11200629			rs11200629	1.0	1.0
+rs11200629	Age-related macular degeneration or COVID-19 hospitalization (MTAG)	ARMS2	spatial	10	124196249	rs56349747	10	124198584	rs11200629	0.996014	1.0
+rs11200629	Age-related macular degeneration or COVID-19 hospitalization (MTAG)	ARMS2	spatial	10	124195484	rs7072204	10	124198584	rs11200629	0.998005	1.0
+rs11200629	Age-related macular degeneration or COVID-19 critical illness (MTAG)	ARMS2	spatial			rs11200629			rs11200629	1.0	1.0
+rs11200629	Age-related macular degeneration or COVID-19 critical illness (MTAG)	ARMS2	spatial	10	124196249	rs56349747	10	124198584	rs11200629	0.996014	1.0
+rs11200629	Age-related macular degeneration or COVID-19 critical illness (MTAG)	ARMS2	spatial	10	124195484	rs7072204	10	124198584	rs11200629	0.998005	1.0
+rs11200629	Age-related macular degeneration or COVID-19 infection (MTAG)	ARMS2	spatial			rs11200629			rs11200629	1.0	1.0
+rs11200629	Age-related macular degeneration or COVID-19 infection (MTAG)	ARMS2	spatial	10	124196249	rs56349747	10	124198584	rs11200629	0.996014	1.0
+rs11200629	Age-related macular degeneration or COVID-19 infection (MTAG)	ARMS2	spatial	10	124195484	rs7072204	10	124198584	rs11200629	0.998005	1.0
+rs11200629	COVID-19 infection or age-related macular degeneration (MTAG)	ARMS2	spatial			rs11200629			rs11200629	1.0	1.0
+rs11200629	COVID-19 infection or age-related macular degeneration (MTAG)	ARMS2	spatial	10	124196249	rs56349747	10	124198584	rs11200629	0.996014	1.0
+rs11200629	COVID-19 infection or age-related macular degeneration (MTAG)	ARMS2	spatial	10	124195484	rs7072204	10	124198584	rs11200629	0.998005	1.0
+rs6585827	Age-related macular degeneration or COVID-19 hospitalization (MTAG)	ARMS2	spatial	10	124167511	rs2421016	10	124165614	rs6585827	0.994027	1.0
+rs6585827	Age-related macular degeneration or COVID-19 hospitalization (MTAG)	ARMS2	spatial			rs6585827			rs6585827	1.0	1.0
+rs6585827	Age-related macular degeneration or COVID-19 critical illness (MTAG)	ARMS2	spatial	10	124167511	rs2421016	10	124165614	rs6585827	0.994027	1.0
+rs6585827	Age-related macular degeneration or COVID-19 critical illness (MTAG)	ARMS2	spatial			rs6585827			rs6585827	1.0	1.0
+rs6585827	Age-related macular degeneration or COVID-19 infection (MTAG)	ARMS2	spatial	10	124167511	rs2421016	10	124165614	rs6585827	0.994027	1.0
+rs6585827	Age-related macular degeneration or COVID-19 infection (MTAG)	ARMS2	spatial			rs6585827			rs6585827	1.0	1.0
+rs6585827	COVID-19 infection or age-related macular degeneration (MTAG)	ARMS2	spatial	10	124167511	rs2421016	10	124165614	rs6585827	0.994027	1.0
+rs6585827	COVID-19 infection or age-related macular degeneration (MTAG)	ARMS2	spatial			rs6585827			rs6585827	1.0	1.0
+rs2248799	Age-related macular degeneration or COVID-19 hospitalization (MTAG)	ARMS2	spatial			rs2248799			rs2248799	1.0	1.0
+rs2248799	Age-related macular degeneration or COVID-19 critical illness (MTAG)	ARMS2	spatial			rs2248799			rs2248799	1.0	1.0
+rs2248799	Age-related macular degeneration or COVID-19 infection (MTAG)	ARMS2	spatial			rs2248799			rs2248799	1.0	1.0
+rs2248799	COVID-19 infection or age-related macular degeneration (MTAG)	ARMS2	spatial			rs2248799			rs2248799	1.0	1.0
+rs558813	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial	11	129718194	rs2266105	11	129722552	rs558813	0.992785	0.992785
+rs558813	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial	11	129723105	rs2562249	11	129722552	rs558813	1.0	1.0
+rs558813	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial			rs558813			rs558813	1.0	1.0
+rs558813	Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels	NFRKB	spatial	11	129723020	rs692311	11	129722552	rs558813	0.989313	1.0
+rs12939328	Occipital area (unadjusted for global measures)	KANSL1	spatial			rs12939328			rs12939328	1.0	1.0
