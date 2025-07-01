@@ -1,0 +1,488 @@
+level	trait	total_gwas_snps	trait_snps	eqtls_in_catalog	trait_eqtls	pval	adj_pval	sim_count	sim_pval
+level0	General cognitive ability	344506	1258	1256	18	1.4685507522151236e-06	0.0019752007617293	19	0.04
+level0	White matter microstructure (mean diusivities)	344506	198	1256	16	6.836477464813518e-17	9.195062190174182e-14	18	0.038
+level0	White matter microstructure (radial diusivities)	344506	250	1256	13	1.488157232340055e-11	2.001571477497374e-08	18	0.038
+level0	White matter microstructure (axial diusivities)	344506	160	1256	15	6.744987431140705e-17	9.07200809488425e-14	17	0.036
+level0	White matter microstructure (fractional anisotropy)	344506	240	1256	9	3.2639867016937414e-07	0.0004390062113778	21	0.044
+level0	Neuroticism	344506	1057	1256	35	3.1981669369491278e-22	4.301534530196576e-19	19	0.04
+level0	Parkinson's disease	344506	374	1256	31	1.0685108962261172e-31	1.4371471554241275e-28	24	0.05
+level0	Sarcoidosis	344506	146	1256	8	8.249678858678694e-08	0.0001109581806492	18	0.038
+level0	Rheumatoid arthritis	344506	552	1256	12	1.2891300112248008e-06	0.0017338798650973	11	0.024
+level0	Ulcerative colitis	344506	307	1256	8	2.0893063956827195e-05	0.0281011710219325	20	0.042
+level0	IgA nephropathy	344506	159	1256	11	2.5605219670938682e-11	3.443902045741253e-08	9	0.02
+level0	Systemic lupus erythematosus	344506	863	1256	16	1.991313535929714e-07	0.0002678316705825	24	0.05
+level0	Chronic hepatitis C infection	344506	14	1256	4	1.709614714716528e-07	0.0002299431791293	7	0.016
+level0	Nodular sclerosis Hodgkin lymphoma	344506	14	1256	4	1.709614714716528e-07	0.0002299431791293	4	0.01
+level0	Ovarian cancer in BRCA1 mutation carriers	344506	8	1256	3	2.670563761439173e-06	0.0035919082591356	11	0.024
+level0	Lymphoma	344506	9	1256	3	3.994928174021875e-06	0.0053731783940594	10	0.022
+level0	Multiple sclerosis (OCB status)	344506	10	1256	4	3.62858192065864e-08	4.880442683285871e-05	15	0.032
+level0	Hepatitis C (spontaneous viral clearance)	344506	18	1256	4	5.165763918995222e-07	0.0006947952471048	8	0.018
+level0	Adult asthma	344506	45	1256	5	6.917339635475065e-07	0.0009303821809713	2	0.006
+level0	Parkinson's disease or first degree relation to individual with Parkinson's disease	344506	107	1256	7	1.599132966695782e-07	0.0002150833840205	6	0.014
+level0	Cortical surface area (global PC1)	344506	15	1256	5	1.8617146454645762e-09	2.5040061981498557e-06	15	0.032
+level0	ACPA-positive rheumatoid arthritis (smoking interaction)	344506	15	1256	8	1.9205316680546507e-16	2.5831150935335053e-13	10	0.022
+level0	Waist-to-hip ratio adjusted for BMI	344506	3741	1256	48	2.0884000692287907e-13	2.808898093112723e-10	55	0.112
+level0	Epstein Barr virus nuclear antigen 1 IgG levels	344506	6	1256	4	2.622193793558393e-09	3.5268506523360385e-06	11	0.024
+level0	Primary central nervous system lymphoma	344506	7	1256	3	1.673664554293256e-06	0.0022510788255244	7	0.016
+level0	Immunoglobulin A vasculitis	344506	60	1256	16	1.1410211022285272e-25	1.5346733824973692e-22	12	0.026
+level0	HLA DR on Dendritic Cell	344506	5	1256	3	4.80808255448131e-07	0.0006466871035777	8	0.018
+level0	IDP dMRI TBSS L2 Superior fronto-occipital fasciculus L	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	12	0.026
+level0	IDP dMRI ProbtrackX L1 ptr l	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	13	0.028
+level0	aseg global volume SupraTentorialNotVent	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	9	0.02
+level0	Alzheimer's disease or family history of Alzheimer's disease	344506	309	1256	17	4.529146769837163e-15	6.091702405430984e-12	7	0.016
+level0	Giant cell arteritis	344506	8	1256	3	2.670563761439173e-06	0.0035919082591356	4	0.01
+level0	Experiencing mood swings	344506	69	1256	7	7.461976084381243e-09	1.0036357833492772e-05	17	0.036
+level0	Feeling hurt	344506	46	1256	5	7.737512318973853e-07	0.0010406954069019	17	0.036
+level0	Feeling worry	344506	71	1256	5	6.8154410817831085e-06	0.0091667682549982	12	0.026
+level0	Irritable mood	344506	67	1256	8	1.6463776313081654e-10	2.214377914109483e-07	20	0.042
+level0	Response to hepatitis B vaccine	344506	21	1256	5	1.2388305471391884e-08	1.6662270859022085e-05	10	0.022
+level0	Feeling nervous	344506	67	1256	5	5.116741667587081e-06	0.0068820175429046	9	0.02
+level0	Feeling guilty	344506	29	1256	5	7.056809935759022e-08	9.491409363595884e-05	16	0.034
+level0	Alzheimer's disease	344506	342	1256	10	7.118710974039044e-07	0.0009574666260082	0	0.002
+level0	Childhood steroid-sensitive nephrotic syndrome	344506	29	1256	4	3.883445626231928e-06	0.0052232343672819	8	0.018
+level0	A body shape index	344506	1514	1256	32	6.0998301370345815e-15	8.204271534311512e-12	36	0.074
+level0	Waist-hip index	344506	2526	1256	43	3.0810068196955966e-16	4.143954172490578e-13	49	0.1
+level0	Depressed affect	344506	157	1256	15	5.061441533606829e-17	6.807638862701186e-14	16	0.034
+level0	Worry	344506	147	1256	10	2.4225415169320366e-10	3.25831834027359e-07	16	0.034
+level0	General factor of neuroticism	344506	308	1256	21	3.5174149552596183e-20	4.730923114824187e-17	17	0.036
+level0	Anti-anoctamin 2 antibody levels	344506	10	1256	3	5.691489185217732e-06	0.0076550529541178	10	0.022
+level0	Alzheimer's disease (age of onset) in APOE e4 non-carriers	344506	9	1256	3	3.994928174021875e-06	0.0053731783940594	17	0.036
+level0	Schizophrenia or ER positive breast cancer (pleiotropy)	344506	17	1256	3	3.164203855566215e-05	0.0425585418573655	5	0.012
+level0	Tyrosine-protein phosphatase non-receptor type substrate 1 levels	344506	30	1256	6	1.2786741344297446e-09	1.7198167108080064e-06	2	0.006
+level0	Tyrosine-protein phosphatase non-receptor type substrate 1 levels (SIRPA.5430.66.3)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	2	0.006
+level0	Disruptive behavior (multivariate analysis)	344506	50	1256	4	3.543128128703958e-05	0.0476550733310682	4	0.01
+level0	COVID-19 hospitalization or systemic lupus erythematosus (MTAG)	344506	17	1256	3	3.164203855566215e-05	0.0425585418573655	1	0.004
+level0	Pediatric steroid sensitive nephrotic syndrome	344506	41	1256	5	4.2945147890816457e-07	0.0005776122391314	11	0.024
+level0	Posterolateral temporal area (unadjusted for global measures)	344506	33	1256	5	1.3933707139980682e-07	0.0001874083610327	12	0.026
+level0	Dorsomedial frontal area (unadjusted for global measures)	344506	54	1256	5	1.742545309060117e-06	0.0023437234406858	6	0.014
+level0	Parsopercularis area (unadjusted for global measures)	344506	46	1256	4	2.5398294525271345e-05	0.0341607061364899	4	0.01
+level0	Occipital area (unadjusted for global measures)	344506	45	1256	5	6.917339635475065e-07	0.0009303821809713	12	0.026
+level0	Middle temporal thickness (unadjusted for global measures)	344506	23	1256	4	1.4733004269235382e-06	0.0019815890742121	10	0.022
+level0	Anteromedial temporal area (unadjusted for global measures)	344506	29	1256	4	3.883445626231928e-06	0.0052232343672819	6	0.014
+level0	Dorsolateral prefrontal area (unadjusted for global measures)	344506	48	1256	5	9.607261303353894e-07	0.001292176645301	13	0.028
+level0	COVID-19 severity	344506	47	1256	7	4.663902195384748e-10	6.272948452792487e-07	17	0.036
+level0	Motor premotor area (unadjusted for global measures)	344506	39	1256	5	3.319445113446637e-07	0.0004464653677585	12	0.026
+level0	Inferior parietal area (unadjusted for global measures)	344506	45	1256	5	6.917339635475065e-07	0.0009303821809713	13	0.028
+level0	Dorsolateral prefrontal thickness (unadjusted for global measures)	344506	23	1256	4	1.4733004269235382e-06	0.0019815890742121	8	0.018
+level0	Superior parietal area (unadjusted for global measures)	344506	30	1256	4	4.467910184623777e-06	0.0060093391983189	13	0.028
+level0	Medial temporal thickness (unadjusted for global measures)	344506	15	1256	3	2.128796686378988e-05	0.0286323154317973	3	0.008
+level0	Inferior parietal thickness (unadjusted for global measures)	344506	21	1256	4	1.00159142573148e-06	0.0013471404676088	9	0.02
+level0	Ventromedial occipital thickness (unadjusted for global measures)	344506	32	1256	4	5.828722352772619e-06	0.0078396315644791	12	0.026
+level0	Ventral frontal thickness (unadjusted for global measures)	344506	29	1256	4	3.883445626231928e-06	0.0052232343672819	5	0.012
+level0	Breast cancer or hospitalized COVID-19 (pleiotropy)	344506	7	1256	3	1.673664554293256e-06	0.0022510788255244	11	0.024
+level0	Breast cancer or critical COVID-19 (pleiotropy)	344506	6	1256	3	9.589943160888243e-07	0.0012898473551394	17	0.036
+level0	Ovarian cancer or hospitalized COVID-19 (pleiotropy)	344506	6	1256	3	9.589943160888243e-07	0.0012898473551394	17	0.036
+level0	Ovarian cancer or critical COVID-19 (pleiotropy)	344506	4	1256	3	1.928492698598904e-07	0.0002593822679615	16	0.034
+level0	Hypothyroidism or rheumatoid arthritis (pleiotropy)	344506	1035	1256	31	1.2618865340129511e-18	1.697237388247419e-15	51	0.104
+level0	Hepatitis B virus antibody levels	344506	5	1256	3	4.80808255448131e-07	0.0006466871035777	1	0.004
+level0	Seropositivity for enterobacteria phage peptide (twist_65044)	344506	4	1256	3	1.928492698598904e-07	0.0002593822679615	8	0.018
+level0	Seropositivity for human adenovirus 12 peptide (twist_55551)	344506	4	1256	3	1.928492698598904e-07	0.0002593822679615	7	0.016
+level0	Seropositivity for streptococcus pneumoniae peptide (twist_54623)	344506	3	1256	3	4.8344192814384004e-08	6.502293933534649e-05	7	0.016
+level0	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_24484)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	7	0.016
+level0	Seropositivity for capra hircus (goat) peptide (twist_20844)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	7	0.016
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_27538)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	4	0.01
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_318)	344506	3	1256	3	4.8344192814384004e-08	6.502293933534649e-05	7	0.016
+level0	Seropositivity for bubalus bubalis (buffalo) peptide (twist_22083)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	7	0.016
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_46937)	344506	4	1256	3	1.928492698598904e-07	0.0002593822679615	14	0.03
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_4834)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	1	0.004
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_27540)	344506	3	1256	3	4.8344192814384004e-08	6.502293933534649e-05	7	0.016
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_321)	344506	3	1256	3	4.8344192814384004e-08	6.502293933534649e-05	4	0.01
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_212)	344506	3	1256	3	4.8344192814384004e-08	6.502293933534649e-05	7	0.016
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_46426)	344506	3	1256	3	4.8344192814384004e-08	6.502293933534649e-05	7	0.016
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_27552)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	10	0.022
+level0	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_129)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	1	0.004
+level0	Seropositivity for klebsiella phage peptide (twist_64561)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	4	0.01
+level0	Seropositivity for bos taurus peptide (twist_36969)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	7	0.016
+level0	Seropositivity for human mastadenovirus peptide (agilent_9680)	344506	3	1256	3	4.8344192814384004e-08	6.502293933534649e-05	4	0.01
+level0	Seropositivity for human mastadenovirus peptide (agilent_329)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	7	0.016
+level0	Seropositivity for haemophilus parainfluenzae T3T1 peptide (agilent_88528)	344506	4	1256	3	1.928492698598904e-07	0.0002593822679615	4	0.01
+level0	Seropositivity for staphylococcus aureus peptide (agilent_221466)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	7	0.016
+level0	Seropositivity for staphylococcus aureus peptide (agilent_236695)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	4	0.01
+level0	Seropositivity for staphylococcus aureus peptide (twist_38683)	344506	5	1256	4	8.766129460849961e-10	1.17904441248432e-06	7	0.016
+level0	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_204518)	344506	2	1256	2	1.3281314035410952e-05	0.0178633673776277	4	0.01
+level0	Seropositivity for staphylococcus aureus peptide (agilent_241121)	344506	4	1256	4	1.758338057611233e-10	2.364964687487109e-07	7	0.016
+level0	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_15915)	344506	8	1256	3	2.670563761439173e-06	0.0035919082591356	4	0.01
+level1	Asthma	344506	997	1019	16	8.42794668127249e-08	0.0001038323031132	34	0.07
+level1	Ulcerative colitis	344506	307	1019	11	3.1013720992021904e-09	3.820890426217098e-06	19	0.04
+level1	IgA nephropathy	344506	159	1019	9	1.6007869458776016e-09	1.9721695173212053e-06	10	0.022
+level1	Systemic lupus erythematosus	344506	863	1019	21	4.274007258056797e-13	5.265576941925973e-10	28	0.058
+level1	Asthma (adult onset)	344506	141	1019	7	2.5996514629954736e-07	0.000320277060241	20	0.042
+level1	Idiopathic membranous nephropathy	344506	21	1019	4	4.37534337179669e-07	0.0005390423034053	44	0.09
+level1	Nodular sclerosis Hodgkin lymphoma	344506	14	1019	5	4.390348524408979e-10	5.408909382071862e-07	9	0.02
+level1	Lymphoma	344506	9	1019	4	9.47554721617538e-09	1.1673874170328069e-05	6	0.014
+level1	Epstein-Barr virus immune response (EBNA-1)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	7	0.016
+level1	Multiple sclerosis (OCB status)	344506	10	1019	5	5.5808430019199816e-11	6.875598578365419e-08	16	0.034
+level1	Hepatitis B	344506	50	1019	4	1.5725721124160514e-05	0.0193740884249657	1	0.004
+level1	Hepatitis C (spontaneous viral clearance)	344506	18	1019	4	2.252887562060065e-07	0.0002775557476458	8	0.018
+level1	Collagenous colitis	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	14	0.03
+level1	Asparaginase hypersensitivity in acute lymphoblastic leukemia	344506	42	1019	4	7.788052706907392e-06	0.0095948809349099	5	0.012
+level1	ACPA-positive rheumatoid arthritis (smoking interaction)	344506	15	1019	3	1.1432386977390551e-05	0.0140847007561451	5	0.012
+level1	Epstein Barr virus nuclear antigen 1 IgG levels	344506	6	1019	4	1.1360532298652243e-09	1.3996175791939564e-06	9	0.02
+level1	Immunoglobulin A vasculitis	344506	60	1019	42	2.2623712025226683e-92	2.7872413215079278e-89	18	0.038
+level1	HLA DR++ monocyte %monocyte	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	4	0.01
+level1	HLA DR on Dendritic Cell	344506	5	1019	3	2.568816737536605e-07	0.0003164782220645	6	0.014
+level1	HLA DR on Hematopoietic Stem Cell	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	2	0.006
+level1	HLA DR on CD33dim HLA DR+ CD11b-	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	2	0.006
+level1	HLA DR on CD33- HLA DR+	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	5	0.012
+level1	Podoconiosis	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	8	0.018
+level1	Serum levels of protein TGM3	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	1	0.004
+level1	Response to hepatitis B vaccine	344506	21	1019	4	4.37534337179669e-07	0.0005390423034053	27	0.056
+level1	Waist-to-hip ratio adjusted for BMI	344506	3741	1019	36	1.553832517723133e-09	1.9143216618349e-06	56	0.114
+level1	Childhood steroid-sensitive nephrotic syndrome	344506	29	1019	7	2.861937845339149e-12	3.525907425457831e-09	9	0.02
+level1	A body shape index	344506	1514	1019	24	6.952026263005014e-11	8.564896356022178e-08	49	0.1
+level1	Waist-hip index	344506	2526	1019	32	1.6495305937614477e-11	2.0322216915141038e-08	59	0.12
+level1	Nonatopic asthma	344506	109	1019	5	2.0307290740066595e-05	0.025018582191762	8	0.018
+level1	Rosacea symptom severity	344506	98	1019	5	1.2125381003995833e-05	0.0149384693969228	20	0.042
+level1	Sarcoidosis	344506	146	1019	7	3.292889330588105e-07	0.0004056839655284	23	0.048
+level1	Inguinal hernia	344506	2192	1019	38	1.2200731377727901e-17	1.5031301057360774e-14	43	0.088
+level1	Phosphatidylcholine_32:0_[M+H]1+/Phosphatidylethanolamine_35:0_[M+H]1+/Phosphatidate_37:1_[M+NH4]1+ levels	344506	40	1019	4	6.388861857409448e-06	0.0078710778083284	26	0.054
+level1	Glutamate receptor 4 levels (GRIA4.10760.107.3)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	5	0.012
+level1	Ubiquitin carboxyl-terminal hydrolase 25 levels (USP25.9215.117.3)	344506	15	1019	3	1.1432386977390551e-05	0.0140847007561451	1	0.004
+level1	Rheumatoid arthritis or multiple sclerosis	344506	53	1019	4	1.985474400932463e-05	0.0244610446194879	18	0.038
+level1	Triacylglycerol (50:2) [NL-18:2] levels	344506	7	1019	3	8.951143568202708e-07	0.0011027808876025	13	0.028
+level1	Pediatric steroid sensitive nephrotic syndrome	344506	41	1019	5	1.538132299500562e-07	0.0001894978992984	11	0.024
+level1	Allergen component sensitization (Hevea brasiliensis 8)	344506	77	1019	25	4.444224715106228e-44	5.475284849010872e-41	5	0.012
+level1	Hypothyroidism or rheumatoid arthritis (pleiotropy)	344506	1035	1019	163	1.4910455264040954e-225	1.8369680885298456e-222	71	0.144
+level1	Steroid-dependent/frequent relapse nephrotic syndrome	344506	11	1019	3	4.182643200423826e-06	0.0051530164229221	4	0.01
+level1	Seropositivity for aix galericulata (mandarin duck) peptide (twist_23200)	344506	11	1019	5	1.0206457833629382e-10	1.25743560510314e-07	18	0.038
+level1	Seropositivity for enterobacteria phage peptide (twist_65044)	344506	4	1019	3	1.0298041684377739e-07	0.0001268718735515	8	0.018
+level1	Seropositivity for streptococcus agalactiae peptide (agilent_234887)	344506	20	1019	3	2.832903930009952e-05	0.0349013764177226	33	0.068
+level1	Seropositivity for streptococcus pneumoniae peptide (agilent_242450)	344506	8	1019	3	1.4290169961122272e-06	0.0017605489392102	29	0.06
+level1	Seropositivity for streptococcus pneumoniae peptide (agilent_224401)	344506	14	1019	3	9.166151505018444e-06	0.0112926986541827	20	0.042
+level1	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_84757)	344506	21	1019	4	4.37534337179669e-07	0.0005390423034053	27	0.056
+level1	Seropositivity for root peptide (agilent_184788)	344506	3	1019	3	2.5802175594428222e-08	3.1788280332335566e-05	14	0.03
+level1	Seropositivity for struthio camelus (ostrich) peptide (twist_5109)	344506	8	1019	4	5.276625255164939e-09	6.500802314363205e-06	18	0.038
+level1	Seropositivity for staphylococcus aureus subsp. aureus MW2 peptide (agilent_235512)	344506	14	1019	3	9.166151505018444e-06	0.0112926986541827	33	0.068
+level1	Seropositivity for streptococcus pneumoniae peptide (twist_54623)	344506	3	1019	3	2.5802175594428222e-08	3.1788280332335566e-05	9	0.02
+level1	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_180726)	344506	4	1019	3	1.0298041684377739e-07	0.0001268718735515	33	0.068
+level1	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_80555)	344506	4	1019	3	1.0298041684377739e-07	0.0001268718735515	6	0.014
+level1	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_24484)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	5	0.012
+level1	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_171144)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	1	0.004
+level1	Seropositivity for anser anser (greylag goose) peptide (twist_23199)	344506	9	1019	3	2.1387877195491787e-06	0.0026349864704845	25	0.052
+level1	Seropositivity for bacteroides peptide (agilent_153971)	344506	4	1019	3	1.0298041684377739e-07	0.0001268718735515	1	0.004
+level1	Seropositivity for streptococcus phage peptide (twist_76831)	344506	3	1019	3	2.5802175594428222e-08	3.1788280332335566e-05	9	0.02
+level1	Seropositivity for enterobacteria phage peptide (twist_92147)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	14	0.03
+level1	Seropositivity for faecalibacterium prausnitzii a2-165 peptide (agilent_194982)	344506	4	1019	4	7.609515855715819e-11	9.374923534241889e-08	14	0.03
+level1	Seropositivity for capra hircus (goat) peptide (twist_20844)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	9	0.02
+level1	Seropositivity for clostridiales peptide (agilent_68956)	344506	17	1019	4	1.7563805304674535e-07	0.0002163860813535	28	0.058
+level1	Seropositivity for streptococcus pneumoniae peptide (twist_48171)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	9	0.02
+level1	Seropositivity for streptococcus pneumoniae peptide (agilent_229734)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	8	0.018
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_1075)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	8	0.018
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_318)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	8	0.018
+level1	Seropositivity for bubalus bubalis (buffalo) peptide (twist_22083)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	5	0.012
+level1	Seropositivity for escherichia virus p1 peptide (twist_92719)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	7	0.016
+level1	Seropositivity for oryza sativa (rice) peptide (twist_19685)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	1	0.004
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_46937)	344506	4	1019	4	7.609515855715819e-11	9.374923534241889e-08	8	0.018
+level1	Seropositivity for staphylococcus aureus peptide (twist_35030)	344506	11	1019	3	4.182643200423826e-06	0.0051530164229221	25	0.052
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_27540)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	8	0.018
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_7435)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	20	0.042
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_212)	344506	3	1019	3	2.5802175594428222e-08	3.1788280332335566e-05	9	0.02
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_46426)	344506	3	1019	3	2.5802175594428222e-08	3.1788280332335566e-05	9	0.02
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_27552)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	9	0.02
+level1	Seropositivity for klebsiella phage peptide (twist_64561)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	5	0.012
+level1	Seropositivity for meleagris gallopavo (turkey) peptide (twist_3824)	344506	12	1019	3	5.564536635900795e-06	0.0068555091354297	14	0.03
+level1	Seropositivity for gallus peptide (twist_24274)	344506	7	1019	3	8.951143568202708e-07	0.0011027808876025	17	0.036
+level1	Seropositivity for human alphaherpesvirus 2 peptide (twist_42886)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	5	0.012
+level1	Seropositivity for bos taurus peptide (twist_36969)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	5	0.012
+level1	Seropositivity for lactobacillus phage LFEINF peptide (twist_64023)	344506	18	1019	4	2.252887562060065e-07	0.0002775557476458	28	0.058
+level1	Seropositivity for lactobacillus phage LFEINF peptide (twist_88894)	344506	18	1019	4	2.252887562060065e-07	0.0002775557476458	27	0.056
+level1	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_26954)	344506	12	1019	4	3.6962911734543696e-08	4.553830725695784e-05	17	0.036
+level1	Seropositivity for human mastadenovirus peptide (agilent_329)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	9	0.02
+level1	Seropositivity for mycobacterium tuberculosis peptide (twist_52112)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	4	0.01
+level1	Seropositivity (peptide co-occurrence module 19: pathobion, phages)	344506	5	1019	3	2.568816737536605e-07	0.0003164782220645	2	0.006
+level1	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	344506	4	1019	4	7.609515855715819e-11	9.374923534241889e-08	5	0.012
+level1	Seropositivity for staphylococcus aureus peptide (agilent_221466)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	5	0.012
+level1	Seropositivity for staphylococcus aureus peptide (twist_46764)	344506	9	1019	4	9.47554721617538e-09	1.1673874170328069e-05	26	0.054
+level1	Seropositivity for staphylococcus aureus peptide (twist_38683)	344506	5	1019	3	2.568816737536605e-07	0.0003164782220645	5	0.012
+level1	Seropositivity for staphylococcus aureus peptide (twist_34337)	344506	9	1019	3	2.1387877195491787e-06	0.0026349864704845	18	0.038
+level1	Seropositivity for staphylococcus aureus peptide (twist_39975)	344506	9	1019	3	2.1387877195491787e-06	0.0026349864704845	18	0.038
+level1	Seropositivity for staphylococcus aureus peptide (agilent_236148)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	14	0.03
+level1	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_204518)	344506	2	1019	2	8.740366473306199e-06	0.0107681314951132	5	0.012
+level1	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_26654)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	37	0.076
+level1	Seropositivity for staphylococcus aureus subsp. aureus strain newman peptide (agilent_239239)	344506	3	1019	2	2.6169495048561585e-05	0.0322408178998278	14	0.03
+level1	Seropositivity for staphylococcus aureus peptide (agilent_236333)	344506	12	1019	3	5.564536635900795e-06	0.0068555091354297	14	0.03
+level1	Seropositivity for staphylococcus aureus peptide (agilent_240086)	344506	5	1019	3	2.568816737536605e-07	0.0003164782220645	4	0.01
+level1	Seropositivity for staphylococcus aureus peptide (agilent_222322)	344506	7	1019	4	2.644544090750128e-09	3.258078319804158e-06	13	0.028
+level2	Asthma	344506	997	797	13	8.859976111778223e-07	0.0007841078858923	76	0.154
+level2	Chronic hepatitis B infection	344506	19	797	3	1.1626905860154564e-05	0.0102898116862367	40	0.082
+level2	Cutaneous lupus erythematosus	344506	7	797	4	9.895692174497467e-10	8.757687574430259e-07	6	0.014
+level2	Ulcerative colitis	344506	307	797	7	9.026202176937536e-06	0.0079881889265897	30	0.062
+level2	Systemic lupus erythematosus	344506	863	797	17	4.2182431438168477e-11	3.733145182277911e-08	38	0.078
+level2	Type 1 diabetes and autoimmune thyroid diseases	344506	11	797	5	2.9888666543968645e-11	2.6451469891412253e-08	6	0.014
+level2	Takayasu arteritis	344506	144	797	18	8.28722550655705e-26	7.334194573302991e-23	127	0.255
+level2	Idiopathic membranous nephropathy	344506	21	797	11	3.2747381136361734e-24	2.898143230568014e-21	69	0.14
+level2	Multiple sclerosis (OCB status)	344506	10	797	3	1.46243117210124e-06	0.0012942515873095	28	0.058
+level2	Collagenous colitis	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	20	0.042
+level2	Head and neck squamous cell carcinoma	344506	5	797	2	5.3207578688360646e-05	0.0470887071391991	0	0.002
+level2	Pneumonia	344506	98	797	5	3.719944102526076e-06	0.0032921505307355	7	0.016
+level2	HLA DR on CD33- HLA DR+	344506	3	797	2	1.60114871946076e-05	0.0141701661672277	10	0.022
+level2	IL12A_IL12B/LAG3 protein level ratio	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	0	0.002
+level2	Response to hepatitis B vaccine	344506	21	797	5	1.2914689570604226e-09	1.1429500269984745e-06	61	0.124
+level2	Feeling nervous	344506	67	797	4	1.940737885171033e-05	0.0171755302837636	13	0.028
+level2	Waist-to-hip ratio adjusted for BMI	344506	3741	797	45	9.816227856582084e-19	8.687361653075144e-16	90	0.182
+level2	Waist-hip index	344506	2526	797	39	5.3730918855073134e-20	4.755186318673972e-17	91	0.184
+level2	Rosacea symptom severity	344506	98	797	7	3.981713973454934e-09	3.5238168665076167e-06	18	0.038
+level2	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	344506	10	797	3	1.46243117210124e-06	0.0012942515873095	16	0.034
+level2	Complement C4b levels	344506	19	797	3	1.1626905860154564e-05	0.0102898116862367	15	0.032
+level2	MHC class I polypeptide-related sequence A levels	344506	79	797	4	3.721557068557509e-05	0.0329357800567339	43	0.088
+level2	MHC class I polypeptide-related sequence B levels	344506	29	797	3	4.309360435818419e-05	0.038137839856993	30	0.062
+level2	A body shape index	344506	1514	797	25	5.935417098765811e-14	5.2528441324077405e-11	75	0.152
+level2	Inguinal hernia	344506	2192	797	65	2.489757684928425e-49	2.203435551161656e-46	46	0.094
+level2	Phosphatidylinositol(36:2)_[M-H]1- levels	344506	369	797	35	1.6483276207438016e-44	1.4587699443582642e-41	43	0.088
+level2	Complement C4 levels (C4A.C4B.4481.34.2)	344506	27	797	3	3.461534638536513e-05	0.0306345815510481	14	0.03
+level2	Rheumatoid arthritis or multiple sclerosis	344506	53	797	5	1.7130459199774706e-07	0.000151604563918	22	0.046
+level2	Word reading	344506	103	797	21	1.1696918874142881e-34	1.0351773203616451e-31	28	0.058
+level2	Autoimmune neurological syndromes with anti-GAD65 autoantibodies	344506	35	797	4	1.4060207276456994e-06	0.0012443283439664	16	0.034
+level2	Rheumatoid arthritis or type 1 diabetes	344506	107	797	5	5.72412167995537e-06	0.0050658476867605	21	0.044
+level2	3-formylindole levels	344506	10	797	3	1.46243117210124e-06	0.0012942515873095	22	0.046
+level2	Primary sclerosing cholangitis (MTAG)	344506	21	797	3	1.5903478063207575e-05	0.0140745780859387	49	0.1
+level2	Noninflammatory bullous pemphigoid in response to dipeptidyl peptidase-4 inhibitors	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	3	0.008
+level2	Neonatal circulating Complement Component 4 (C4) protein concentration	344506	32	797	5	1.2514043291468085e-08	1.1074928312949254e-05	10	0.022
+level2	Hemoglobin concentration	344506	1081	797	13	2.1398829122997102e-06	0.0018937963773852	19	0.04
+level2	Inflammatory bowel disease x sex interaction (2df)	344506	36	797	4	1.578867251569791e-06	0.0013972975176392	21	0.044
+level2	Hypothyroidism or rheumatoid arthritis (pleiotropy)	344506	1035	797	17	6.595097853120901e-10	5.836661600011996e-07	128	0.257
+level2	Hepatitis B virus antibody levels	344506	5	797	2	5.3207578688360646e-05	0.0470887071391991	14	0.03
+level2	Seropositivity for hordeum vulgare (barley) peptide (twist_15602)	344506	6	797	4	4.2488339842972797e-10	3.760218076103093e-07	25	0.052
+level2	Seropositivity for blautia producta peptide (agilent_74695)	344506	11	797	3	2.007369720337306e-06	0.0017765222024985	23	0.048
+level2	Seropositivity for enterovirus peptide (agilent_6423)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	26	0.054
+level2	Seropositivity for streptococcus agalactiae peptide (agilent_234887)	344506	20	797	8	9.738002695778575e-17	8.61813238576404e-14	44	0.09
+level2	Seropositivity for streptococcus pneumoniae peptide (twist_15509)	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	10	0.022
+level2	Seropositivity for streptococcus agalactiae peptide (agilent_241118)	344506	49	797	9	3.4325940467367602e-15	3.0378457313620327e-12	31	0.064
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_243229)	344506	5	797	2	5.3207578688360646e-05	0.0470887071391991	0	0.002
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_226736)	344506	7	797	3	4.287607679885262e-07	0.0003794532796698	39	0.08
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_242450)	344506	8	797	4	1.975494667241449e-09	1.7483127805086825e-06	56	0.114
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_224401)	344506	14	797	6	4.4474113894033433e-13	3.9359590796219584e-10	24	0.05
+level2	Seropositivity for staphylococcus aureus subsp. aureus MW2 peptide (agilent_235512)	344506	14	797	6	4.4474113894033433e-13	3.9359590796219584e-10	44	0.09
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_39688)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	18	0.038
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_180726)	344506	4	797	3	4.92561609650157e-08	4.3591702454038896e-05	43	0.088
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_205647)	344506	5	797	4	1.4188906869459906e-10	1.2557182579472017e-07	38	0.078
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_15630)	344506	8	797	5	3.643766548626644e-12	3.2247333955345798e-09	30	0.062
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_16154)	344506	3	797	2	1.60114871946076e-05	0.0141701661672277	7	0.016
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_90420)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	16	0.034
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_62056)	344506	3	797	2	1.60114871946076e-05	0.0141701661672277	7	0.016
+level2	Seropositivity for klebsiella phage peptide (twist_73875)	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	9	0.02
+level2	Seropositivity for clostridium perfringens (agilent_167207)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	20	0.042
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_223208)	344506	26	797	9	5.4737785198926105e-18	4.84429399010496e-15	29	0.06
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_227833)	344506	13	797	3	3.4674338468973143e-06	0.0030686789545041	24	0.05
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_241214)	344506	14	797	5	1.2877485763839757e-10	1.1396574900998185e-07	6	0.014
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_236127)	344506	13	797	8	1.0091958926063545e-18	8.931383649566237e-16	40	0.082
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_243958)	344506	3	797	3	1.2335362860121794e-08	1.0916796131207788e-05	20	0.042
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_220951)	344506	4	797	3	4.92561609650157e-08	4.3591702454038896e-05	17	0.036
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_220184)	344506	14	797	7	1.1690269119989553e-15	1.0345888171190754e-12	16	0.034
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_223641)	344506	11	797	6	6.882719074590764e-14	6.091206381012827e-11	34	0.07
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_231039)	344506	3	797	2	1.60114871946076e-05	0.0141701661672277	7	0.016
+level2	Seropositivity for streptococcus pyogenes peptide (agilent_220658)	344506	50	797	6	2.192427168536869e-09	1.9402980441551294e-06	29	0.06
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_229757)	344506	18	797	7	1.075334684253392e-14	9.516711955642519e-12	40	0.082
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_223825)	344506	11	797	4	9.261710179407981e-09	8.196613508776062e-06	20	0.042
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_223466)	344506	3	797	3	1.2335362860121794e-08	1.0916796131207788e-05	20	0.042
+level2	Seropositivity for streptococcus pneumoniae peptide (agilent_220944)	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	1	0.004
+level2	Seropositivity for secale cereale (rye) peptide (twist_23370)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	16	0.034
+level2	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_46937)	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	22	0.046
+level2	Seropositivity for staphylococcaceae peptide (agilent_4825)	344506	15	797	8	5.025457622717105e-18	4.447529996104638e-15	38	0.078
+level2	Seropositivity for staphylococcus aureus peptide (twist_35030)	344506	11	797	6	6.882719074590764e-14	6.091206381012827e-11	44	0.09
+level2	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_34377)	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	18	0.038
+level2	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (agilent_7435)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	17	0.036
+level2	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_52109)	344506	5	797	4	1.4188906869459906e-10	1.2557182579472017e-07	17	0.036
+level2	Seropositivity for human betaherpesvirus 5 (cytomegalovirus) peptide (twist_35647)	344506	3	797	2	1.60114871946076e-05	0.0141701661672277	7	0.016
+level2	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_53018)	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	27	0.056
+level2	Seropositivity for bacteria peptide (agilent_240644)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	16	0.034
+level2	Seropositivity (peptide co-occurrence module 21: plant thionins)	344506	8	797	3	6.848319316062197e-07	0.0006060762594715	31	0.064
+level2	Seropositivity for triticum aestivum wheat peptide (twist_41103)	344506	3	797	3	1.2335362860121794e-08	1.0916796131207788e-05	26	0.054
+level2	Seropositivity for triticum aestivum (common wheat) peptide (twist_14325)	344506	10	797	3	1.46243117210124e-06	0.0012942515873095	30	0.062
+level2	Seropositivity for triticum urartu (wild einkorn wheat) peptide (twist_11627)	344506	10	797	4	5.904684180375786e-09	5.2256454996325705e-06	48	0.098
+level2	Seropositivity for triticum urartu (wild einkorn wheat) peptide (twist_12614)	344506	4	797	2	3.1973718216444665e-05	0.0282967406215535	22	0.046
+level2	Seropositivity for streptococcus pyogenes peptide (agilent_235068)	344506	18	797	4	8.47811742325372e-08	7.503133919579543e-05	30	0.062
+level2	Seropositivity for streptococcus pyogenes peptide (agilent_241884)	344506	49	797	7	2.7274974789961054e-11	2.4138352689115536e-08	29	0.06
+level2	Seropositivity for lachnospiraceae peptide (agilent_141373)	344506	2	797	2	5.345385971493385e-06	0.0047306665847716	7	0.016
+level2	Seropositivity for staphylococcus aureus peptide (twist_46764)	344506	9	797	6	1.2563430787645712e-14	1.1118636247066456e-11	32	0.066
+level2	Seropositivity for staphylococcus aureus peptide (agilent_236148)	344506	3	797	3	1.2335362860121794e-08	1.0916796131207788e-05	23	0.048
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_26654)	344506	3	797	3	1.2335362860121794e-08	1.0916796131207788e-05	49	0.1
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_205649)	344506	6	797	4	4.2488339842972797e-10	3.760218076103093e-07	50	0.102
+level2	Seropositivity for staphylococcus aureus peptide (agilent_226247)	344506	15	797	7	2.1875281856889148e-15	1.9359624443346896e-12	34	0.07
+level2	Seropositivity for staphylococcus aureus peptide (agilent_222381)	344506	47	797	8	2.3008181651729574e-13	2.0362240761780674e-10	29	0.06
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_217424)	344506	5	797	4	1.4188906869459906e-10	1.2557182579472017e-07	16	0.034
+level2	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_188119)	344506	5	797	4	1.4188906869459906e-10	1.2557182579472017e-07	28	0.058
+level2	Seropositivity for staphylococcus aureus peptide (agilent_236333)	344506	12	797	4	1.3866995492560408e-08	1.227229101091596e-05	20	0.042
+level3	Chronic hepatitis B infection	344506	19	1639	6	2.9569238447076764e-10	4.393988833235607e-07	35	0.072
+level3	Total bilirubin levels in HIV-1 infection	344506	11	1639	9	6.661703424857387e-20	9.899291289338078e-17	70	0.142
+level3	Systemic lupus erythematosus	344506	863	1639	29	7.749453938574095e-16	1.1515688552721104e-12	73	0.148
+level3	IgE levels	344506	20	1639	4	2.3272188349071056e-06	0.0034582471886719	5	0.012
+level3	Hepatitis B	344506	50	1639	6	1.5269229799598858e-07	0.000226900754822	7	0.016
+level3	Type 1 diabetes and autoimmune thyroid diseases	344506	11	1639	3	1.7236640412787005e-05	0.0256136476534014	7	0.016
+level3	Ulcerative colitis	344506	307	1639	10	2.860794028582759e-06	0.0042511399264739	43	0.088
+level3	Takayasu arteritis	344506	144	1639	13	3.612847962130938e-13	5.368692071726574e-10	148	0.297
+level3	Oligoclonal band status in multiple sclerosis	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	38	0.078
+level3	Idiopathic membranous nephropathy	344506	21	1639	11	9.230846549440724e-21	1.3717037972468916e-17	109	0.22
+level3	Hepatitis C induced liver cirrhosis	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	10	0.022
+level3	End-stage coagulation	344506	23	1639	4	4.205223813564353e-06	0.0062489625869566	23	0.048
+level3	Bilirubin levels	344506	70	1639	5	2.268664603286017e-05	0.0337123560048302	69	0.14
+level3	Cervical cancer	344506	150	1639	8	7.469550104463588e-07	0.0011099751455232	10	0.022
+level3	Multiple sclerosis (OCB status)	344506	10	1639	4	1.0477460916828429e-07	0.000155695069224	47	0.096
+level3	Collagenous colitis	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	31	0.064
+level3	Itch intensity from mosquito bite adjusted by bite size	344506	262	1639	12	7.353028414313257e-09	1.09266002236695e-05	30	0.062
+level3	ACPA-positive rheumatoid arthritis (smoking interaction)	344506	15	1639	6	5.544071720657211e-11	8.238490576896616e-08	17	0.036
+level3	Childhood ear infection	344506	102	1639	7	6.786936289709338e-07	0.0010085387326508	7	0.016
+level3	Persistent hepatitis B virus infection	344506	8	1639	3	5.912876374295016e-06	0.0087865342922023	12	0.026
+level3	Type 1 diabetes (age at diagnosis)	344506	40	1639	6	3.841018904756235e-08	5.707754092467765e-05	12	0.026
+level3	CXCL10/WARS protein level ratio	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	4	0.01
+level3	Complement C4 levels	344506	43	1639	7	1.511615111985376e-09	2.246260056410269e-06	46	0.094
+level3	Serum levels of protein TGM3	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	4	0.01
+level3	Response to hepatitis B vaccine	344506	21	1639	5	4.627192811843895e-08	6.876008518400027e-05	32	0.066
+level3	Serum bilirubin levels in metabolic syndrome	344506	22	1639	5	5.96450558016127e-08	8.863255292119647e-05	70	0.142
+level3	Feeling nervous	344506	67	1639	5	1.8317703632360094e-05	0.0272201075976871	8	0.018
+level3	Waist-to-hip ratio adjusted for BMI	344506	3741	1639	104	8.617020938012619e-46	1.2804893113886752e-42	113	0.228
+level3	Bilirubin levels in tenofovir-treated HIV infection	344506	20	1639	16	3.047487944751136e-34	4.528567085900188e-31	70	0.142
+level3	Hip circumference adjusted for BMI	344506	3359	1639	107	1.4529010684066718e-52	2.1590109876523143e-49	86	0.174
+level3	A body shape index	344506	1514	1639	57	3.2755804299131377e-32	4.8675125188509226e-29	86	0.174
+level3	Total bilirubin levels x insomnia interaction	344506	85	1639	46	1.6101682405941201e-83	2.3927100055228624e-80	70	0.142
+level3	Direct bilirubin levels x insomnia interaction	344506	82	1639	46	1.510273460616576e-84	2.2442663624762317e-81	70	0.142
+level3	HTLV-1 associated myelopathy	344506	8	1639	3	5.912876374295016e-06	0.0087865342922023	19	0.04
+level3	Waist-hip index	344506	2526	1639	84	7.717625819606241e-43	1.1468391967934874e-39	103	0.208
+level3	Bilirubin (z,z) levels	344506	16	1639	5	1.0130819754167948e-08	1.5054398154693572e-05	70	0.142
+level3	X-16946 levels	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	70	0.142
+level3	X-11530 levels	344506	4	1639	4	5.104406266450047e-10	7.585147711944772e-07	70	0.142
+level3	X-24849 levels	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	70	0.142
+level3	X-11522 levels	344506	4	1639	4	5.104406266450047e-10	7.585147711944772e-07	70	0.142
+level3	X-21448 levels	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	70	0.142
+level3	Biliverdin levels	344506	9	1639	3	8.83776248156492e-06	0.0131329150476054	68	0.138
+level3	Bilirubin (E,E) levels	344506	6	1639	3	2.126852317907619e-06	0.0031605025444107	70	0.142
+level3	Hay fever and/or eczema	344506	154	1639	9	6.974079262974e-08	0.0001036348178477	24	0.05
+level3	Anti-anoctamin 2 antibody levels	344506	10	1639	5	5.985132614050587e-10	8.893907064479172e-07	44	0.09
+level3	Extraintestinal manifestations in inflammatory bowel disease (primary sclerosing cholangitis)	344506	10	1639	4	1.0477460916828429e-07	0.000155695069224	10	0.022
+level3	Sarcoidosis	344506	146	1639	9	4.4048524189556914e-08	6.545610694568158e-05	47	0.096
+level3	Coagulation Factor VII levels	344506	50	1639	5	4.29680050268314e-06	0.0063850455469871	17	0.036
+level3	MHC class I polypeptide-related sequence A levels	344506	79	1639	7	1.1715336710807693e-07	0.0001740899035226	60	0.122
+level3	Triacylglycerol (50:1) [NL-18:1] levels	344506	6	1639	3	2.126852317907619e-06	0.0031605025444107	12	0.026
+level3	Inguinal hernia	344506	2192	1639	61	2.310068474136158e-27	3.432761752566331e-24	99	0.2
+level3	Phosphatidylcholine_32:0_[M+H]1+/Phosphatidylethanolamine_35:0_[M+H]1+/Phosphatidate_37:1_[M+NH4]1+ levels	344506	40	1639	5	1.388090344366407e-06	0.0020627022517284	68	0.138
+level3	Killer cell immunoglobulin-like receptor 2DS2 levels (KIR2DS2.10428.1.3)	344506	6	1639	4	7.598583304105402e-09	1.1291494789900628e-05	52	0.106
+level3	Complement C4 levels (C4A.C4B.4481.34.2)	344506	27	1639	5	1.7927137225208666e-07	0.0002663972591666	9	0.02
+level3	Rheumatoid arthritis or multiple sclerosis	344506	53	1639	10	9.365947701134415e-14	1.391779828388574e-10	41	0.084
+level3	Triacylglycerol (50:2) [NL-18:2] levels	344506	7	1639	5	5.047202868658962e-11	7.500143462827218e-08	46	0.094
+level3	Rheumatoid arthritis or type 1 diabetes	344506	107	1639	8	5.54560005550845e-08	8.240761682485556e-05	24	0.05
+level3	Rheumatoid arthritis or irritable bowel disease	344506	86	1639	10	1.4758175380871593e-11	2.1930648615975187e-08	18	0.038
+level3	X-11441 levels	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	70	0.142
+level3	X-11442 levels	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	70	0.142
+level3	X-21796 levels	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	70	0.142
+level3	Cysteine-glutathione disulfide levels	344506	11	1639	6	5.201582758929097e-12	7.729551979768638e-09	20	0.042
+level3	Bilirubin levels in chronic kidney disease	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	68	0.138
+level3	Biliverdin levels in chronic kidney disease	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	68	0.138
+level3	Inflammatory bowel disease x sex interaction (2df)	344506	36	1639	6	1.981048052851561e-08	2.94383740653742e-05	36	0.074
+level3	Hypothyroidism or rheumatoid arthritis (pleiotropy)	344506	1035	1639	165	1.5380866679891027e-193	2.2855967886318063e-190	263	0.527
+level3	Seropositivity for aegilops tauschii (tausch's goatgrass) peptide (twist_22888)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	28	0.058
+level3	Seropositivity for aix galericulata (mandarin duck) peptide (twist_23200)	344506	11	1639	8	4.2038922873072325e-17	6.24698393893855e-14	67	0.136
+level3	Seropositivity for hordeum vulgare (barley) peptide (twist_15602)	344506	6	1639	6	1.1490338095845228e-14	1.7074642410426008e-11	22	0.046
+level3	Seropositivity for enterovirus peptide (agilent_6423)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	28	0.058
+level3	Seropositivity for human adenovirus 12 peptide (twist_43231)	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	14	0.03
+level3	Seropositivity for streptococcus agalactiae peptide (agilent_234887)	344506	20	1639	7	4.000378319543872e-12	5.9445621828421944e-09	85	0.172
+level3	Seropositivity for streptococcus pneumoniae peptide (twist_15509)	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	7	0.016
+level3	Seropositivity for streptococcus agalactiae peptide (agilent_241118)	344506	49	1639	9	2.1161751824793905e-12	3.144636321164374e-09	66	0.134
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_226736)	344506	7	1639	3	3.70874451078978e-06	0.0055111943430336	18	0.038
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_224401)	344506	14	1639	5	4.680177836966393e-09	6.95474426573206e-06	39	0.08
+level3	Seropositivity for gallus gallus ovomucoid precursor gallus peptide (twist_28164)	344506	7	1639	5	5.047202868658962e-11	7.500143462827218e-08	39	0.08
+level3	Seropositivity for gallus gallus ovomucoid precursor gallus peptide (twist_30726)	344506	11	1639	8	4.2038922873072325e-17	6.24698393893855e-14	48	0.098
+level3	Seropositivity for gallus gallus ovomucoid precursor gallus peptide (twist_1603)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	11	0.024
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_84757)	344506	21	1639	12	3.650126993678553e-23	5.424088712606331e-20	103	0.208
+level3	Seropositivity for root peptide (agilent_184788)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	66	0.134
+level3	Seropositivity for struthio camelus (ostrich) peptide (twist_5109)	344506	8	1639	6	3.191204916198397e-13	4.742130505470816e-10	64	0.13
+level3	Seropositivity for staphylococcus aureus subsp. aureus MW2 peptide (agilent_235512)	344506	14	1639	5	4.680177836966393e-09	6.95474426573206e-06	89	0.18
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_39688)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	7	0.016
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_180726)	344506	4	1639	4	5.104406266450047e-10	7.585147711944772e-07	73	0.148
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_205647)	344506	5	1639	4	2.542512968077675e-09	3.778174270563425e-06	15	0.032
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_90420)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	3	0.008
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_49012)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	3	0.008
+level3	Seropositivity for anser anser (greylag goose) peptide (twist_23199)	344506	9	1639	7	1.9445739689504817e-15	2.889636917860416e-12	66	0.134
+level3	Seropositivity for bacilli peptide (agilent_5601)	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	36	0.074
+level3	Seropositivity for enterobacteria phage peptide (twist_92147)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	58	0.118
+level3	Seropositivity for clostridiales peptide (agilent_68956)	344506	17	1639	11	3.29561750641772e-22	4.897287614536732e-19	104	0.21
+level3	Seropositivity for clostridium perfringens (agilent_167207)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	7	0.016
+level3	Seropositivity for faecalibacterium prausnitzii a2-165 peptide (agilent_194982)	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	58	0.118
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_236127)	344506	13	1639	6	1.916355766392249e-11	2.8477046688588823e-08	60	0.122
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_243958)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	14	0.03
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_220951)	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	10	0.022
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_220184)	344506	14	1639	4	4.918926979125618e-07	0.000730952549098	15	0.032
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_223641)	344506	11	1639	3	1.7236640412787005e-05	0.0256136476534014	20	0.042
+level3	Seropositivity for streptococcus pyogenes peptide (agilent_220658)	344506	50	1639	8	1.1606302169863048e-10	1.724696502441649e-07	62	0.126
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_229734)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	31	0.064
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_221864)	344506	7	1639	4	1.7662731675467007e-08	2.624681926974397e-05	11	0.024
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_229757)	344506	18	1639	8	1.082451023682976e-14	1.6085222211929025e-11	67	0.136
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_223825)	344506	11	1639	3	1.7236640412787005e-05	0.0256136476534014	12	0.026
+level3	Seropositivity for streptococcus pneumoniae peptide (agilent_223208)	344506	26	1639	8	3.736508890817207e-13	5.552452211754367e-10	61	0.124
+level3	Seropositivity for secale cereale (rye) peptide (twist_23370)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	3	0.008
+level3	Seropositivity for gallus peptide (twist_24274)	344506	7	1639	6	8.010556751522897e-14	1.1903687332763022e-10	64	0.13
+level3	Seropositivity for meleagris gallopavo (turkey) peptide (twist_3824)	344506	12	1639	8	1.2558610169587468e-16	1.8662094712006978e-13	45	0.092
+level3	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_46937)	344506	4	1639	4	5.104406266450047e-10	7.585147711944772e-07	45	0.092
+level3	Seropositivity for staphylococcaceae peptide (agilent_4825)	344506	15	1639	6	5.544071720657211e-11	8.238490576896616e-08	63	0.128
+level3	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_31240)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	33	0.068
+level3	Seropositivity for meleagris gallopavo (turkey) peptide (twist_1792)	344506	10	1639	7	6.4550481395168576e-15	9.592201535322052e-12	44	0.09
+level3	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_38776)	344506	7	1639	4	1.7662731675467007e-08	2.624681926974397e-05	26	0.054
+level3	Seropositivity for lactobacillus phage LFEINF peptide (twist_64023)	344506	18	1639	12	2.3357540767865072e-24	3.470930558104749e-21	107	0.216
+level3	Seropositivity for lactobacillus phage LFEINF peptide (twist_88894)	344506	18	1639	11	8.437740305994897e-22	1.2538482094708417e-18	104	0.21
+level3	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_26954)	344506	12	1639	7	4.2250933703917056e-14	6.278488748402074e-11	64	0.13
+level3	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_36361)	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	39	0.08
+level3	Seropositivity for human gammaherpesvirus 4 (Epstein-Barr virus) peptide (twist_53018)	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	36	0.074
+level3	Seropositivity for mycobacterium tuberculosis peptide (twist_52112)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	30	0.062
+level3	Seropositivity for mycobacterium tuberculosis peptide (agilent_10341)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	3	0.008
+level3	Seropositivity for bacteria peptide (agilent_240644)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	3	0.008
+level3	Seropositivity for human huntingtin peptide (twist_34234)	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	18	0.038
+level3	Seropositivity for human twist-related protein 1 peptide (twist_46270)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	3	0.008
+level3	Seropositivity (peptide co-occurrence module 21: plant thionins)	344506	8	1639	8	2.580251000814531e-19	3.8342529872103935e-16	35	0.072
+level3	Seropositivity for triticum aestivum wheat peptide (twist_41103)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	33	0.068
+level3	Seropositivity for triticum aestivum (common wheat) peptide (twist_14325)	344506	10	1639	9	1.21639848529956e-20	1.8075681491551465e-17	35	0.072
+level3	Seropositivity for triticum urartu (wild einkorn wheat) peptide (twist_11627)	344506	10	1639	7	6.4550481395168576e-15	9.592201535322052e-12	37	0.076
+level3	Seropositivity for triticum monococcum (einkorn wheat) peptide (twist_2100)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	28	0.058
+level3	Seropositivity for triticum urartu (wild einkorn wheat) peptide (twist_12614)	344506	4	1639	4	5.104406266450047e-10	7.585147711944772e-07	35	0.072
+level3	Seropositivity for streptococcus pyogenes peptide (agilent_241884)	344506	49	1639	8	9.790409498924811e-11	1.454854851540227e-07	62	0.126
+level3	Seropositivity (peptide co-occurrence module 13: ABC transporters , ATP-binding proteins)	344506	4	1639	3	4.284156883230797e-07	0.000636625712848	44	0.09
+level3	Seropositivity for staphylococcus aureus peptide (twist_46764)	344506	9	1639	3	8.83776248156492e-06	0.0131329150476054	40	0.082
+level3	Seropositivity for staphylococcus aureus peptide (twist_34337)	344506	9	1639	6	9.534723265718077e-13	1.4168598772857062e-09	60	0.122
+level3	Seropositivity for staphylococcus aureus peptide (twist_39975)	344506	9	1639	8	2.3124530971104172e-18	3.4363053023060795e-15	65	0.132
+level3	Seropositivity for staphylococcus aureus peptide (agilent_236148)	344506	3	1639	3	1.074867525194749e-07	0.0001597253142439	31	0.064
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_205649)	344506	6	1639	3	2.126852317907619e-06	0.0031605025444107	26	0.054
+level3	Seropositivity for staphylococcus aureus subsp. aureus MW2 peptide (agilent_237201)	344506	6	1639	4	7.598583304105402e-09	1.1291494789900628e-05	35	0.072
+level3	Seropositivity for staphylococcus aureus peptide (agilent_226247)	344506	15	1639	7	3.3903917228659043e-13	5.038122100178733e-10	62	0.126
+level3	Seropositivity for staphylococcus aureus peptide (agilent_222381)	344506	47	1639	8	6.884352008658276e-11	1.0230147084866201e-07	58	0.118
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_217424)	344506	5	1639	4	2.542512968077675e-09	3.778174270563425e-06	10	0.022
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_188119)	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	28	0.058
+level3	Seropositivity for staphylococcus aureus subsp. aureus MRSA252 peptide (agilent_204624)	344506	2	1639	2	2.2620413080016533e-05	0.0336139338369045	3	0.008
+level3	Seropositivity for staphylococcus aureus peptide (agilent_236333)	344506	12	1639	3	2.290048761967598e-05	0.0340301246028385	34	0.07
+level3	Seropositivity for staphylococcus aureus peptide (agilent_240086)	344506	5	1639	3	1.0672254515400991e-06	0.0015858970209885	37	0.076
+level3	Seropositivity for staphylococcus aureus peptide (agilent_222322)	344506	7	1639	6	8.010556751522897e-14	1.1903687332763022e-10	64	0.13
+level4	Nicotine metabolite ratio in current smokers	344506	20	915	4	2.315479349789877e-07	0.0002382628250933	39	0.08
+level4	Rheumatoid arthritis	344506	552	915	11	3.9213498749096347e-07	0.0004035069021282	92	0.186
+level4	Chronic hepatitis B infection	344506	19	915	3	1.7529867346558966e-05	0.0180382334996091	81	0.164
+level4	Total bilirubin levels in HIV-1 infection	344506	11	915	11	4.3684876765880857e-29	4.4951738192091406e-26	80	0.162
+level4	Bilirubin levels	344506	70	915	7	9.445772432654547e-10	9.719699833201529e-07	76	0.154
+level4	Thyroid cancer	344506	61	915	4	2.2872090808994927e-05	0.0235353814424557	104	0.21
+level4	IgG glycosylation patterns	344506	56	915	7	1.8873166286497816e-10	1.9420488108806252e-07	51	0.104
+level4	Serum bilirubin levels in metabolic syndrome	344506	22	915	6	2.484947368016335e-11	2.5570108416888088e-08	80	0.162
+level4	Bilirubin levels in tenofovir-treated HIV infection	344506	20	915	20	2.4768328154245655e-52	2.548660967071878e-49	80	0.162
+level4	Total bilirubin levels x insomnia interaction	344506	85	915	72	1.4327850475375968e-172	1.4743358139161868e-169	80	0.162
+level4	Direct bilirubin levels x insomnia interaction	344506	82	915	72	4.1789870229625963e-175	4.3001776466285127e-172	80	0.162
+level4	Bilirubin (z,z) levels	344506	16	915	5	5.573631694984386e-10	5.735267014138934e-07	80	0.162
+level4	X-16946 levels	344506	4	915	3	7.45501179393143e-08	7.671207135955442e-05	80	0.162
+level4	X-11530 levels	344506	4	915	4	4.9437136673247393e-11	5.0870813636771566e-08	80	0.162
+level4	X-24849 levels	344506	4	915	3	7.45501179393143e-08	7.671207135955442e-05	80	0.162
+level4	X-11522 levels	344506	4	915	4	4.9437136673247393e-11	5.0870813636771566e-08	80	0.162
+level4	X-21448 levels	344506	5	915	3	1.8600530061335882e-07	0.0001913994543311	80	0.162
+level4	Biliverdin levels	344506	9	915	3	1.550078321867382e-06	0.0015950305932015	79	0.16
+level4	Bilirubin (E,E) levels	344506	6	915	3	3.7127217817411146e-07	0.0003820390713411	80	0.162
+level4	Bilirubin (E,Z or Z,E) levels	344506	9	915	3	1.550078321867382e-06	0.0015950305932015	43	0.088
+level4	Peptidyl-prolyl cis-trans isomerase E levels	344506	9	915	6	2.88111266453324e-14	2.9646649318047036e-11	48	0.098
+level4	Killer cell immunoglobulin-like receptor 2DL5A levels (KIR2DL5A.8000.17.3)	344506	13	915	3	5.235898649263634e-06	0.0053877397100922	16	0.034
+level4	Androstenediol levels	344506	3	915	2	2.1102224476621785e-05	0.0217141889864438	27	0.056
+level4	X-11441 levels	344506	5	915	3	1.8600530061335882e-07	0.0001913994543311	80	0.162
+level4	X-11442 levels	344506	4	915	3	7.45501179393143e-08	7.671207135955442e-05	80	0.162
+level4	X-17357 levels	344506	14	915	3	6.65065737529019e-06	0.0068435264391736	23	0.048
+level4	X-18886 levels	344506	5	915	3	1.8600530061335882e-07	0.0001913994543311	25	0.052
+level4	N-acetyl-isoputreanine levels	344506	11	915	3	3.032728241182696e-06	0.0031206773601769	10	0.022
+level4	X-21796 levels	344506	5	915	3	1.8600530061335882e-07	0.0001913994543311	80	0.162
+level4	X-24020 levels	344506	9	915	3	1.550078321867382e-06	0.0015950305932015	10	0.022
+level4	Succinimide levels	344506	3	915	2	2.1102224476621785e-05	0.0217141889864438	54	0.11
+level4	Thyroxine levels	344506	18	915	3	1.4791303637369032e-05	0.0152202514428527	56	0.114
+level4	X-11880 levels	344506	9	915	3	1.550078321867382e-06	0.0015950305932015	43	0.088
+level4	Bilirubin levels in chronic kidney disease	344506	2	915	2	7.046524564181355e-06	0.0072508737765426	74	0.15
+level4	Biliverdin levels in chronic kidney disease	344506	2	915	2	7.046524564181355e-06	0.0072508737765426	74	0.15
+level4	X-23659 levels	344506	4	915	2	4.212989880472602e-05	0.043351665870063	5	0.012
+level4	Metabolite levels (N-acetyl-isoputreanine)	344506	3	915	2	2.1102224476621785e-05	0.0217141889864438	7	0.016
+level4	Hypothyroidism or rheumatoid arthritis (pleiotropy)	344506	1035	915	54	1.0035642769345414e-50	1.0326676409656432e-47	334	0.669
